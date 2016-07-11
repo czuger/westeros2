@@ -1,0 +1,8 @@
+%canvas#map{ width: 1692, height: 856 }
+
+
+
+
+= hidden_field_tag( :color_map, StaticDatas::Map.get_color_map.to_json )
+= hidden_field_tag( :hexagon_ray, 16 )
+= hidden_field_tag( :max_q, StaticDatas::Map::MAX_Q )
