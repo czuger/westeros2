@@ -32,7 +32,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'haml-rails'
 # gem 'quiet_assets'
-gem 'rhex'
+# gem 'rhex'
+gem 'rhex', path: '../rhex/'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -49,6 +50,7 @@ group :development do
 
   gem 'factory_girl_rails', '~> 4.0'
   gem 'rmagick'
+  gem 'msgpack'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

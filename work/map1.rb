@@ -2205,11 +2205,13 @@ COLORS={
 
 g = Hex::Grid.new( element_to_color_hash: COLORS )
 
+map1 = {}
+
 $map.each do |k, v|
-  g.cset( k[1], k[0], val: v )
+  map1[ [ k[1], k[0] ] ] = v
+  g.cset( k[1], k[0] , val: v )
 end
 
-g.to_pic( 'out.png' )
+g.to_pic( 'map1.png' )
 
-File.open( 'map.marshal', 'w' ){ |f| f.write( Marshal.dump( g ) ) }
-
+File.open( 'map1.marshal', 'w' ){ |f| f.write( Marshal.dump( map1 ) ) }
