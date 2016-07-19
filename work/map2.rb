@@ -20,6 +20,6 @@ map1.each do |k, v|
   g.cset( q, new_row, val: v )
 end
 
-g.to_pic( 'map2.png' )
+g.to_pic( 'map2.jpg' )
 
 File.open( 'hex_grid.marshal', 'w' ){ |f| f.write( Marshal.dump( g ) ) }
