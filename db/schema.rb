@@ -10,23 +10,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160708163143) do
+ActiveRecord::Schema.define(version: 20160719144102) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "g_game_board_pawns", force: :cascade do |t|
+  create_table "g_game_board_tokens", force: :cascade do |t|
     t.integer  "g_game_board_id"
-    t.integer  "q"
-    t.integer  "r"
-    t.integer  "mapple_type"
-    t.integer  "border_color"
-    t.integer  "inner_color_1"
-    t.integer  "inner_color_2"
+    t.integer  "q",               null: false
+    t.integer  "r",               null: false
+    t.integer  "top",             null: false
+    t.integer  "left",            null: false
+    t.string   "up_filename",     null: false
+    t.string   "down_filename",   null: false
+    t.string   "hover_data"
     t.datetime "created_at",      null: false
     t.datetime "updated_at",      null: false
-    t.index ["g_game_board_id"], name: "index_g_game_board_pawns_on_g_game_board_id", using: :btree
-    t.index ["id", "q", "r"], name: "index_g_game_board_pawns_on_id_and_q_and_r", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_g_game_board_tokens_on_g_game_board_id", using: :btree
+    t.index ["q", "r"], name: "index_g_game_board_tokens_on_q_and_r", unique: true, using: :btree
   end
 
   create_table "g_game_boards", force: :cascade do |t|
@@ -34,5 +35,5 @@ ActiveRecord::Schema.define(version: 20160708163143) do
     t.datetime "updated_at", null: false
   end
 
-  add_foreign_key "g_game_board_pawns", "g_game_boards"
+  add_foreign_key "g_game_board_tokens", "g_game_boards"
 end
