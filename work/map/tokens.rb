@@ -9,7 +9,7 @@ houses_colors = {}
 houses_colors[:stark] = 'white'
 houses_colors[:lannister] = 'red'
 houses_colors[:tully] = 'blue'
-houses_colors[:pyk] = 'black'
+houses_colors[:greyjoy] = 'black'
 houses_colors[:arryn] = 'cyan'
 houses_colors[:tyrell] = 'green'
 houses_colors[:baratheon] = 'yellow'
@@ -52,7 +52,7 @@ def draw_down_square_token( token_size, house, file_prefix, houses_colors )
   finalize_token( canvas, gc, file_prefix, house )
 end
 
-%w( stark lannister tully pyk arryn tyrell baratheon martell ).each do |house|
+%w( stark lannister tully greyjoy arryn tyrell baratheon martell ).each do |house|
   draw_round_token( token_size, 270+45, 90+45, house, 'ad', houses_colors )
   draw_round_token( token_size, 90+45 , 270+45, house, 'au', houses_colors )
   draw_up_square_token( token_size, house, 'cu', houses_colors )
