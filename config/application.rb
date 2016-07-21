@@ -14,5 +14,8 @@ module Westeros2
 
     config.sass.preferred_syntax = :sass
 
+    config.generators.stylesheets = false
+    config.generators.javascripts = false
+
   end
 end
