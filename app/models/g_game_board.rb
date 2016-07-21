@@ -3,19 +3,28 @@ class GGameBoard < ApplicationRecord
   has_many :g_game_board_tokens, dependent: :destroy
   has_many :g_game_board_players, dependent: :destroy
 
-  has_many :westeros_alliances_al_logs, :class_name => 'WesterosAlliances::AlLog', dependent: :destroy
+  has_many :westeros_alliances_al_logs, :class_name => 'Alliances::AlLog', dependent: :destroy
 
-  has_many :al_alliances, dependent: :destroy, class_name: 'WesterosAlliances::AlAlliance'
-  has_many :al_enemies, dependent: :destroy, class_name: 'WesterosAlliances::AlEnemy'
-  has_many :al_houses, dependent: :destroy, class_name: 'WesterosAlliances::AlHouse'
-  has_many :al_bets, dependent: :destroy, class_name: 'WesterosAlliances::AlBet'
+  has_many :al_alliances, dependent: :destroy, class_name: 'Alliances::AlAlliance'
+  has_many :al_enemies, dependent: :destroy, class_name: 'Alliances::AlEnemy'
+  has_many :al_houses, dependent: :destroy, class_name: 'Alliances::AlHouse'
+  has_many :al_bets, dependent: :destroy, class_name: 'Alliances::AlBet'
 
-  include WesterosAlliances::AlliancesEngine::GAlliancesBetEngine
-  include WesterosAlliances::AlliancesEngine::GAllianceCoreEngine
-  include WesterosAlliances::AlliancesEngine::GEnemiesCoreEngine
+  include Alliances::AlliancesEngine::GAlliancesBetEngine
+  include Alliances::AlliancesEngine::GAllianceCoreEngine
+  include Alliances::AlliancesEngine::GEnemiesCoreEngine
 
   DECAL_TOP=-3
   DECAL_LEFT=11
+
+  def next_turn
+    ActiveRecord::Base.transaction do
+      increment( :turn )
+      save!
+      resolve_bets
+      refresh_tokens
+    end
+  end
 
   def refresh_tokens
     ActiveRecord::Base.transaction do

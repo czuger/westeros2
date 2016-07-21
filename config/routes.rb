@@ -1,22 +1,16 @@
 Rails.application.routes.draw do
 
-  resources :game_boards
-  get 'game_board/show'
-
-  get 'game_board/new'
-
-  get 'game_board/create'
-
-    resources :game_board, only: [ :show ]  do
-      scope module: :alliances do
-        resources :bets, only: [ :new, :create ]
-        resource :alliances, only: [ :show ] do
-          get :log
-        end
+  resources :g_game_boards do
+    scope module: :alliances do
+      resources :bets, only: [ :new, :create ]
+      resource :alliances, only: [ :show ] do
+        get :log
       end
     end
+    get :next_turn
+  end
 
-  root 'map#show'
+  root 'g_game_boards#index'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end

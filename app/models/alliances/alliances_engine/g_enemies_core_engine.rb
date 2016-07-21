@@ -1,4 +1,4 @@
-module WesterosAlliances
+module Alliances
   module AlliancesEngine
     module GEnemiesCoreEngine
 

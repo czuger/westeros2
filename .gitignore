@@ -25,3 +25,5 @@
 *.marshal
 work/*.png
 work/*.jpg
+
+coverage

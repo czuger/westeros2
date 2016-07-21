@@ -1,4 +1,4 @@
-module MapHelper
+module GGameBoardsHelper
 
   private
 

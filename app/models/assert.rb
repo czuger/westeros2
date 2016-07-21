@@ -1,5 +1,13 @@
 module Assert
-  def assert(result, error_msg, mod, action)
-    raise "#{Time.now} - #{mod}##{action} : #{error_msg}" unless result
+
+  private
+
+  def assert( class_name, method_name, test, message )
+    raise "#{class_name}##{method_name} : #{message}" unless test
   end
+
+  def refute( class_name, method_name, test, message )
+    raise "#{class_name}##{method_name} : #{message}" if test
+  end
+
 end

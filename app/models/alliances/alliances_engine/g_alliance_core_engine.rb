@@ -1,4 +1,4 @@
-module WesterosAlliances
+module Alliances
   module AlliancesEngine
     module GAllianceCoreEngine
 
@@ -20,7 +20,7 @@ module WesterosAlliances
 
       # Return the master of the alliance (if any)
       def alliance_master( house )
-        al = WesterosAlliances::AlRelationship.joins( :westeros_alliances_al_houses )
+        al = Alliances::AlRelationship.joins( :westeros_alliances_al_houses )
                .where( 'al_houses.minor_alliance_member' => false ).find_by( h_peer_house_id: house.id )
 
         al&.h_house

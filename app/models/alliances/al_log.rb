@@ -1,4 +1,4 @@
-module WesterosAlliances
+module Alliances
   class AlLog < ActiveRecord::Base
 
     ALLIANCE_CREATION=1

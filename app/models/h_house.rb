@@ -6,8 +6,8 @@ class HHouse < ActiveRecord::Base
   has_many :vassals, class_name: HHouse, foreign_key: :h_suzerain_house_id
 
   # Caution : this is for all board / game_board_player
-  has_many :al_enemies, class_name: 'WesterosAlliances::AlEnemy'
-  has_many :al_alliances, class_name: 'WesterosAlliances::AlAlliance'
+  has_many :al_enemies, class_name: 'Alliances::AlEnemy'
+  has_many :al_alliances, class_name: 'Alliances::AlAlliance'
 
   def self.create_house_and_vassals( *code_names )
     houses = []

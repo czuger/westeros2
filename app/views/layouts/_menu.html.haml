@@ -1,7 +1,8 @@
-= link_to 'Show map', map_show_path( game_board_id: @game_board.id )
-|
-= link_to 'Alliances bets', new_game_board_bet_path( game_board_id: @game_board.id )
-|
-= link_to 'Alliances status', game_board_alliances_path( game_board_id: @game_board.id )
-| 
-= link_to 'Alliances log', log_game_board_alliances_path( game_board_id: @game_board.id )
+= link_to 'Game boards', g_game_boards_path
+- if @g_game_board&.id
+  |
+  = link_to 'Alliances bets', new_g_game_board_bet_path( g_game_board_id: @g_game_board.id )
+  |
+  = link_to 'Alliances status', g_game_board_alliances_path( g_game_board_id: @g_game_board.id )
+  | 
+  = link_to 'Alliances log', log_g_game_board_alliances_path( g_game_board_id: @g_game_board.id )

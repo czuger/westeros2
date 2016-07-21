@@ -1,4 +1,4 @@
-module WesterosAlliances
+module Alliances
   module AlliancesEngine
     module GAlliancesBetEngine
 
@@ -24,21 +24,21 @@ module WesterosAlliances
               if best_bet.bet < min_bet
 
                 westeros_alliances_al_logs.create!(
-                  g_game_board_id: id, log_code: WesterosAlliances::AlLog::BEST_BET_TOO_LOW,
+                  g_game_board_id: id, log_code: Alliances::AlLog::BEST_BET_TOO_LOW,
                   alliance_details: { best_bet: best_bet.bet, min_bet: min_bet, target_house: target_house.code_name,
                                       bet_detail: get_bet_details_as_hash(target_house)}, turn: turn)
 
               elsif second_best_bet && best_bet.bet == second_best_bet.bet
 
                 westeros_alliances_al_logs.create!(
-                  g_game_board_id: id, log_code: WesterosAlliances::AlLog::BEST_BET_EQUALITY,
+                  g_game_board_id: id, log_code: Alliances::AlLog::BEST_BET_EQUALITY,
                   alliance_details: { min_bet: min_bet, target_house: target_house.code_name,
                                       bet_detail: get_bet_details_as_hash(target_house)}, turn: turn)
               else
 
                   create_alliance( best_bet.h_house, best_bet.h_target_house, best_bet.bet )
                   westeros_alliances_al_logs.create!(
-                    g_game_board_id: id, log_code: WesterosAlliances::AlLog::ALLIANCE_CREATION,
+                    g_game_board_id: id, log_code: Alliances::AlLog::ALLIANCE_CREATION,
                     alliance_details: { best_bet: best_bet.bet, min_bet: min_bet, winning_house: best_bet.h_house.code_name,
                     target_house: target_house.code_name, bet_detail: get_bet_details_as_hash( target_house ) }, turn: turn )
 

@@ -1,7 +1,7 @@
 require 'active_record'
 
 # This is a temporary model designed to store bet for an alliance request
-module WesterosAlliances
+module Alliances
   class AlBet < ActiveRecord::Base
 
     belongs_to :h_house

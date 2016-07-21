@@ -1,13 +1,13 @@
 module Alliances
   class AlliancesController < ApplicationController
 
+    before_action :set_g_game_board_from_game_board_id, only: [:show, :log]
+
     def log
-      @gb = GGameBoard.find( params[ :game_board_id ] )
-      @logs = @gb.westeros_alliances_al_logs.order( 'updated_at DESC' )
+      @logs = @g_game_board.westeros_alliances_al_logs.order( 'updated_at DESC' )
     end
 
     def show
-      @gb = GGameBoard.find( params[ :game_board_id ] )
       @suzerains = HHouse.suzerains.order( :id )
 
       @suzerains_names = @suzerains.map(&:code_name)
@@ -28,9 +28,9 @@ module Alliances
     def alliance_status_code( suzerain_a, suzerain_b )
       if suzerain_a == suzerain_b
         return :same
-      elsif @gb.allied?( suzerain_a, suzerain_b )
+      elsif @g_game_board.allied?( suzerain_a, suzerain_b )
         return :allied
-      elsif @gb.enemies?( suzerain_a, suzerain_b )
+      elsif @g_game_board.enemies?( suzerain_a, suzerain_b )
         return :enemies
       end
       :neutral
