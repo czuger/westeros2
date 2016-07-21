@@ -14,6 +14,7 @@ class GGameBoardsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get show" do
+    @g_game_board.refresh_tokens
     get g_game_board_url( @g_game_board )
     assert_response :success
   end

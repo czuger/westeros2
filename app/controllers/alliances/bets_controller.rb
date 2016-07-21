@@ -7,7 +7,7 @@ module Alliances
       @asking_house = HHouse.first
       @bets = {}
 
-      @al_houses = @g_game_board.al_houses.joins( :h_house ).where( 'h_houses.h_suzerain_house_id' => nil )
+      @g_houses = @g_game_board.g_houses.joins( :h_house ).merge( HHouse.suzerains )
 
       # First we load the last bets for houses
       # @al_houses.each do |asking_al_house|

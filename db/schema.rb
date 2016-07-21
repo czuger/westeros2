@@ -10,10 +10,22 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160720144656) do
+ActiveRecord::Schema.define(version: 20160721135821) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "al_alliance_masters", force: :cascade do |t|
+    t.integer  "g_game_board_id",   null: false
+    t.integer  "h_house_id",        null: false
+    t.integer  "h_house_master_id", null: false
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
+    t.index ["g_game_board_id", "h_house_id"], name: "index_al_alliance_masters_on_g_game_board_id_and_h_house_id", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_al_alliance_masters_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_al_alliance_masters_on_h_house_id", using: :btree
+    t.index ["h_house_master_id"], name: "index_al_alliance_masters_on_h_house_master_id", using: :btree
+  end
 
   create_table "al_bets", force: :cascade do |t|
     t.integer  "g_game_board_id",               null: false
@@ -23,6 +35,9 @@ ActiveRecord::Schema.define(version: 20160720144656) do
     t.datetime "created_at",                    null: false
     t.datetime "updated_at",                    null: false
     t.index ["g_game_board_id", "h_house_id", "h_target_house_id"], name: "al_bets_unique_index", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_al_bets_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_al_bets_on_h_house_id", using: :btree
+    t.index ["h_target_house_id"], name: "index_al_bets_on_h_target_house_id", using: :btree
   end
 
   create_table "al_houses", force: :cascade do |t|
@@ -33,6 +48,8 @@ ActiveRecord::Schema.define(version: 20160720144656) do
     t.datetime "created_at",                           null: false
     t.datetime "updated_at",                           null: false
     t.index ["g_game_board_id", "h_house_id"], name: "al_houses_unique_index", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_al_houses_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_al_houses_on_h_house_id", using: :btree
   end
 
   create_table "al_logs", force: :cascade do |t|
@@ -53,6 +70,9 @@ ActiveRecord::Schema.define(version: 20160720144656) do
     t.datetime "created_at",      null: false
     t.datetime "updated_at",      null: false
     t.index ["g_game_board_id", "h_house_id", "h_peer_house_id"], name: "al_relationships_unique_index", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_al_relationships_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_al_relationships_on_h_house_id", using: :btree
+    t.index ["h_peer_house_id"], name: "index_al_relationships_on_h_peer_house_id", using: :btree
     t.index ["type"], name: "index_al_relationships_on_type", using: :btree
   end
 
@@ -95,6 +115,16 @@ ActiveRecord::Schema.define(version: 20160720144656) do
     t.datetime "updated_at",             null: false
   end
 
+  create_table "g_houses", force: :cascade do |t|
+    t.integer  "g_game_board_id"
+    t.integer  "h_house_id"
+    t.boolean  "major_house",     null: false
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
+    t.index ["g_game_board_id"], name: "index_g_houses_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_g_houses_on_h_house_id", using: :btree
+  end
+
   create_table "h_houses", force: :cascade do |t|
     t.string   "code_name",           null: false
     t.integer  "h_suzerain_house_id"
@@ -104,6 +134,9 @@ ActiveRecord::Schema.define(version: 20160720144656) do
     t.index ["h_suzerain_house_id"], name: "index_h_houses_on_h_suzerain_house_id", using: :btree
   end
 
+  add_foreign_key "al_alliance_masters", "g_game_boards"
+  add_foreign_key "al_alliance_masters", "h_houses"
+  add_foreign_key "al_alliance_masters", "h_houses", column: "h_house_master_id"
   add_foreign_key "al_bets", "g_game_boards"
   add_foreign_key "al_bets", "h_houses"
   add_foreign_key "al_bets", "h_houses", column: "h_target_house_id"
@@ -116,5 +149,7 @@ ActiveRecord::Schema.define(version: 20160720144656) do
   add_foreign_key "c_cities", "h_houses"
   add_foreign_key "g_game_board_players", "g_game_boards"
   add_foreign_key "g_game_board_tokens", "g_game_boards"
+  add_foreign_key "g_houses", "g_game_boards"
+  add_foreign_key "g_houses", "h_houses"
   add_foreign_key "h_houses", "h_houses", column: "h_suzerain_house_id"
 end

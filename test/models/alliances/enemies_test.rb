@@ -13,12 +13,16 @@ class EnemiesTest < ActiveSupport::TestCase
     @lannister, @cendermark = HHouse.create_house_and_vassals( :lannister, :cendermark )
     @greyjoy, @pyk = HHouse.create_house_and_vassals( :greyjoy, :pyk )
     @tyrell, @tarly = HHouse.create_house_and_vassals( :tyrell, :tarly )
+
+    @gb.declare_major_houses( @stark, @lannister )
   end
 
   def test_ennemies_list
     @gb.set_enemies( @stark, @greyjoy )
     @gb2 = GGameBoard.create!
+    @gb.declare_major_houses( @stark )
     @gb2.set_enemies( @stark, @lannister )
+    @gb.declare_major_houses( @stark )
     @gb2.create_alliance( @stark, @greyjoy, 1 )
     assert_includes( @gb.enemies( @stark ).pluck( :id ), @greyjoy.id )
     assert_includes( @gb.enemies( @stark ).pluck( :id ), @pyk.id )

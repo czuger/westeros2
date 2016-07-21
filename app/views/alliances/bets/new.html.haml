@@ -5,11 +5,11 @@
 
   %table
     - checked = true
-    - @al_houses.each do |al_house|
+    - @g_houses.each do |g_house|
       %tr
-        %td= ( radio_button_tag( 'asking_house_id', al_house.h_house_id, checked ) unless al_house.minor_alliance_member )
-        %td= al_house.h_house.code_name
-        %td= ( number_field_tag( "houses_bets[#{al_house.h_house_id}]", current_bet( al_house ), class: :house_bets_inputs ) if al_house.minor_alliance_member )
+        %td= ( radio_button_tag( 'asking_house_id', g_house.h_house_id, checked ) if g_house.major_house )
+        %td= g_house.h_house.code_name
+        %td= ( number_field_tag( "houses_bets[#{g_house.h_house_id}]", current_bet( g_house ), class: :house_bets_inputs ) unless g_house.major_house )
       - checked = false
 
   = submit_tag :submit

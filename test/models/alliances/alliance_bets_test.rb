@@ -13,6 +13,9 @@ class AllianceBetsTest < ActiveSupport::TestCase
     @lannister, @cendermark = HHouse.create_house_and_vassals( :lannister, :cendermark )
     @greyjoy, @pyk = HHouse.create_house_and_vassals( :greyjoy, :pyk )
     @tyrell, @tarly = HHouse.create_house_and_vassals( :tyrell, :tarly )
+
+    @gb.declare_major_houses( @stark, @greyjoy )
+
   end
 
   # def test_alliances_group

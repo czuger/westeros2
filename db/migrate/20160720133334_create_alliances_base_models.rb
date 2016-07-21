@@ -1,5 +1,4 @@
-# This migration comes from westeros_alliances (originally 20160506094209)
-class WesterosAlliancesBaseModels < ActiveRecord::Migration
+class CreateAlliancesBaseModels < ActiveRecord::Migration[5.0]
   def change
 
     # create_table :g_game_boards do |t|

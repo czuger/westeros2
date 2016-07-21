@@ -35,14 +35,20 @@ class GGameBoardsController < ApplicationController
     @g_game_board = GGameBoard.new(g_game_board_params)
 
     # By default : stark vs lannister
-    stark = HHouse.find_by_code_name( :stark )
-    lannister = HHouse.find_by_code_name( :lannister )
-
-    @g_game_board.set_alliance_negotiation_rights( stark, true )
-    @g_game_board.set_alliance_negotiation_rights( lannister, true )
+    major_houses_code_name = %w( stark lannister )
 
     respond_to do |format|
       if @g_game_board.save
+        HHouse.suzerains.each do |house|
+          if major_houses_code_name.include?( house.code_name )
+            @g_game_board.declare_major_houses( house )
+          else
+            @g_game_board.declare_minor_houses( house )
+          end
+        end
+
+        @g_game_board.refresh_tokens
+
         format.html { redirect_to @g_game_board, notice: 'G game board was successfully created.' }
         format.json { render :show, status: :created, location: @g_game_board }
       else

@@ -14,6 +14,8 @@ module Alliances
       @lannister, @cendermark = HHouse.create_house_and_vassals( :lannister, :cendermark )
       @greyjoy, @pyk = HHouse.create_house_and_vassals( :greyjoy, :pyk )
       @tyrell, @tarly = HHouse.create_house_and_vassals( :tyrell, :tarly )
+
+      @gb.declare_major_houses( @stark, @lannister, @greyjoy, @tyrell )
     end
 
     test 'Alliance stealing' do
@@ -27,8 +29,6 @@ module Alliances
 
       assert_equal Alliances::AlLog::ALLIANCE_CREATION, log.log_code
       assert_equal 20, log[ :alliance_details ][ :best_bet ]
-
-      pp log
     end
 
     test 'Test too low bet' do
@@ -41,7 +41,7 @@ module Alliances
       log = Alliances::AlLog.first
 
       assert_equal Alliances::AlLog::BEST_BET_TOO_LOW, log.log_code
-      refute log[ :alliance_details ][ :best_bet ]
+      assert_equal 20, log[ :alliance_details ][ :best_bet ]
     end
 
 

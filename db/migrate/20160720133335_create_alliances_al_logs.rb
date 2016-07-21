@@ -1,5 +1,4 @@
-# This migration comes from westeros_alliances (originally 20160518094932)
-class CreateWesterosAlliancesAlLogs < ActiveRecord::Migration
+class CreateAlliancesAlLogs < ActiveRecord::Migration[5.0]
   def change
     create_table :al_logs do |t|
       t.references :g_game_board, index: true, foreign_key: true, null: false

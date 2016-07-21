@@ -3,8 +3,8 @@ module Alliances
     module GAllianceCoreEngine
 
       # True if two houses are allied
-      def allied?( house_a, house_b )
-        al_alliances.where( h_house_id: house_a.id, h_peer_house_id: house_b.id ).exists?
+      def allied?( master_house, minor_house )
+        al_alliances.where( h_house_id: master_house.id, h_peer_house_id: minor_house.id ).exists?
       end
 
       # Synonym for alliance_members
@@ -20,10 +20,8 @@ module Alliances
 
       # Return the master of the alliance (if any)
       def alliance_master( house )
-        al = Alliances::AlRelationship.joins( :westeros_alliances_al_houses )
-               .where( 'al_houses.minor_alliance_member' => false ).find_by( h_peer_house_id: house.id )
-
-        al&.h_house
+        al = al_alliance_masters.where( h_house_id: house.id ).first
+        HHouse.find( al.h_house_master_id ) if al
       end
 
       # Check if a house is a minor alliance member
@@ -33,20 +31,13 @@ module Alliances
         al_house&.minor_alliance_member
       end
 
-      # Set if an alliance master can initiate alliance negotiations (a player) or not (a NPC)
-      def set_alliance_negotiation_rights( house, negotiation_rights, game_board_player = nil )
-        al_house = al_houses.where( h_house_id: house.id ).first_or_initialize
-        al_house.minor_alliance_member = !negotiation_rights
-        al_house.save!
-      end
-
       # Create an alliance between two houses
       def
-      create_alliance( house_a, house_b, last_bet )
-        can_negotiate?( house_a, house_b )
+      create_alliance( master_house, minor_house, last_bet )
+        can_negotiate?( master_house, minor_house )
 
-        minor_allies = ( [ house_b ] + house_b.vassals ).uniq
-        all_allies = ( [ house_a ] + house_a.vassals + alliance_members( house_a ) + minor_allies ).uniq
+        minor_allies = ( [ minor_house ] + minor_house.vassals ).uniq
+        all_allies = ( [ master_house ] + master_house.vassals + alliance_members( master_house ) + minor_allies ).uniq
 
         ActiveRecord::Base.transaction do
 
@@ -79,13 +70,20 @@ module Alliances
             end
           end
 
+          # We will recreate the alliance_master table
+          al_alliance_masters.delete_all
+          all_allies.each do |ally|
+            al_alliance_masters.where( h_house_id: ally.id, h_house_master_id: master_house.id ).first_or_create!
+          end
+
           # And create the news one
           minor_allies_ids.each do |minor_ally_id|
-            enemies( house_a ).pluck( :id ).each do |house_a_enemy_id|
-              al_enemies.where( h_house_id: minor_ally_id, h_peer_house_id: house_a_enemy_id ).first_or_create!
-              al_enemies.where( h_house_id: house_a_enemy_id, h_peer_house_id: minor_ally_id ).first_or_create!
+            enemies( master_house ).pluck( :id ).each do |master_house_enemy_id|
+              al_enemies.where( h_house_id: minor_ally_id, h_peer_house_id: master_house_enemy_id ).first_or_create!
+              al_enemies.where( h_house_id: master_house_enemy_id, h_peer_house_id: minor_ally_id ).first_or_create!
             end
           end
+
         end
       end
 
@@ -93,12 +91,22 @@ module Alliances
 
       # Only master houses can negociate
       # Input : two houses of houses
-      def can_negotiate?( house_a, house_b )
-        [ house_a, house_b ].each do |h|
+      def can_negotiate?( master_house, minor_house )
+        [ master_house, minor_house ].each do |h|
           raise "#{self.class}##{__method__} : #{h.inspect} not suzerain" if h.vassal?
         end
 
-        raise "#{self.class}##{__method__} : #{house_a.inspect} minor alliance member" if minor_alliance_member?( house_a )
+        if minor_alliance_member?( master_house )
+          al_house = al_houses.where( h_house_id: master_house.id )
+          raise "#{self.class}##{__method__} : Minor alliance member - #{al_house.to_a.inspect}, #{master_house.inspect}"
+        end
+
+        unless major_house?( master_house )
+          al_house = al_houses.where( h_house_id: master_house.id )
+          raise "#{self.class}##{__method__} : Not a major house : #{al_house.to_a.inspect}, #{master_house.inspect} "
+        end
+
+
       end
 
     end

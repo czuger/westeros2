@@ -5,7 +5,10 @@ module Alliances
 
     setup do
       @gb = FactoryGirl.create( :g_game_board )
-      @house = FactoryGirl.create( :stark )
+      @stark = FactoryGirl.create( :stark )
+      @lannister = FactoryGirl.create( :lannister )
+      @gb.declare_major_houses( @stark )
+      @gb.declare_minor_houses( @lannister )
     end
 
     # test "should get show" do
@@ -19,8 +22,11 @@ module Alliances
     end
 
     test "should get create" do
-      post :create, params: { g_game_board_id: @gb.id, asking_house_id: @house.id, houses_bets: { @house.id => 15 } }
+      post :create, params: { g_game_board_id: @gb.id, asking_house_id: @stark.id, houses_bets: { @lannister.id => 14 } }
       assert_redirected_to new_g_game_board_bet_path
+
+      get :new, params: { g_game_board_id: @gb.id }
+      assert_response :success
     end
 
   end

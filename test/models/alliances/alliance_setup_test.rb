@@ -15,6 +15,8 @@ class AllianceSetupTest < ActiveSupport::TestCase
     @greyjoy, @pyk = HHouse.create_house_and_vassals( :greyjoy, :pyk )
     @tyrell, @tarly = HHouse.create_house_and_vassals( :tyrell, :tarly )
 
+    @gb.declare_major_houses( @stark, @lannister, @greyjoy, @tyrell )
+
     # pp HHouse.all.to_a
   end
 
@@ -34,6 +36,7 @@ class AllianceSetupTest < ActiveSupport::TestCase
   def test_allies_list
     @gb.create_alliance( @stark, @greyjoy, 1 )
     @gb2 = GGameBoard.create!
+    @gb2.declare_major_houses( @stark )
     @gb2.set_enemies( @stark, @lannister )
     @gb2.create_alliance( @stark, @greyjoy, 1 )
     assert_includes( @gb.allies( @stark ).pluck( :id ), @greyjoy.id )
