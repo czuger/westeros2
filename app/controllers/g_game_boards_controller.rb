@@ -50,10 +50,8 @@ class GGameBoardsController < ApplicationController
         @g_game_board.refresh_tokens
 
         format.html { redirect_to @g_game_board, notice: 'G game board was successfully created.' }
-        format.json { render :show, status: :created, location: @g_game_board }
       else
         format.html { render :new }
-        format.json { render json: @g_game_board.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -64,10 +62,8 @@ class GGameBoardsController < ApplicationController
     respond_to do |format|
       if @g_game_board.update(g_game_board_params)
         format.html { redirect_to @g_game_board, notice: 'G game board was successfully updated.' }
-        format.json { render :show, status: :ok, location: @g_game_board }
       else
         format.html { render :edit }
-        format.json { render json: @g_game_board.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -78,7 +74,6 @@ class GGameBoardsController < ApplicationController
     @g_game_board.destroy
     respond_to do |format|
       format.html { redirect_to g_game_boards_url, notice: 'G game board was successfully destroyed.' }
-      format.json { head :no_content }
     end
   end
 

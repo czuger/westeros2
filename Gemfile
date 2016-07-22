@@ -35,6 +35,9 @@ gem 'haml-rails'
 # gem 'rhex'
 gem 'rhex', path: '../rhex/'
 
+# To be removed when the deprecation warning issue will be solved (https://github.com/rails/sass-rails/issues/381)
+gem 'sprockets', '3.6.3'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri

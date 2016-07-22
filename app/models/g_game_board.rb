@@ -1,6 +1,8 @@
 class GGameBoard < ApplicationRecord
 
-  has_many :g_game_board_tokens, dependent: :destroy
+  has_many :g_game_board_tokens, dependent: :destroy, class_name: 'Tokens::GGameBoardToken'
+  has_many :g_game_board_tokens_cities, dependent: :destroy, class_name: 'Tokens::City'
+
   has_many :g_game_board_players, dependent: :destroy
 
   has_many :westeros_alliances_al_logs, :class_name => 'Alliances::AlLog', dependent: :destroy
@@ -17,7 +19,7 @@ class GGameBoard < ApplicationRecord
   include Alliances::AlliancesEngine::GAllianceCoreEngine
   include Alliances::AlliancesEngine::GEnemiesCoreEngine
 
-  include Tokens::Cities
+  include Tokens::RefreshCities
   include Misc::GameBoardHouse
 
   def next_turn

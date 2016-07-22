@@ -6,5 +6,8 @@ FactoryGirl.define do
     factory :lannister do
       code_name :lannister
     end
+    factory :greyjoy do
+      code_name :greyjoy
+    end
   end
 end

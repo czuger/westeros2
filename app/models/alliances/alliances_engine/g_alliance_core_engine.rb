@@ -32,8 +32,7 @@ module Alliances
       end
 
       # Create an alliance between two houses
-      def
-      create_alliance( master_house, minor_house, last_bet )
+      def create_alliance( master_house, minor_house, last_bet )
         can_negotiate?( master_house, minor_house )
 
         minor_allies = ( [ minor_house ] + minor_house.vassals ).uniq

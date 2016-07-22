@@ -13,7 +13,11 @@ module GGameBoardsHelper
   def put_token( token, filename )
     top = token.top
     left = token.left
-    image_tag "tokens/#{filename}", class: :token, style: "left: #{left}px; top: #{top}px;"
+
+    token_classes = [ :token ]
+    extra_params = {}
+
+    image_tag "tokens/#{filename}", class: token_classes, style: "left: #{left}px; top: #{top}px;", extra_params: extra_params.to_json
   end
 
 end

@@ -1,5 +1,5 @@
 module Tokens
-  module Cities
+  module RefreshCities
 
     DECAL_TOP=-11
     DECAL_LEFT=4
@@ -27,8 +27,9 @@ module Tokens
         t_up_fn = 'cu_' + house_name[ 0..1 ] + '.png'
         t_down_fn = 'cd_' + master_alliance_name[ 0..1 ] + '.png'
 
-        g_game_board_tokens.create!(
-          q: city.q, r: city.r, left: coords[0]+DECAL_LEFT, top: coords[1]+DECAL_TOP, up_filename: t_up_fn, down_filename: t_down_fn )
+        g_game_board_tokens_cities.create!(
+          q: city.q, r: city.r, left: coords[0]+DECAL_LEFT, top: coords[1]+DECAL_TOP,
+          up_filename: t_up_fn, down_filename: t_down_fn )
       end
     end
   end
