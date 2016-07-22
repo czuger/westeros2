@@ -1,7 +1,7 @@
 # Place all the behaviors and hooks related to the matching controller here.
 # All this logic will automatically be available in application.js.
 
-$(document).ready ->
+set_bets_reactivity = ->
   $("input[name=asking_house_id]:radio").change ->
     asking_house_id = $('input[name=asking_house_id]:checked').val()
 #    console.log( asking_house_id )
@@ -19,3 +19,4 @@ $(document).ready ->
       if bet > 0
         $( "#houses_bets_#{house_id}" ).val( "#{bet}" )
 
+$(document).on('turbolinks:load', set_bets_reactivity )

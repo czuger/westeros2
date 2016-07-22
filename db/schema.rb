@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160722092709) do
+ActiveRecord::Schema.define(version: 20160722131024) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -96,18 +96,18 @@ ActiveRecord::Schema.define(version: 20160722092709) do
 
   create_table "g_game_board_tokens", force: :cascade do |t|
     t.integer  "g_game_board_id"
-    t.integer  "q",               null: false
-    t.integer  "r",               null: false
-    t.integer  "top",             null: false
-    t.integer  "left",            null: false
-    t.string   "up_filename",     null: false
-    t.string   "down_filename",   null: false
+    t.integer  "q",                null: false
+    t.integer  "r",                null: false
+    t.integer  "top",              null: false
+    t.integer  "left",             null: false
+    t.string   "up_filename",      null: false
+    t.string   "down_filename",    null: false
     t.string   "hover_data"
-    t.datetime "created_at",      null: false
-    t.datetime "updated_at",      null: false
-    t.string   "type",            null: false
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
+    t.string   "type",             null: false
+    t.string   "extra_parameters"
     t.index ["g_game_board_id"], name: "index_g_game_board_tokens_on_g_game_board_id", using: :btree
-    t.index ["q", "r"], name: "index_g_game_board_tokens_on_q_and_r", unique: true, using: :btree
   end
 
   create_table "g_game_boards", force: :cascade do |t|

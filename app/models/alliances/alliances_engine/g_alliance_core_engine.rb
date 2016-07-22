@@ -70,9 +70,11 @@ module Alliances
           end
 
           # We will recreate the alliance_master table
-          al_alliance_masters.delete_all
           all_allies.each do |ally|
-            al_alliance_masters.where( h_house_id: ally.id, h_house_master_id: master_house.id ).first_or_create!
+            al_alliance_masters.where( h_house_id: ally.id ).first_or_initialize do |a|
+              a.h_house_master_id = master_house.id
+              a.save!
+            end
           end
 
           # And create the news one

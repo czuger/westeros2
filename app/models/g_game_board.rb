@@ -2,6 +2,7 @@ class GGameBoard < ApplicationRecord
 
   has_many :g_game_board_tokens, dependent: :destroy, class_name: 'Tokens::GGameBoardToken'
   has_many :g_game_board_tokens_cities, dependent: :destroy, class_name: 'Tokens::City'
+  has_many :g_game_board_tokens_phantom_armies, dependent: :destroy, class_name: 'Tokens::PhantomArmy'
 
   has_many :g_game_board_players, dependent: :destroy
 
