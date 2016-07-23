@@ -2,8 +2,11 @@
   = image_tag 'map.png', id: 'map-img'
 
   - @tokens.each do |token|
-    = up_token( token )
-    = down_token( token )
-    -#.token{ style: "left: #{5}px; top: #{5}px;" }
-    -#  1
+
+    - top = token.top
+    - left = token.left
+
+    %div{ id: token.id, class: [ :token ] + token.token_classes, style: "left: #{left}px; top: #{top}px;", extra_params: token.extra_params.to_json }
+      = up_token( token )
+      = down_token( token )
 
