@@ -16,7 +16,7 @@ module GGameBoardsHelper
 
     token_classes = [ :token ] + token.token_classes
 
-    image_tag "tokens/#{filename}", class: token_classes, style: "left: #{left}px; top: #{top}px;", extra_params: token.extra_params.to_json
+    image_tag "tokens/#{filename}", id: filename.gsub( '.', '_' ) + '_' + token.id.to_s, class: token_classes, style: "left: #{left}px; top: #{top}px;", extra_params: token.extra_params.to_json
   end
 
 end

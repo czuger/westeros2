@@ -3,7 +3,7 @@ module Tokens
 
     def token_classes
       ep = extra_parameters
-      [ :hidden_token, "phantom_army_for_city_#{ep[:city_id]}", :phantom_token ]
+      [ "phantom_army_for_city_#{ep[:city_id]}", :phantom_token, :recruit_army ]
     end
 
   end
