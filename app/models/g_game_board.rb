@@ -34,7 +34,9 @@ class GGameBoard < ApplicationRecord
 
   def refresh_tokens
     ActiveRecord::Base.transaction do
+      g_game_board_tokens.delete_all
       refresh_cities
+      refresh_phantom_armies
     end
   end
 
