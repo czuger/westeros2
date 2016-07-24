@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160722131024) do
+ActiveRecord::Schema.define(version: 20160724181428) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -87,6 +87,22 @@ ActiveRecord::Schema.define(version: 20160722131024) do
     t.index ["q", "r"], name: "index_c_cities_on_q_and_r", unique: true, using: :btree
   end
 
+  create_table "g_armies", force: :cascade do |t|
+    t.integer  "g_game_board_id"
+    t.integer  "h_house_id"
+    t.string   "type"
+    t.string   "code_name"
+    t.integer  "q"
+    t.integer  "r"
+    t.integer  "nb_banners"
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
+    t.index ["g_game_board_id", "q", "r"], name: "index_g_armies_on_g_game_board_id_and_q_and_r", unique: true, using: :btree
+    t.index ["g_game_board_id"], name: "index_g_armies_on_g_game_board_id", using: :btree
+    t.index ["h_house_id"], name: "index_g_armies_on_h_house_id", using: :btree
+    t.index ["type"], name: "index_g_armies_on_type", using: :btree
+  end
+
   create_table "g_game_board_players", force: :cascade do |t|
     t.integer  "g_game_board_id", null: false
     t.datetime "created_at",      null: false
@@ -148,6 +164,8 @@ ActiveRecord::Schema.define(version: 20160722131024) do
   add_foreign_key "al_relationships", "h_houses"
   add_foreign_key "al_relationships", "h_houses", column: "h_peer_house_id"
   add_foreign_key "c_cities", "h_houses"
+  add_foreign_key "g_armies", "g_game_boards"
+  add_foreign_key "g_armies", "h_houses"
   add_foreign_key "g_game_board_players", "g_game_boards"
   add_foreign_key "g_game_board_tokens", "g_game_boards"
   add_foreign_key "g_houses", "g_game_boards"
