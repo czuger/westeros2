@@ -28,7 +28,10 @@ module Tokens
         g_game_board_tokens_cities.create!(
           q: city.q, r: city.r, left: coords[0]+DECAL_LEFT, top: coords[1]+DECAL_TOP,
           up_filename: city_token_up_fn, down_filename: city_token_down_fn,
-          extra_parameters: { city_id: city.id, mh_id: master_house.id, amh_id: alliance_master_house.id }  )
+          extra_parameters:
+            { city_id: city.id, mh_id: master_house.id, amh_id: alliance_master_house.id,
+              h_id: city.h_house.id }
+          )
       end
     end
 
@@ -58,7 +61,8 @@ module Tokens
           g_game_board_tokens_phantom_armies.create!(
             q: shex.q, r: shex.r, left: coords[0]+DECAL_LEFT, top: coords[1]+DECAL_TOP,
             up_filename: phantom_army_token_up_fn, down_filename: phantom_army_token_down_fn,
-            extra_parameters: { city_id: token.extra_parameters[ :city_id ] } )
+            extra_parameters: { city_id: token.extra_parameters[ :city_id ],
+                                h_id: token.extra_parameters[ :h_id ]} )
         end
       end
     end

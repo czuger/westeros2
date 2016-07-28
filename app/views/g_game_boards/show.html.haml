@@ -6,7 +6,9 @@
     - top = token.top
     - left = token.left
 
-    %div{ id: token.id, class: [ :token ] + token.token_classes, style: "left: #{left}px; top: #{top}px;", extra_params: token.extra_params.to_json }
+    %div{ id: token.id, class: [ :token ] + token.token_classes,
+      style: "left: #{left}px; top: #{top}px;", extra_params: token.extra_params.to_json, q: token.q, r: token.r }
       = up_token( token )
       = down_token( token )
 
+= hidden_field_tag :g_game_board_id, @g_game_board.id

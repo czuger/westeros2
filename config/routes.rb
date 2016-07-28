@@ -8,6 +8,7 @@ Rails.application.routes.draw do
       end
     end
     get :next_turn
+    resources :g_armies_hiring, only: [ :create ]
   end
 
   root 'g_game_boards#index'
