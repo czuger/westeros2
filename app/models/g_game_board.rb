@@ -4,6 +4,9 @@ class GGameBoard < ApplicationRecord
   has_many :g_game_board_tokens_cities, dependent: :destroy, class_name: 'Tokens::City'
   has_many :g_game_board_tokens_phantom_armies, dependent: :destroy, class_name: 'Tokens::PhantomArmy'
 
+  has_many :g_game_board_armies, dependent: :destroy, class_name: 'Armies::GArmy'
+  has_many :g_game_board_armies_to_recruit, dependent: :destroy, class_name: 'Armies::ToRecruit'
+
   has_many :g_game_board_players, dependent: :destroy
 
   has_many :westeros_alliances_al_logs, :class_name => 'Alliances::AlLog', dependent: :destroy
