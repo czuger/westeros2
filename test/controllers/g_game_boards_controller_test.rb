@@ -1,6 +1,7 @@
 require 'test_helper'
 
 class GGameBoardsControllerTest < ActionDispatch::IntegrationTest
+
   setup do
     @g_game_board = create( :g_game_board )
     @stark = create( :stark )
@@ -8,7 +9,7 @@ class GGameBoardsControllerTest < ActionDispatch::IntegrationTest
     @city = create( :c_city, h_house_id: @stark.id )
   end
 
-  test "should get next_turn" do
+  test "should create an army recruitment entry" do
     get g_game_board_next_turn_url( @g_game_board )
     assert_redirected_to g_game_board_url(@g_game_board)
   end
