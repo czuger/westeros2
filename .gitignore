@@ -27,3 +27,5 @@ work/*.png
 work/*.jpg
 
 coverage
+
+copy*.sh

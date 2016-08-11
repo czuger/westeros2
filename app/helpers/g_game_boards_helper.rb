@@ -14,4 +14,10 @@ module GGameBoardsHelper
     image_tag "tokens/#{filename}", class: :token
   end
 
+  def token_classes( token )
+    classes = token.token_classes
+    classes << :hidden_token unless token.show
+    classes
+  end
+
 end
