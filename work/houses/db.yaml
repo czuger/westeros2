@@ -1,0 +1,2921 @@
+---
+Stark:
+  :name: Stark
+  :vo: Stark
+  :location: Winterfell
+  :rang: Maison suzeraine du Nord
+  :vassal_of: 
+  :blason: Blason-stark-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stark
+Bolton:
+  :name: Bolton
+  :vo: Bolton
+  :location: Fort-Terreur
+  :rang: Maison noble
+  :vassal_of: Stark
+  :blason: Blason-bolton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bolton
+Cerwyn:
+  :name: Cerwyn
+  :vo: Cerwyn
+  :location: Castel-Cerwyn
+  :rang: maison noble
+  :vassal_of: Stark
+  :blason: Blason-cerwyn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cerwyn
+Corbois:
+  :name: Corbois
+  :vo: Hornwood
+  :location: Corbois
+  :rang: Maison noble
+  :vassal_of: Stark
+  :blason: Blason-corbois-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Corbois
+Dustin:
+  :name: Dustin
+  :vo: Dustin
+  :location: La Tertrée (Tertre-bourg)
+  :rang: maison noble
+  :vassal_of: Stark
+  :blason: Blason-dustin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dustin
+Flint:
+  :name: Flint
+  :vo: Flint
+  :location: La Veuve
+  :rang: Maison noble
+  :vassal_of: Manderly
+  :blason: Blason-flint1-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Flint_de_La_Veuve
+Karstark:
+  :name: Karstark
+  :vo: Karstark
+  :location: Karhold
+  :rang: Maison noble
+  :vassal_of: Stark
+  :blason: Blason-karstark-2014-V01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Karstark
+Locke:
+  :name: Locke
+  :vo: Locke
+  :location: Châteauvieux
+  :rang: maison noble
+  :vassal_of: Manderly
+  :blason: Blason-locke-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Locke
+Manderly:
+  :name: Manderly
+  :vo: Manderly
+  :location: Blancport
+  :rang: maison noble
+  :vassal_of: Stark
+  :blason: Blason-manderly-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Manderly
+Mormont:
+  :name: Mormont
+  :vo: Mormont
+  :location: Île-aux-Ours
+  :rang: Maison noble
+  :vassal_of: Stark
+  :blason: Blason-mormont-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mormont
+Omble:
+  :name: Omble
+  :vo: Umber
+  :location: Âtre-lès-Confins
+  :rang: Maison noble
+  :vassal_of: Stark
+  :blason: Blason-omble-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Omble
+Ryswell:
+  :name: Ryswell
+  :vo: Ryswell
+  :location: les Rus
+  :rang: maison noble
+  :vassal_of: Stark
+  :blason: Blason-ryswell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryswell
+Stout:
+  :name: Stout
+  :vo: Stout
+  :location: Goldgrass
+  :rang: maison noble
+  :vassal_of: Dustin
+  :blason: Blason-stout-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stout
+Glover:
+  :name: Glover
+  :vo: Glover
+  :location: Motte-la-Forêt
+  :rang: Maison de maître
+  :vassal_of: Stark
+  :blason: Blason-glover-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Glover
+Tallhart:
+  :name: Tallhart
+  :vo: Tallhart
+  :location: Quart-Torrhen
+  :rang: maison fieffée
+  :vassal_of: Stark
+  :blason: Blason-tallhart-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tallhart
+Ardoise:
+  :name: Ardoise
+  :vo: Slate
+  :location: Noirétang
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-ardoise-2014-V01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ardoise
+Bosc:
+  :name: Bosc
+  :vo: Woods
+  :location: 
+  :rang: 
+  :vassal_of: Glover
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bosc
+Cassel:
+  :name: Cassel
+  :vo: Cassel
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-cassel-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cassel
+Cardon:
+  :name: Cardon
+  :vo: Condon
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-condon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cardon
+Flint de Pouce-Flint:
+  :name: Flint de Pouce-Flint
+  :vo: Flint
+  :location: Pouce-Flint
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-flint2-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Flint_de_Pouce-Flint
+Forestier:
+  :name: Forestier
+  :vo: Forrester
+  :location: Ironrath
+  :rang: 
+  :vassal_of: Glover
+  :blason: Blason-forestier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Forestier
+Ironsmith:
+  :name: Ironsmith
+  :vo: Ironsmith
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-ironsmith-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ironsmith
+Lake:
+  :name: Lake
+  :vo: Lake
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-lake-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lake
+Lightfoot:
+  :name: Lightfoot
+  :vo: Lightfoot
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-lightfoot-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lightfoot
+Long:
+  :name: Long
+  :vo: Long
+  :location: L'Antre du Loup
+  :rang: inconnu
+  :vassal_of: Stark
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Long
+Marsh:
+  :name: Marsh
+  :vo: Marsh
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-marsh-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Marsh
+Mollen:
+  :name: Mollen
+  :vo: Mollen
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-mollen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mollen
+Moss:
+  :name: Moss
+  :vo: Moss
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-mousse-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moss
+Overton:
+  :name: Overton
+  :vo: Overton
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-overton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Overton
+Poole:
+  :name: Poole
+  :vo: Poole
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-poole-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Poole
+Puits:
+  :name: Puits
+  :vo: Wells
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-puits-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Puits_(Nord)
+Souche:
+  :name: Souche
+  :vo: Bole
+  :location: 
+  :rang: 
+  :vassal_of: Glover
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Souche
+Waterman:
+  :name: Waterman
+  :vo: Waterman
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-waterman-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Waterman
+Whitehill:
+  :name: Whitehill
+  :vo: Whitehill
+  :location: Hautpoint
+  :rang: 
+  :vassal_of: Bolton
+  :blason: Blason-whitehill-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Whitehill
+Woolfield:
+  :name: Woolfield
+  :vo: Woolfield
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-woolfield-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Woolfield
+Burley:
+  :name: Burley
+  :vo: Burley
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-burley-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Burley
+Harclay:
+  :name: Harclay
+  :vo: Harclay
+  :location: Collines au pied des montagnes au nord du Bois-aux-Loups
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-harclay-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harclay
+Knott:
+  :name: Knott
+  :vo: Knott
+  :location: Au nord du Bois-aux-Loups
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-knott-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Knott
+Lideuil:
+  :name: Lideuil
+  :vo: Liddle
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-lideuil-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lideuil
+Norroit:
+  :name: Norroit
+  :vo: Norrey
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-norroit-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norroit
+Wull:
+  :name: Wull
+  :vo: Wull
+  :location: 
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-wull-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wull
+Reed:
+  :name: Reed
+  :vo: Reed
+  :location: Fort-Griseaux
+  :rang: maison noble
+  :vassal_of: Stark
+  :blason: Blason-reed-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Reed
+Bonvert:
+  :name: Bonvert
+  :vo: Greengood
+  :location: 
+  :rang: 
+  :vassal_of: Reed
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonvert
+Palus:
+  :name: Palus
+  :vo: Quagg
+  :location: 
+  :rang: 
+  :vassal_of: Reed
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Palus
+Saline:
+  :name: Saline
+  :vo: Fenn
+  :location: 
+  :rang: 
+  :vassal_of: Reed
+  :blason: Blason-saline-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Saline
+Tourbier:
+  :name: Tourbier
+  :vo: Boggs
+  :location: 
+  :rang: 
+  :vassal_of: Reed
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tourbier_du_Neck
+Rhamp:
+  :name: Rhamp
+  :vo: Crowl
+  :location: Deepdown
+  :rang: 
+  :vassal_of: Magnar
+  :blason: Blason-crowl-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rhamp
+Magnar:
+  :name: Magnar
+  :vo: Magnar
+  :location: Kingshouse
+  :rang: 
+  :vassal_of: Stark
+  :blason: Blason-magnar-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Magnar
+Stane:
+  :name: Stane
+  :vo: Stane
+  :location: Driftwood Hall
+  :rang: 
+  :vassal_of: Magnar
+  :blason: Blason-stane-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stane
+Barberouge:
+  :name: Barberouge
+  :vo: Redbeard
+  :location: au-delà du Mur
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Barberouge
+Thenn:
+  :name: Thenn
+  :vo: Thenn
+  :location: Thenn, au-delà du Mur
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-thenn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Thenn
+Greyjoy:
+  :name: Greyjoy
+  :vo: Greyjoy
+  :location: Pyk
+  :rang: Maison suzeraine des îles de Fer
+  :vassal_of: 
+  :blason: Blason-greyjoy-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Greyjoy
+Bonfrère:
+  :name: Bonfrère
+  :vo: Goodbrother
+  :location: Cormartel sur Grand Wyk
+  :rang: maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-bonfrere-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonfr%C3%A8re_de_Cormartel
+Botley:
+  :name: Botley
+  :vo: Botley
+  :location: Lordsport
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-botley-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Botley
+Harloi:
+  :name: Harloi
+  :vo: Harlaw
+  :location: Dix-Tourschâteau d'HarloiTour des MoiresGrisjardinColline Mégère
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-harloi-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harloi
+Merlyn:
+  :name: Merlyn
+  :vo: Merlyn
+  :location: Pebbleton
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-merlyn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Merlyn
+Noirmarées:
+  :name: Noirmarées
+  :vo: Blacktyde
+  :location: Noirmarées
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-noirmarees-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Noirmar%C3%A9es
+Orquebois:
+  :name: Orquebois
+  :vo: Orkwood
+  :location: Orkmont
+  :rang: maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-orkwood-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Orquebois
+Salfalaise:
+  :name: Salfalaise
+  :vo: Saltcliffe
+  :location: Salfalaise
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-salfalaise-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Salfalaise
+Tawney:
+  :name: Tawney
+  :vo: Tawney
+  :location: Orkmont
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-tawney-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tawney
+Timbal:
+  :name: Timbal
+  :vo: Drumm
+  :location: Vieux Wyk
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-timbal-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Timbal
+Valleuse:
+  :name: Valleuse
+  :vo: Sunderly
+  :location: Salfalaise
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-valleuse-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Valleuse
+Volmark:
+  :name: Volmark
+  :vo: Volmark
+  :location: Volmark
+  :rang: Maison noble
+  :vassal_of: Harloi
+  :blason: Blason-volmark-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Volmark
+Wynch:
+  :name: Wynch
+  :vo: Wynch
+  :location: Holt de Fer
+  :rang: maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-wynch-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wynch
+Kenning de Harloi:
+  :name: Kenning de Harloi
+  :vo: Kenning of Harlaw
+  :location: Harloi
+  :rang: 
+  :vassal_of: Harloi
+  :blason: Blason-kenning-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kenning_de_Harloi
+Maisonpierre:
+  :name: Maisonpierre
+  :vo: Stonehouse
+  :location: Vieux Wyk
+  :rang: 
+  :vassal_of: Greyjoy
+  :blason: Blason-maisonpierre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Maisonpierre
+Morru:
+  :name: Morru
+  :vo: Codd
+  :location: 
+  :rang: 
+  :vassal_of: Greyjoy
+  :blason: Blason-morue-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Morru
+Myrès:
+  :name: Myrès
+  :vo: Myre
+  :location: Harloi
+  :rang: 
+  :vassal_of: Harloi
+  :blason: Blason-myres-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Myr%C3%A8s
+Pindepierre:
+  :name: Pindepierre
+  :vo: Stonetree
+  :location: Les Arbres-de-Pierre
+  :rang: 
+  :vassal_of: Harloi
+  :blason: Blason-pindepierre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pindepierre
+Sparr:
+  :name: Sparr
+  :vo: Sparr
+  :location: Grand Wyk
+  :rang: 
+  :vassal_of: Greyjoy
+  :blason: Blason-sparr-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sparr
+Chenu:
+  :name: Chenu
+  :vo: Hoare
+  :location: Orkmont
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-chenu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chenu
+Greyfer:
+  :name: Greyfer
+  :vo: Greyiron
+  :location: Orkmont
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-greyfer-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Greyfer
+Tully:
+  :name: Tully
+  :vo: Tully
+  :location: Vivesaigues
+  :rang: Maison suzeraine du Conflans
+  :vassal_of: 
+  :blason: Blason-tully-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tully
+Beurpuits:
+  :name: Beurpuits
+  :vo: Butterwell
+  :location: Murs-blancs
+  :rang: Maison Noble
+  :vassal_of: Tully
+  :blason: Blason-beurpuits-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Beurpuits
+Bonru:
+  :name: Bonru
+  :vo: Goodbrook
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-bonru-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonru
+Bracken:
+  :name: Bracken
+  :vo: Bracken
+  :location: Haye-Pierre
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-bracken-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bracken
+Charlton:
+  :name: Charlton
+  :vo: Charlton
+  :location: 
+  :rang: maison noble
+  :vassal_of: Frey
+  :blason: Blason-charlton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Charlton
+Darry:
+  :name: Darry
+  :vo: Darry
+  :location: Darry-le-Château
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-darry-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Darry
+Frey:
+  :name: Frey
+  :vo: Frey
+  :location: Les Jumeaux
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-frey-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Frey
+Harlton:
+  :name: Harlton
+  :vo: Harlton
+  :location: Castel-Bois
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-harlton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harlton
+Lychester:
+  :name: Lychester
+  :vo: Lychester
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-lychester-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lychester
+Mallister:
+  :name: Mallister
+  :vo: Mallister
+  :location: Salvemer
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-mallister-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mallister
+Mouton:
+  :name: Mouton
+  :vo: Mooton
+  :location: Viergétang
+  :rang: maison noble
+  :vassal_of: Tully
+  :blason: Blason-mouton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mouton
+Nerbosc:
+  :name: Nerbosc
+  :vo: Blackwood
+  :location: Corneilla
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-nerbosc-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Nerbosc
+Petibois:
+  :name: Petibois
+  :vo: Smallwood[N 1]
+  :location: La Glandée
+  :rang: Maison noble
+  :vassal_of: Vance
+  :blason: Blason-petibois-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Petibois
+Piper:
+  :name: Piper
+  :vo: Piper
+  :location: Château-Rosières
+  :rang: maison noble
+  :vassal_of: Tully
+  :blason: Blason-piper-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Piper
+Racin:
+  :name: Racin
+  :vo: Roote
+  :location: Lord Herpivoie-Ville
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-racin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Racin
+Vance:
+  :name: Vance
+  :vo: Vance
+  :location: Bel Accueil
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-vance_2-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vance_de_Bel_Accueil
+Vyprin:
+  :name: Vyprin
+  :vo: Vypren
+  :location: 
+  :rang: maison noble
+  :vassal_of: Tully
+  :blason: Blason-vyprin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vyprin
+Whent:
+  :name: Whent
+  :vo: Whent
+  :location: Harrenhal
+  :rang: Maison noble
+  :vassal_of: Tully
+  :blason: Blason-whent-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Whent
+Foin:
+  :name: Foin
+  :vo: Haigh
+  :location: 
+  :rang: Chevaliers
+  :vassal_of: Frey
+  :blason: Blason-foin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Foin
+Guède:
+  :name: Guède
+  :vo: Wode
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Whent
+  :blason: Blason-guede-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gu%C3%A8de
+Paege:
+  :name: Paege
+  :vo: Paege
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Tully
+  :blason: Blason-paege-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Paege
+Blanetree:
+  :name: Blanetree
+  :vo: Blanetree
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-blanetree-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Blanetree
+Chauney:
+  :name: Chauney
+  :vo: Shawney
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-chauney-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chauney
+Erongué:
+  :name: Erongué
+  :vo: Erenford
+  :location: 
+  :rang: 
+  :vassal_of: Frey
+  :blason: Blason-erongue-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Erongu%C3%A9
+Grell:
+  :name: Grell
+  :vo: Grell
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-grell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grell
+Hawick:
+  :name: Hawick
+  :vo: Hawick
+  :location: Salins
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-hawick-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hawick
+Keath:
+  :name: Keath
+  :vo: Keath
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-keath-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Keath
+Lolliston:
+  :name: Lolliston
+  :vo: Lolliston
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-lolliston-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lolliston
+Ryger:
+  :name: Ryger
+  :vo: Ryger
+  :location: Willow Wood
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-ryger-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryger
+Terrick:
+  :name: Terrick
+  :vo: Terrick
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-terrick-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Terrick
+Van:
+  :name: Van
+  :vo: Wayn
+  :location: 
+  :rang: 
+  :vassal_of: Tully
+  :blason: Blason-van-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Van
+d'Alluve:
+  :name: d'Alluve
+  :vo: Mudd
+  :location: Vieilles-Pierres
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-dalluve-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_d%27Alluve
+Croche:
+  :name: Croche
+  :vo: Hook
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Croche
+Fort:
+  :name: Fort
+  :vo: Strong
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: Tully
+  :blason: Blason-fort-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fort
+Herpivoie:
+  :name: Herpivoie
+  :vo: Harroway
+  :location: Harrenhal
+  :rang: maison éteinte
+  :vassal_of: Tully
+  :blason: Blason-herpivoie-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Herpivoie
+Lejuste:
+  :name: Lejuste
+  :vo: Justman
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-lejuste-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lejuste
+Lothston:
+  :name: Lothston
+  :vo: Lothston
+  :location: Harrenhal
+  :rang: Maison éteinte
+  :vassal_of: Tully
+  :blason: Blason-lothston-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lothston
+Pescheur:
+  :name: Pescheur
+  :vo: Fisher
+  :location: Brume-Isle
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-pescheur-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pescheur
+Qoherys:
+  :name: Qoherys
+  :vo: Qoherys
+  :location: Harrenhal
+  :rang: maison éteinte
+  :vassal_of: Tully
+  :blason: Blason-qoherys-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Qoherys
+Teague:
+  :name: Teague
+  :vo: Teague
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-teague-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Teague
+Tourelles:
+  :name: Tourelles
+  :vo: Towers
+  :location: Harrenhal
+  :rang: maison éteinte
+  :vassal_of: Tully
+  :blason: Blason-tourelles-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tourelles
+Arryn:
+  :name: Arryn
+  :vo: Arryn
+  :location: Les Eyrié (été)Les Portes de la Lune (hiver)
+  :rang: Maison suzeraine du Val d'Arryn
+  :vassal_of: 
+  :blason: Blason-arryn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Arryn
+Baelish:
+  :name: Baelish
+  :vo: Baelish
+  :location: 
+  :rang: maison noble
+  :vassal_of: Arryn
+  :blason: Blason-baelish-alt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baelish
+Belmore:
+  :name: Belmore
+  :vo: Belmore
+  :location: Forchant
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-belmore-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Belmore
+Corbray:
+  :name: Corbray
+  :vo: Corbray
+  :location: Cordial
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-corbray-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Corbray
+Elesham:
+  :name: Elesham
+  :vo: Elesham
+  :location: Les Piz
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-elesham-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Elesham
+Froideseaux:
+  :name: Froideseaux
+  :vo: Coldwater
+  :location: La Brûlée-Froideseaux
+  :rang: Maison noble
+  :vassal_of: Royce
+  :blason: Blason-froideseaux-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Froideseaux
+Grafton:
+  :name: Grafton
+  :vo: Grafton
+  :location: Goëville
+  :rang: maison noble
+  :vassal_of: Arryn
+  :blason: Blason-grafton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grafton
+Lynderly:
+  :name: Lynderly
+  :vo: Lynderly
+  :location: Guivrebois
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-lynderly-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lynderly
+Rougefort:
+  :name: Rougefort
+  :vo: Redfort
+  :location: Rougefort
+  :rang: Maison noble
+  :vassal_of: Arryn[2]
+  :blason: Blason-rougefort-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rougefort
+Royce de Roches-aux-runes:
+  :name: Royce de Roches-aux-runes
+  :vo: Royce
+  :location: Roches-aux-runes
+  :rang: maison noble
+  :vassal_of: Arryn
+  :blason: Blason-royce-roches-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Royce
+Tallett:
+  :name: Tallett
+  :vo: Tollett
+  :location: Grey Glen
+  :rang: Maison noble
+  :vassal_of: Royce
+  :blason: Blason-tallett-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tallett
+Vanbois:
+  :name: Vanbois
+  :vo: Waynwood
+  :location: Chênes-en-fer
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-vanbois-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vanbois
+Veneur:
+  :name: Veneur
+  :vo: Hunter
+  :location: Longarc
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-veneur-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Veneur
+Borrell:
+  :name: Borrell
+  :vo: Borrell
+  :location: Château de Brisants, sur l'île de Dolcesœur
+  :rang: Maison noble
+  :vassal_of: Sunderland
+  :blason: Blason-borell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Borrell
+Sunderland:
+  :name: Sunderland
+  :vo: Sunderland
+  :location: Sortonne
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-sunderland-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sunderland
+Cirley:
+  :name: Cirley
+  :vo: Waxley
+  :location: Combemèche
+  :rang: Chevalier fieffé
+  :vassal_of: Arryn
+  :blason: Blason-cirley-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cirley
+Hardyng:
+  :name: Hardyng
+  :vo: Hardyng
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Vanbois
+  :blason: Blason-hardyng-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hardyng
+Shett:
+  :name: Shett
+  :vo: Shett
+  :location: Gull Tower à Goëville[2]
+  :rang: maison de chevalier fieffé
+  :vassal_of: Royce
+  :blason: Blason-shett-2014-v02-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Shett
+Templeton:
+  :name: Templeton
+  :vo: Templeton
+  :location: Neufétoiles
+  :rang: chevalier fieffé
+  :vassal_of: Arryn
+  :blason: Blason-templeton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Templeton
+Descarpe:
+  :name: Descarpe
+  :vo: Upcliff
+  :location: L'île de la Sorcière
+  :rang: inconnu
+  :vassal_of: Arryn
+  :blason: Blason-upcliff-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Descarpe
+Donniger:
+  :name: Donniger
+  :vo: Donniger
+  :location: 
+  :rang: statut inconnu
+  :vassal_of: Arryn
+  :blason: Blason-donniger-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Donniger
+Egen:
+  :name: Egen
+  :vo: Egen
+  :location: 
+  :rang: maison noble
+  :vassal_of: Arryn
+  :blason: Blason-egen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Egen
+Hersy:
+  :name: Hersy
+  :vo: Hersy
+  :location: Newkeep
+  :rang: 
+  :vassal_of: Arryn
+  :blason: Blason-hersy-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hersy
+Lipps:
+  :name: Lipps
+  :vo: Lipps
+  :location: 
+  :rang: Maison noble
+  :vassal_of: 
+  :blason: Blason-lipps-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lipps
+Melcom:
+  :name: Melcom
+  :vo: Melcolm
+  :location: Vieux Havre
+  :rang: Maison noble
+  :vassal_of: Arryn[1]
+  :blason: Blason-melcolm-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Melcolm
+Montmarri:
+  :name: Montmarri
+  :vo: Ruthermont
+  :location: 
+  :rang: 
+  :vassal_of: Arryn
+  :blason: Blason-ruthermont-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montmarri
+Moore:
+  :name: Moore
+  :vo: Moore
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Arryn
+  :blason: Blason-moore-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moore
+Pryor:
+  :name: Pryor
+  :vo: Pryor
+  :location: Galet
+  :rang: 
+  :vassal_of: Arryn
+  :blason: Blason-pryor-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pryor
+Rompierre:
+  :name: Rompierre
+  :vo: Breakstone
+  :location: 
+  :rang: Maison de statut inconnu
+  :vassal_of: 
+  :blason: Blason-breakstone-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rompierre
+Royce des Portes de la Lune:
+  :name: Royce des Portes de la Lune
+  :vo: Royce
+  :location: Portes de la Lune
+  :rang: 
+  :vassal_of: Arryn
+  :blason: Blason-royce-portes-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Royce_des_Portes_de_la_Lune
+Wydman:
+  :name: Wydman
+  :vo: Wydman
+  :location: 
+  :rang: 
+  :vassal_of: Arryn
+  :blason: Blason-wydman-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wydman
+Conque:
+  :name: Conque
+  :vo: Shell
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Conque
+Baratheon:
+  :name: Baratheon
+  :vo: Baratheon
+  :location: AccalmiePeyredragonPort-Réal
+  :rang: maison suzeraine des terres de l'Orage
+  :vassal_of: 
+  :blason: Blason-baratheon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baratheon
+Targaryen:
+  :name: Targaryen
+  :vo: Targaryen
+  :location: PeyredragonPort-RéalLestival
+  :rang: Ancienne maison royale
+  :vassal_of: 
+  :blason: Blason-targaryen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Targaryen
+Castelfoyer:
+  :name: Castelfoyer
+  :vo: Stokeworth
+  :location: Castelfoyer
+  :rang: Maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-castelfoyer-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Castelfoyer
+Chelsted:
+  :name: Chelsted
+  :vo: Chelsted
+  :location: 
+  :rang: Maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-chelsted-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chelsted
+Fengué:
+  :name: Fengué
+  :vo: Hayford
+  :location: Fengué
+  :rang: Maison noble
+  :vassal_of: 
+  :blason: Blason-fengue-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fengu%C3%A9
+Harte:
+  :name: Harte
+  :vo: Harte
+  :location: 
+  :rang: maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-harte-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harte
+Mallery:
+  :name: Mallery
+  :vo: Mallery
+  :location: 
+  :rang: Maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-mallery-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mallery
+Prédeaux:
+  :name: Prédeaux
+  :vo: Bywater
+  :location: Port-Réal
+  :rang: Chevalier
+  :vassal_of: 
+  :blason: Blason-predeaux-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pr%C3%A9deaux
+Rosby:
+  :name: Rosby
+  :vo: Rosby
+  :location: Rosby
+  :rang: maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-rosby-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rosby
+Rykker:
+  :name: Rykker
+  :vo: Rykker
+  :location: Sombreval (le Fort Jaune)
+  :rang: Maison Noble
+  :vassal_of: Port-Réal
+  :blason: Blason-rykker-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rykker
+Slynt:
+  :name: Slynt
+  :vo: Slynt
+  :location: Harrenhal (anciennement)
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-slynt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Slynt
+Bar Emmon:
+  :name: Bar Emmon
+  :vo: Bar Emmon
+  :location: Pointe-Vive
+  :rang: Maison Noble
+  :vassal_of: Peyredragon
+  :blason: Blason-baremmon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bar_Emmon
+Celtigar:
+  :name: Celtigar
+  :vo: Celtigar
+  :location: Pince-Isle
+  :rang: maison noble
+  :vassal_of: Peyredragon
+  :blason: Blason-celtigar-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Celtigar
+Chyttering:
+  :name: Chyttering
+  :vo: Chyttering
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Peyredragon[N 1]
+  :blason: Blason-chyttering-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chyttering
+Solverre:
+  :name: Solverre
+  :vo: Sunglass
+  :location: Sweetport Sound
+  :rang: maison noble
+  :vassal_of: Peyredragon
+  :blason: Blason-solverre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Solverre
+Velaryon:
+  :name: Velaryon
+  :vo: Velaryon
+  :location: Marée Haute, sur Lamarck
+  :rang: Maison Noble
+  :vassal_of: Peyredragon
+  :blason: Blason-velaryon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Velaryon
+Brune de Combebrune:
+  :name: Brune de Combebrune
+  :vo: Brune
+  :location: Combebrune
+  :rang: Chevalier fieffé
+  :vassal_of: Celtigar
+  :blason: Blason-brune-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brune_de_Combebrune
+Hollard:
+  :name: Hollard
+  :vo: Hollard
+  :location: 
+  :rang: 
+  :vassal_of: Anciens vassaux des Sombrelyn
+  :blason: Blason-hollard-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hollard
+Potaunoir:
+  :name: Potaunoir
+  :vo: Kettleblack
+  :location: 
+  :rang: chevalier
+  :vassal_of: 
+  :blason: Blason-potaunoir-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Potaunoir
+Blount:
+  :name: Blount
+  :vo: Blount
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-blount-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Blount
+Boulleau:
+  :name: Boulleau
+  :vo: Byrch
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-boulleau-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boulleau
+Cressey:
+  :name: Cressey
+  :vo: Cressey
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-cressey-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cressey
+Edgerton:
+  :name: Edgerton
+  :vo: Edgerton
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-edgerton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Edgerton
+Farring:
+  :name: Farring
+  :vo: Farring
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-farring-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Farring
+Follard:
+  :name: Follard
+  :vo: Follard
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-follard-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Follard
+Gaunt:
+  :name: Gaunt
+  :vo: Gaunt
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-gaunt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gaunt
+Langward:
+  :name: Langward
+  :vo: Langward
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-langward-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Longegarde
+Manning:
+  :name: Manning
+  :vo: Manning
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-manning-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Manning
+Massey:
+  :name: Massey
+  :vo: Massey
+  :location: Danse-des-Pierres
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-massey-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Massey
+Pyle:
+  :name: Pyle
+  :vo: Pyle
+  :location: 
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-pyle-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pyle
+Rambton:
+  :name: Rambton
+  :vo: Rambton
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-rambton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rambton
+Grondegué:
+  :name: Grondegué
+  :vo: Rollingford
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-rollingford-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grondegu%C3%A9
+Staunton:
+  :name: Staunton
+  :vo: Staunton
+  :location: Repos-des-Freux
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-staunton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Staunton
+Thorne:
+  :name: Thorne
+  :vo: Thorne
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-thorne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Thorne
+Wendwater:
+  :name: Wendwater
+  :vo: Wendwater
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-wend-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wendwater
+Cargyll:
+  :name: Cargyll
+  :vo: Cargyll
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-cargyll-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cargyll
+Feunoyr:
+  :name: Feunoyr
+  :vo: Blackfyre
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-feunoyr-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Feunoyr
+Sombrelyn:
+  :name: Sombrelyn
+  :vo: Darklyn
+  :location: Sombreval
+  :rang: maison éteinte
+  :vassal_of: Port-Réal
+  :blason: Blason-sombrelyn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sombrelyn
+Lannister:
+  :name: Lannister
+  :vo: Lannister
+  :location: Castral RocPort-Lannis
+  :rang: Maison suzeraine de l'Ouest
+  :vassal_of: 
+  :blason: Blason-lannister-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lannister
+Brax:
+  :name: Brax
+  :vo: Brax
+  :location: Corval
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-brax-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brax
+Crakehall:
+  :name: Crakehall
+  :vo: Crakehall
+  :location: Crakehall
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-crakehall-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Crakehall
+Estren:
+  :name: Estren
+  :vo: Estren
+  :location: Wyndhall
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-estren-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Estren
+Gerblance:
+  :name: Gerblance
+  :vo: Stackspear
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-gerblance-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gerblance
+Farman:
+  :name: Farman
+  :vo: Farman
+  :location: Belcastel
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-farman-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Farman
+Fléaufort:
+  :name: Fléaufort
+  :vo: Banefort
+  :location: Fléaufort
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-fleaufort-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fl%C3%A9aufort
+Jast:
+  :name: Jast
+  :vo: Jast
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-jast-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jast
+Kenning:
+  :name: Kenning
+  :vo: Kenning
+  :location: Kayce
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-kenning2-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kenning_de_Kayce
+Lefford:
+  :name: Lefford
+  :vo: Lefford
+  :location: La Dent d'Or
+  :rang: maison noble
+  :vassal_of: Lannister
+  :blason: Blason-lefford-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lefford
+Lydden:
+  :name: Lydden
+  :vo: Lydden
+  :location: Antrecombe
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-lydden-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lydden
+Marpheux:
+  :name: Marpheux
+  :vo: Marbrand
+  :location: Cendremarc
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-marpheux-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Marpheux
+Moreland:
+  :name: Moreland
+  :vo: Moreland
+  :location: 
+  :rang: maison noble
+  :vassal_of: Lannister
+  :blason: Blason-moreland-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moreland
+Ouestrelin:
+  :name: Ouestrelin
+  :vo: Westerling
+  :location: Falaise
+  :rang: maison noble
+  :vassal_of: Lannister
+  :blason: Blason-ouestrelin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ouestrelin
+Prestre:
+  :name: Prestre
+  :vo: Prester
+  :location: Feux-de-Joie
+  :rang: Maison noble
+  :vassal_of: Lannister
+  :blason: Blason-prestre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Prestre
+Prünh:
+  :name: Prünh
+  :vo: Plumm
+  :location: 
+  :rang: Maison Noble
+  :vassal_of: Lannister
+  :blason: Blason-prunh-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pr%C3%BCnh
+Sarwyck:
+  :name: Sarwyck
+  :vo: Sarwyck
+  :location: Puysaigues
+  :rang: Maison Noble
+  :vassal_of: Lannister
+  :blason: Blason-sarwyck-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sarwyck
+Serrett:
+  :name: Serrett
+  :vo: Serrett
+  :location: Montargent
+  :rang: Maison Noble
+  :vassal_of: Lannister
+  :blason: Blason-serrett-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Serrett
+Clegane:
+  :name: Clegane
+  :vo: Clegane
+  :location: 
+  :rang: chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-clegane-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Clegane
+Cuillêtre:
+  :name: Cuillêtre
+  :vo: Hetherspoon
+  :location: 
+  :rang: chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-cuilletre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cuill%C3%AAtre
+If:
+  :name: If
+  :vo: Yew
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-if-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_If
+Lépicier:
+  :name: Lépicier
+  :vo: Spicer
+  :location: Castamere (AFFC)
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-lepicier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_L%C3%A9picier
+Lorch:
+  :name: Lorch
+  :vo: Lorch
+  :location: 
+  :rang: chevaliers fieffés
+  :vassal_of: Lannister
+  :blason: Blason-lorch-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lorch
+Rouxtigre:
+  :name: Rouxtigre
+  :vo: Ruttiger
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-rouxtigre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rouxtigre
+Swyft:
+  :name: Swyft
+  :vo: Swyft
+  :location: Champmoisson
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-swyft-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swyft
+Verchamps:
+  :name: Verchamps
+  :vo: Greenfield
+  :location: Verchamps
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-verchamps-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Verchamps
+Vikair:
+  :name: Vikair
+  :vo: Vikary
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Lannister
+  :blason: Blason-vikair-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vikair
+Algood:
+  :name: Algood
+  :vo: Algood
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-algood-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Algood
+Aubépin:
+  :name: Aubépin
+  :vo: Hawthorne
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-hawthorne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Aub%C3%A9pin
+Bettley:
+  :name: Bettley
+  :vo: Bettley
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-bettley-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bettley
+Doguette:
+  :name: Doguette
+  :vo: Doggett
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-doggett-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Doguette
+Dombecq:
+  :name: Dombecq
+  :vo: Peckledon
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-dombecq-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dombecq
+Drox:
+  :name: Drox
+  :vo: Drox
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-drox-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Drox
+Fallières:
+  :name: Fallières
+  :vo: Falwell
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-falwell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Falli%C3%A8res
+Ferren:
+  :name: Ferren
+  :vo: Ferren
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-ferren-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ferren
+Garner:
+  :name: Garner
+  :vo: Garner
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-garner-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Garner
+Geneste:
+  :name: Geneste
+  :vo: Broom
+  :location: 
+  :rang: statut inconnu
+  :vassal_of: Lannister
+  :blason: Blason-broom-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Geneste
+Hamell:
+  :name: Hamell
+  :vo: Hamell
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-hamell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hamell
+Kyndall:
+  :name: Kyndall
+  :vo: Kyndall
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kyndall
+Myatt:
+  :name: Myatt
+  :vo: Myatt
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-myatt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Myatt
+Payne:
+  :name: Payne
+  :vo: Payne
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-payne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Payne
+Pièdre:
+  :name: Pièdre
+  :vo: Foote
+  :location: Séréna (ACOK)
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-piedre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8dre
+Sarschamp:
+  :name: Sarschamp
+  :vo: Sarsfield
+  :location: Sarschamp
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-sarschamp-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sarschamp
+Tournebaie:
+  :name: Tournebaie
+  :vo: Turnberry
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-tournebaie-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tournebaie
+Yarwyck:
+  :name: Yarwyck
+  :vo: Yarwyck
+  :location: 
+  :rang: 
+  :vassal_of: Lannister
+  :blason: Blason-yarwyck-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Yarwyck
+Castral:
+  :name: Castral
+  :vo: Casterly
+  :location: Castral Roc
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Castral
+Parren:
+  :name: Parren
+  :vo: Parren
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: Lannister
+  :blason: Blason-parren-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Parren
+Reyne:
+  :name: Reyne
+  :vo: Reyne
+  :location: Castamere
+  :rang: Maison éteinte
+  :vassal_of: Lannister
+  :blason: Blason-reyne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Reyne
+Tarbeck:
+  :name: Tarbeck
+  :vo: Tarbeck
+  :location: Château Tarbeck
+  :rang: Maison éteinte
+  :vassal_of: Lannister
+  :blason: Blason-tarbeck-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tarbeck
+Westford:
+  :name: Westford
+  :vo: Westford
+  :location: 
+  :rang: Maison Noble
+  :vassal_of: Lannister
+  :blason: Blason-westford-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Westford
+Buckler:
+  :name: Buckler
+  :vo: Buckler
+  :location: Les Bronzes
+  :rang: Maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-buckler-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Buckler
+Cafferen:
+  :name: Cafferen
+  :vo: Cafferen
+  :location: Bourgfaon
+  :rang: Maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-cafferen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cafferen
+Cossepois:
+  :name: Cossepois
+  :vo: Peasebury
+  :location: Champoquet
+  :rang: Maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-cossepois-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cossepois
+Errol:
+  :name: Errol
+  :vo: Errol
+  :location: Le Fenil
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-errol-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Errol
+Estremont:
+  :name: Estremont
+  :vo: Estermont
+  :location: Vertepierre
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-estremont-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Estremont
+Fell:
+  :name: Fell
+  :vo: Fell
+  :location: Felbois
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-fell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fell
+Grandison:
+  :name: Grandison
+  :vo: Grandison
+  :location: Grandview
+  :rang: Maison Noble
+  :vassal_of: Baratheon
+  :blason: Blason-grandison-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grandison
+Morrigen:
+  :name: Morrigen
+  :vo: Morrigen
+  :location: Nid de Corbeaux
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-morrigen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Morrigen
+Penrose:
+  :name: Penrose
+  :vo: Penrose
+  :location: Les Parchemins
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-penrose-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Penrose
+Staedmon:
+  :name: Staedmon
+  :vo: Staedmon
+  :location: Broad Arch
+  :rang: Maison Noble
+  :vassal_of: Baratheon
+  :blason: Blason-staedmon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Staedmon
+Torth:
+  :name: Torth
+  :vo: Tarth
+  :location: La Vesprée
+  :rang: Maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-torth-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Torth
+Wylde:
+  :name: Wylde
+  :vo: Wylde
+  :location: Castelpluie
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-wylde-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wylde
+Caron:
+  :name: Caron
+  :vo: Caron
+  :location: Séréna
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-caron-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Caron
+Dondarrion:
+  :name: Dondarrion
+  :vo: Dondarrion
+  :location: Havrenoir
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-dondarrion-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dondarrion
+Selmy:
+  :name: Selmy
+  :vo: Selmy
+  :location: Les Éteules
+  :rang: maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-selmy-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Selmy
+Swann:
+  :name: Swann
+  :vo: Swann
+  :location: Pierheaume
+  :rang: Maison noble
+  :vassal_of: Baratheon
+  :blason: Blason-swann-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swann
+Connington:
+  :name: Connington
+  :vo: Connington
+  :location: La Griffonnière
+  :rang: chevalier fieffé
+  :vassal_of: Baratheon
+  :blason: Blason-connington-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Connington
+Hastif:
+  :name: Hastif
+  :vo: Hasty
+  :location: 
+  :rang: chevaliers fieffés[2]
+  :vassal_of: 
+  :blason: Blason-hastif-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hastif
+Mervault:
+  :name: Mervault
+  :vo: Seaworth
+  :location: Le cap de l'IreLe Bois-la-Pluie (ASOS)
+  :rang: Chevalier fiefféMaison noble (ASOS)
+  :vassal_of: Baratheon
+  :blason: Blason-mervault-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mervault
+Boulin:
+  :name: Boulin
+  :vo: Bolling
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-bolling-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boulin
+Frétilletrique:
+  :name: Frétilletrique
+  :vo: Wagstaff
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-fretilletrique-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fr%C3%A9tilletrique
+Goüer:
+  :name: Goüer
+  :vo: Gower
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-gouer-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Go%C3%BCer
+Herston:
+  :name: Herston
+  :vo: Herston
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-herston-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Herston
+Horpe:
+  :name: Horpe
+  :vo: Horpe
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-horpe-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Horpe
+Kellington:
+  :name: Kellington
+  :vo: Kellington
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-kellington-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kellington
+Lonbec:
+  :name: Lonbec
+  :vo: Lonmouth
+  :location: 
+  :rang: 
+  :vassal_of: Baratheon
+  :blason: Blason-lonbec-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lonbec
+Mertyns:
+  :name: Mertyns
+  :vo: Mertyns
+  :location: Bosquebrume
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-mertyns-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mertyns
+Mossegonde:
+  :name: Mossegonde
+  :vo: Musgood
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-mossegonde-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mossegonde
+Rogers:
+  :name: Rogers
+  :vo: Rogers
+  :location: Amberly
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-rogers-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rogers
+Swygert:
+  :name: Swygert
+  :vo: Swygert
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-swygert-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swygert
+Trant:
+  :name: Trant
+  :vo: Trant
+  :location: Gallowsgrey
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-trant-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Trant
+Tudbury:
+  :name: Tudbury
+  :vo: Tudbury
+  :location: 
+  :rang: 
+  :vassal_of: Baratheon
+  :blason: Blason-tudbury-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tudbury
+Wensington:
+  :name: Wensington
+  :vo: Wensington
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-wensington-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wensington
+Durrandon:
+  :name: Durrandon
+  :vo: Durrandon
+  :location: Accalmie
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-baratheon-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Durrandon
+Tignac:
+  :name: Tignac
+  :vo: Toyne
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-tignac-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tignac
+Tyrell:
+  :name: Tyrell
+  :vo: Tyrell
+  :location: Hautjardin
+  :rang: Maison suzeraine du Bief
+  :vassal_of: 
+  :blason: Blason-tyrell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tyrell
+Ambrose:
+  :name: Ambrose
+  :vo: Ambrose
+  :location: 
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-ambrose-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ambrose
+Bulwer:
+  :name: Bulwer
+  :vo: Bulwer
+  :location: Noircouronne
+  :rang: Maison Noble
+  :vassal_of: Hightower
+  :blason: Blason-bulwer-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bulwer
+Caswell:
+  :name: Caswell
+  :vo: Caswell
+  :location: Pont-l'Amer
+  :rang: Maison Noble
+  :vassal_of: Tyrell
+  :blason: Blason-caswell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Caswell
+Cendregué:
+  :name: Cendregué
+  :vo: 'AshfordAutre traduction : Sorbier'
+  :location: Cendregué
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-cendregue-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cendregu%C3%A9
+Chantecoq:
+  :name: Chantecoq
+  :vo: Cockshaw
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-chantecoq-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chantecoq
+Costayne:
+  :name: Costayne
+  :vo: Costayne
+  :location: Trois Tours
+  :rang: maison noble
+  :vassal_of: Hightower
+  :blason: Blason-costayne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Costayne
+Crane:
+  :name: Crane
+  :vo: Crane
+  :location: Rougelac sur la rive de Lac Rouge
+  :rang: Maison Noble
+  :vassal_of: Tyrell
+  :blason: Blason-crane-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Crane
+Cuy:
+  :name: Cuy
+  :vo: Cuy
+  :location: Solfoyer
+  :rang: Maison noble
+  :vassal_of: Hightower
+  :blason: Blason-cuy-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cuy
+des Essaims:
+  :name: des Essaims
+  :vo: Beesbury
+  :location: Mielbois
+  :rang: maison noble
+  :vassal_of: Hightower
+  :blason: Blason-desessaims-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_des_Essaims
+Florent:
+  :name: Florent
+  :vo: Florent
+  :location: Rubriant
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-florent-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Florent
+Hightower:
+  :name: Hightower
+  :vo: Hightower
+  :location: Grand-Tour de Villevieille
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-hightower-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hightower
+Merryweather:
+  :name: Merryweather
+  :vo: Merryweather
+  :location: Longuetable
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-merryweather-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Merryweather
+Mullendore:
+  :name: Mullendore
+  :vo: Mullendore
+  :location: Hautesterres
+  :rang: Maison noble
+  :vassal_of: Hightower
+  :blason: Blason-mullendore-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mullendore
+de la Nouë:
+  :name: de la Nouë
+  :vo: Meadows
+  :location: Herbeval
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-delanoue-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_de_la_Nou%C3%AB
+Peake:
+  :name: Peake
+  :vo: Peake
+  :location: Stellepique
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-peake-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Peake
+Redwyne:
+  :name: Redwyne
+  :vo: Redwyne
+  :location: La Treille
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-redwyne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Redwyne
+Risley:
+  :name: Risley
+  :vo: Risley
+  :location: 
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-risley-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Risley
+du Rouvre:
+  :name: du Rouvre
+  :vo: Oakheart
+  :location: Vieux Rouvre
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-durouvre-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_du_Rouvre
+Rowan:
+  :name: Rowan
+  :vo: Rowan
+  :location: Boisdoré
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-rowan-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rowan
+Tarly:
+  :name: Tarly
+  :vo: Tarly
+  :location: Corcolline
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-tarly-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tarly
+Tyssier:
+  :name: Tyssier
+  :vo: Webber
+  :location: Froide-Douve
+  :rang: 
+  :vassal_of: Rowan
+  :blason: Blason-tyssier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tyssier
+Varnier:
+  :name: Varnier
+  :vo: Varner
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-varnier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Varnier
+Vouyvère:
+  :name: Vouyvère
+  :vo: Vyrwel
+  :location: Darkdell
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-vouyvere-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vouyv%C3%A8re
+Willum:
+  :name: Willum
+  :vo: Willum
+  :location: 
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-willum-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Willum
+Grimm:
+  :name: Grimm
+  :vo: Grimm
+  :location: Bouclier Gris
+  :rang: maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-grimm-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grimm
+Houëtt:
+  :name: Houëtt
+  :vo: Hewett
+  :location: Houëttlord, sur l'île de Bouclier de Chêne
+  :rang: Maison Noble
+  :vassal_of: Tyrell
+  :blason: Blason-houett-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hou%C3%ABtt
+Serry:
+  :name: Serry
+  :vo: Serry
+  :location: Bouclier du Sud
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-serry-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Serry
+Fossovoie pomme-rouge:
+  :name: Fossovoie pomme-rouge
+  :vo: Fossoway
+  :location: Cidre
+  :rang: chevalier fieffé
+  :vassal_of: Tyrell
+  :blason: Blason-fossovoie-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-rouge
+Fossovoie pomme-verte:
+  :name: Fossovoie pomme-verte
+  :vo: Fossoway
+  :location: La Tonnelle
+  :rang: Chevalier fieffé
+  :vassal_of: Tyrell
+  :blason: Blason-fossovoie-alt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-verte
+Hunt:
+  :name: Hunt
+  :vo: Hunt
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Tarly
+  :blason: Blason-hunt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hunt
+Norcroix:
+  :name: Norcroix
+  :vo: Norcross
+  :location: 
+  :rang: Chevalier fieffé
+  :vassal_of: Florent
+  :blason: Blason-norcroix-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norcroix
+Osgris:
+  :name: Osgris
+  :vo: Osgrey
+  :location: Froide-DouvePiéfermeLacfeuillu
+  :rang: ancienne maison noblechevalier fieffé
+  :vassal_of: Rowan
+  :blason: Blason-osgris-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Osgris
+Appleton:
+  :name: Appleton
+  :vo: Appleton
+  :location: Appleton
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-appleton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Appleton
+Bonleu:
+  :name: Bonleu
+  :vo: Leygood
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-bonleu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonleu
+Boule:
+  :name: Boule
+  :vo: Ball
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-boule-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boule
+Bridges:
+  :name: Bridges
+  :vo: Bridges
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-bridges-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bridges
+Brousse:
+  :name: Brousse
+  :vo: Bushy
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-brousse-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brousse
+Le Charpentier:
+  :name: Le Charpentier
+  :vo: Woodwright
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-lecharpentier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Le_Charpentier
+Cordwayner:
+  :name: Cordwayner
+  :vo: Cordwayner
+  :location: Hammerhal
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-cordwayner-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cordwayner
+Dunn:
+  :name: Dunn
+  :vo: Dunn
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-dunn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dunn
+Graceford:
+  :name: Graceford
+  :vo: Graceford
+  :location: Holyhall
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-graceford-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Graceford
+Graves:
+  :name: Graves
+  :vo: Graves
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-graves-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Graves
+Hutcheson:
+  :name: Hutcheson
+  :vo: Hutcheson
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-hutcheson-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hutcheson
+Kidwell:
+  :name: Kidwell
+  :vo: Kidwell
+  :location: Ivy Hall
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-kidwell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kidwell
+Lowther:
+  :name: Lowther
+  :vo: Lowther
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-lowther-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lowther
+Lyberr:
+  :name: Lyberr
+  :vo: Lyberr
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-lyberr-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lyberr
+Middlebury:
+  :name: Middlebury
+  :vo: Middlebury
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-middlebury-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Middlebury
+Milopin:
+  :name: Milopin
+  :vo: Inchfield
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-milopin-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Milopin
+Nègrebar:
+  :name: Nègrebar
+  :vo: Blackbar
+  :location: Bandallon
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-negrebar-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_N%C3%A8grebar
+Norridge:
+  :name: Norridge
+  :vo: Norridge
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-norridge-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norridge
+Oldflowers:
+  :name: Oldflowers
+  :vo: Oldflowers
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-oldflowers-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Oldflowers
+Orme:
+  :name: Orme
+  :vo: Orme
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-orme-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Orme
+Piète:
+  :name: Piète
+  :vo: Footly
+  :location: Chutebourg
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-piete-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8te
+Piquemèche:
+  :name: Piquemèche
+  :vo: Hastwyck
+  :location: 
+  :rang: 
+  :vassal_of: 
+  :blason: Blason-hastwyck-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Piquem%C3%A8che
+Pommingham:
+  :name: Pommingham
+  :vo: Pommingham
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-pommingham-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pommingham
+Redding:
+  :name: Redding
+  :vo: Redding
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-redding-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Redding
+Roxton:
+  :name: Roxton
+  :vo: Roxton
+  :location: The Ring[N 1]
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-roxton-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Roxton
+Shermer:
+  :name: Shermer
+  :vo: Shermer
+  :location: Smithyton
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-shermer-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Shermer
+Sloane:
+  :name: Sloane
+  :vo: Sloane
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-sloane-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sloane
+Uffering:
+  :name: Uffering
+  :vo: Uffering
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-uffering-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Uffering
+Westbrook:
+  :name: Westbrook
+  :vo: Westbrook
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-westbrook-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Westbrook
+Wythers:
+  :name: Wythers
+  :vo: Wythers
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-wythers-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wythers
+Yelshire:
+  :name: Yelshire
+  :vo: Yelshire
+  :location: 
+  :rang: 
+  :vassal_of: Tyrell
+  :blason: Blason-yelshire-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Yelshire
+Jardinier:
+  :name: Jardinier
+  :vo: Gardener
+  :location: Hautjardin
+  :rang: Maison éteinteAncienne lignée royale du Bief
+  :vassal_of: 
+  :blason: Blason-jardinier-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jardinier
+Rhysling:
+  :name: Rhysling
+  :vo: Rhysling
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-rhysling-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rhysling
+Martell:
+  :name: Martell
+  :vo: Martell
+  :location: LancehélionLes Jardins Aquatiques
+  :rang: Maison suzeraine de Dorne
+  :vassal_of: 
+  :blason: Blason-martell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Martell
+Allyrion:
+  :name: Allyrion
+  :vo: Allyrion
+  :location: La Gracedieu
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-allyrion-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Allyrion
+Dayne:
+  :name: Dayne
+  :vo: Dayne
+  :location: Les Météores
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-dayne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dayne
+Ferboys:
+  :name: Ferboys
+  :vo: Yronwood
+  :location: Ferboys
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-ferboys-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ferboys
+Forrest:
+  :name: Forrest
+  :vo: Manwoody
+  :location: La Tombe-du-Roy
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-forrest-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Forrest
+Gargalen:
+  :name: Gargalen
+  :vo: Gargalen
+  :location: Salrivage
+  :rang: maison noble
+  :vassal_of: Martell
+  :blason: Blason-gargalen-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gargalen
+Jordayne:
+  :name: Jordayne
+  :vo: Jordayne
+  :location: Le Tor
+  :rang: Maison Noble
+  :vassal_of: Martell
+  :blason: Blason-jordayne-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jordayne
+Noirmont:
+  :name: Noirmont
+  :vo: Blackmont
+  :location: Noirmont
+  :rang: Maison Noble
+  :vassal_of: Martell
+  :blason: Blason-noirmont-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Noirmont
+Poulet:
+  :name: Poulet
+  :vo: Fowler
+  :location: Touche-au-Ciel
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-poulet-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Poulet
+Qorgyle:
+  :name: Qorgyle
+  :vo: Qorgyle
+  :location: Le Grès
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-qorgyle-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Qorgyle
+Toland:
+  :name: Toland
+  :vo: Toland
+  :location: Spectremont
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-toland-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Toland
+Uller:
+  :name: Uller
+  :vo: Uller
+  :location: Denfert
+  :rang: maison Noble
+  :vassal_of: Martell
+  :blason: Blason-uller-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Uller
+le Voi:
+  :name: le Voi
+  :vo: Vaith
+  :location: le Voi
+  :rang: maison noble
+  :vassal_of: Martell
+  :blason: Blason-levoi-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_le_Voi
+Dalt:
+  :name: Dalt
+  :vo: Dalt
+  :location: Boycitre
+  :rang: Chevalier fieffé
+  :vassal_of: 
+  :blason: Blason-dalt-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dalt
+Santagar:
+  :name: Santagar
+  :vo: Santagar
+  :location: Bois-moucheté
+  :rang: Chevalier fieffé
+  :vassal_of: 
+  :blason: Blason-santagar-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Santagar
+Wells:
+  :name: Wells
+  :vo: Wells
+  :location: 
+  :rang: 
+  :vassal_of: Martell
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wells_(Dorne)
+Wyl:
+  :name: Wyl
+  :vo: Wyl
+  :location: Wyl
+  :rang: incertain[N 1]
+  :vassal_of: Martell
+  :blason: Blason-wyl-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wyl
+l'Aride:
+  :name: l'Aride
+  :vo: Dryland
+  :location: Castel-Denfert
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_l%27Aride
+Brook:
+  :name: Brook
+  :vo: Brook
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brook
+Carène:
+  :name: Carène
+  :vo: Hull
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Car%C3%A8ne
+Conquet:
+  :name: Conquet
+  :vo: Shell
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Conquet
+Holt:
+  :name: Holt
+  :vo: Holt
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Holt_(Dorne)
+Lacq:
+  :name: Lacq
+  :vo: Lake
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lacq
+Montbrun:
+  :name: Montbrun
+  :vo: Brownhill
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montbrun
+Roncier:
+  :name: Roncier
+  :vo: Briar
+  :location: 
+  :rang: Maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Roncier
+Wade:
+  :name: Wade
+  :vo: Wade
+  :location: 
+  :rang: maison éteinte
+  :vassal_of: 
+  :blason: Blason-inconnu-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wade
+Buckwell:
+  :name: Buckwell
+  :vo: Buckwell
+  :location: Les Épois
+  :rang: 
+  :vassal_of: Port-Réal
+  :blason: Blason-buckwell-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Buckwell
+Chester:
+  :name: Chester
+  :vo: Chester
+  :location: Bouclier Vert
+  :rang: Maison noble
+  :vassal_of: Tyrell
+  :blason: Blason-chester-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chester
+Cole:
+  :name: Cole
+  :vo: Cole
+  :location: 
+  :rang: exilée
+  :vassal_of: Dondarrion
+  :blason: Blason-cole-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cole
+Vendeloyn de Lumière Isolée:
+  :name: Vendeloyn de Lumière Isolée
+  :vo: Farwynd
+  :location: Lumière Isolée
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-vendeloyn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vendeloyn_de_Lumi%C3%A8re_Isol%C3%A9e
+Vendeloyn de Sealskin Point:
+  :name: Vendeloyn de Sealskin Point
+  :vo: Farwynd
+  :location: Sealskin Point
+  :rang: Maison noble
+  :vassal_of: Greyjoy
+  :blason: Blason-vendeloyn-2014-v01-256px.png
+  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vendeloyn_de_Sealskin_Point

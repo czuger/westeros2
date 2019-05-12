@@ -1,3 +1,4 @@
+
 desc 'Fill map with tokens'
 task :fill_map_with_tokens => :environment do
 

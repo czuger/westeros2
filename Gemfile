@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.0.0'
+gem 'rails', '~> 5.2.0'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'haml-rails'
 # gem 'quiet_assets'
 # gem 'rhex'
-gem 'rhex', path: '../rhex/'
+gem 'rhex'
 
 # To be removed when the deprecation warning issue will be solved (https://github.com/rails/sass-rails/issues/381)
 gem 'sprockets', '3.6.3'
@@ -60,3 +60,4 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'nokogiri'
