@@ -10,13 +10,20 @@ h_db.each do |k, h|
   suzerain = h
   upper_suzerain = suzerain[:vassal_of]
 
+  # p h
   while upper_suzerain
     suzerain = h_db[upper_suzerain]
     upper_suzerain = h_db[upper_suzerain]
+
+    unless upper_suzerain
+      h_db.delete(k)
+      break
+    end
+
     upper_suzerain = upper_suzerain[:vassal_of]
   end
 
-  h_db[k][:faction] = suzerain[:name]
+  h_db[k][:faction] = suzerain[:name] if h_db[k]
 end
 
 restart = true
@@ -26,7 +33,7 @@ while restart
     next unless h[:vassal_of]
     suzerain = h_db[ h[:vassal_of] ]
 
-    p h, suzerain
+    # p h, suzerain
 
     if h[:vassality_level] <= suzerain[:vassality_level]
       h_db[k][:vassality_level] += 1
@@ -74,3 +81,9 @@ end
 File.open('houses.yaml', 'w') do |f|
   f.write(cleaned_houses.to_yaml)
 end
+
+# File.open('houses_ranks.txt', 'w') do |f|
+#   cleaned_houses.map{ |k, h| [ h[:faction], h[:name], 0 ] }.sort.each do |h|
+#     f.puts( [ h[0], h[1], 0 ].join(':' ) )
+#   end
+# end

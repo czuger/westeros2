@@ -87,25 +87,20 @@ Arryn:
   Belmore: Belmore
   Corbray: Corbray
   Elesham: Elesham
-  Froideseaux: Froideseaux
   Grafton: Grafton
   Lynderly: Lynderly
-  Rougefort: Rougefort
-  Royce: Royce de Roches-aux-runes
-  Tallett: Tallett
+  Royce de Roches-aux-runes: Royce de Roches-aux-runes
   Vanbois: Vanbois
   Veneur: Veneur
   Borrell: Borrell
   Sunderland: Sunderland
   Cirley: Cirley
   Hardyng: Hardyng
-  Shett: Shett
   Templeton: Templeton
   Descarpe: Descarpe
   Donniger: Donniger
   Egen: Egen
   Hersy: Hersy
-  Melcom: Melcom
   Montmarri: Montmarri
   Moore: Moore
   Pryor: Pryor
@@ -113,6 +108,24 @@ Arryn:
   Wydman: Wydman
 Baratheon:
   Baratheon: Baratheon
+  Castelfoyer: Castelfoyer
+  Chelsted: Chelsted
+  Harte: Harte
+  Mallery: Mallery
+  Rosby: Rosby
+  Rykker: Rykker
+  Slynt: Slynt
+  Blount: Blount
+  Boulleau: Boulleau
+  Cressey: Cressey
+  Edgerton: Edgerton
+  Farring: Farring
+  Follard: Follard
+  Gaunt: Gaunt
+  Langward: Langward
+  Manning: Manning
+  Massey: Massey
+  Pyle: Pyle
   Buckler: Buckler
   Cafferen: Cafferen
   Cossepois: Cossepois
@@ -132,6 +145,7 @@ Baratheon:
   Mervault: Mervault
   Lonbec: Lonbec
   Tudbury: Tudbury
+  Buckwell: Buckwell
 Lannister:
   Lannister: Lannister
   Brax: Brax
