@@ -1,275 +1,189 @@
 ---
 Stark:
-  Stark: Stark
-  Bolton: Bolton
-  Cerwyn: Cerwyn
-  Corbois: Corbois
-  Dustin: Dustin
-  Flint: Flint
-  Karstark: Karstark
-  Locke: Locke
-  Manderly: Manderly
-  Mormont: Mormont
-  Omble: Omble
-  Ryswell: Ryswell
-  Stout: Stout
-  Glover: Glover
-  Tallhart: Tallhart
-  Ardoise: Ardoise
-  Bosc: Bosc
-  Cassel: Cassel
-  Cardon: Cardon
-  Flint de Pouce-Flint: Flint de Pouce-Flint
-  Forestier: Forestier
-  Ironsmith: Ironsmith
-  Lake: Lake
-  Lightfoot: Lightfoot
-  Long: Long
-  Marsh: Marsh
-  Mollen: Mollen
-  Moss: Moss
-  Overton: Overton
-  Poole: Poole
-  Puits: Puits
-  Souche: Souche
-  Waterman: Waterman
-  Whitehill: Whitehill
-  Woolfield: Woolfield
-  Burley: Burley
-  Harclay: Harclay
-  Knott: Knott
-  Lideuil: Lideuil
-  Norroit: Norroit
-  Wull: Wull
-  Reed: Reed
-  Bonvert: Bonvert
-  Palus: Palus
-  Saline: Saline
-  Tourbier: Tourbier
-  Rhamp: Rhamp
-  Magnar: Magnar
-  Stane: Stane
-Tully:
-  Tully: Tully
-  Beurpuits: Beurpuits
-  Bonru: Bonru
-  Bracken: Bracken
-  Charlton: Charlton
-  Darry: Darry
-  Frey: Frey
-  Harlton: Harlton
-  Lychester: Lychester
-  Mallister: Mallister
-  Mouton: Mouton
-  Nerbosc: Nerbosc
-  Petibois: Petibois
-  Piper: Piper
-  Racin: Racin
-  Vance: Vance
-  Vyprin: Vyprin
-  Whent: Whent
-  Foin: Foin
-  Guède: Guède
-  Paege: Paege
-  Blanetree: Blanetree
-  Chauney: Chauney
-  Erongué: Erongué
-  Grell: Grell
-  Hawick: Hawick
-  Keath: Keath
-  Lolliston: Lolliston
-  Ryger: Ryger
-  Terrick: Terrick
-  Van: Van
-Arryn:
-  Arryn: Arryn
-  Baelish: Baelish
-  Belmore: Belmore
-  Corbray: Corbray
-  Elesham: Elesham
-  Grafton: Grafton
-  Lynderly: Lynderly
-  Royce de Roches-aux-runes: Royce de Roches-aux-runes
-  Vanbois: Vanbois
-  Veneur: Veneur
-  Borrell: Borrell
-  Sunderland: Sunderland
-  Cirley: Cirley
-  Hardyng: Hardyng
-  Templeton: Templeton
-  Descarpe: Descarpe
-  Donniger: Donniger
-  Egen: Egen
-  Hersy: Hersy
-  Montmarri: Montmarri
-  Moore: Moore
-  Pryor: Pryor
-  Royce des Portes de la Lune: Royce des Portes de la Lune
-  Wydman: Wydman
-Baratheon:
-  Baratheon: Baratheon
-  Castelfoyer: Castelfoyer
-  Chelsted: Chelsted
-  Harte: Harte
-  Mallery: Mallery
-  Rosby: Rosby
-  Rykker: Rykker
-  Slynt: Slynt
-  Blount: Blount
-  Boulleau: Boulleau
-  Cressey: Cressey
-  Edgerton: Edgerton
-  Farring: Farring
-  Follard: Follard
-  Gaunt: Gaunt
-  Langward: Langward
-  Manning: Manning
-  Massey: Massey
-  Pyle: Pyle
-  Buckler: Buckler
-  Cafferen: Cafferen
-  Cossepois: Cossepois
-  Errol: Errol
-  Estremont: Estremont
-  Fell: Fell
-  Grandison: Grandison
-  Morrigen: Morrigen
-  Penrose: Penrose
-  Staedmon: Staedmon
-  Torth: Torth
-  Wylde: Wylde
-  Caron: Caron
-  Selmy: Selmy
-  Swann: Swann
-  Connington: Connington
-  Mervault: Mervault
-  Lonbec: Lonbec
-  Tudbury: Tudbury
-  Buckwell: Buckwell
+- Stark
+- Bolton
+- Whitehill
+- Cerwyn
+- Corbois
+- Dustin
+- Stout
+- Karstark
+- Manderly
+- Locke
+- Mormont
+- Omble
+- Ryswell
+- Tallhart
+- Cassel
+- Cardon
+- Puits
+- Lideuil
+- Norroit
+- Wull
+- Reed
 Lannister:
-  Lannister: Lannister
-  Brax: Brax
-  Crakehall: Crakehall
-  Estren: Estren
-  Gerblance: Gerblance
-  Farman: Farman
-  Fléaufort: Fléaufort
-  Jast: Jast
-  Kenning: Kenning
-  Lefford: Lefford
-  Lydden: Lydden
-  Marpheux: Marpheux
-  Moreland: Moreland
-  Ouestrelin: Ouestrelin
-  Prestre: Prestre
-  Prünh: Prünh
-  Sarwyck: Sarwyck
-  Serrett: Serrett
-  Clegane: Clegane
-  Cuillêtre: Cuillêtre
-  If: If
-  Lépicier: Lépicier
-  Lorch: Lorch
-  Rouxtigre: Rouxtigre
-  Swyft: Swyft
-  Verchamps: Verchamps
-  Vikair: Vikair
-  Algood: Algood
-  Aubépin: Aubépin
-  Bettley: Bettley
-  Doguette: Doguette
-  Dombecq: Dombecq
-  Drox: Drox
-  Fallières: Fallières
-  Ferren: Ferren
-  Garner: Garner
-  Geneste: Geneste
-  Hamell: Hamell
-  Kyndall: Kyndall
-  Myatt: Myatt
-  Payne: Payne
-  Pièdre: Pièdre
-  Sarschamp: Sarschamp
-  Tournebaie: Tournebaie
-  Yarwyck: Yarwyck
-  Westford: Westford
+- Lannister
+- Brax
+- Crakehall
+- Estren
+- Gerblance
+- Farman
+- Fléaufort
+- Jast
+- Kenning
+- Lefford
+- Lydden
+- Ouestrelin
+- Prestre
+- Prünh
+- Sarwyck
+- Clegane
+- Cuillêtre
+- Lépicier
+- Lorch
+- Swyft
+- Verchamps
+- Vikair
+- Bettley
+- Doguette
+- Fallières
+- Garner
+- Geneste
+- Payne
+- Pièdre
+- Sarschamp
+- Tournebaie
 Tyrell:
-  Tyrell: Tyrell
-  Ambrose: Ambrose
-  Bulwer: Bulwer
-  Caswell: Caswell
-  Cendregué: Cendregué
-  Chantecoq: Chantecoq
-  Costayne: Costayne
-  Crane: Crane
-  Cuy: Cuy
-  des Essaims: des Essaims
-  Florent: Florent
-  Hightower: Hightower
-  Merryweather: Merryweather
-  Mullendore: Mullendore
-  de la Nouë: de la Nouë
-  Peake: Peake
-  Redwyne: Redwyne
-  Risley: Risley
-  du Rouvre: du Rouvre
-  Rowan: Rowan
-  Tarly: Tarly
-  Tyssier: Tyssier
-  Varnier: Varnier
-  Vouyvère: Vouyvère
-  Willum: Willum
-  Grimm: Grimm
-  Houëtt: Houëtt
-  Serry: Serry
-  Fossovoie pomme-rouge: Fossovoie pomme-rouge
-  Fossovoie pomme-verte: Fossovoie pomme-verte
-  Hunt: Hunt
-  Norcroix: Norcroix
-  Osgris: Osgris
-  Appleton: Appleton
-  Bonleu: Bonleu
-  Boule: Boule
-  Brousse: Brousse
-  Le Charpentier: Le Charpentier
-  Cordwayner: Cordwayner
-  Dunn: Dunn
-  Graceford: Graceford
-  Graves: Graves
-  Hutcheson: Hutcheson
-  Kidwell: Kidwell
-  Lowther: Lowther
-  Lyberr: Lyberr
-  Middlebury: Middlebury
-  Milopin: Milopin
-  Nègrebar: Nègrebar
-  Norridge: Norridge
-  Oldflowers: Oldflowers
-  Orme: Orme
-  Piète: Piète
-  Pommingham: Pommingham
-  Redding: Redding
-  Roxton: Roxton
-  Shermer: Shermer
-  Sloane: Sloane
-  Uffering: Uffering
-  Westbrook: Westbrook
-  Wythers: Wythers
-  Yelshire: Yelshire
-  Chester: Chester
+- Tyrell
+- Ambrose
+- Caswell
+- Cendregué
+- Chantecoq
+- Crane
+- Florent
+- Norcroix
+- Hightower
+- Bulwer
+- Costayne
+- Cuy
+- des Essaims
+- Mullendore
+- Merryweather
+- de la Nouë
+- Peake
+- Redwyne
+- Risley
+- du Rouvre
+- Rowan
+- Tyssier
+- Osgris
+- Tarly
+- Hunt
+- Varnier
+- Vouyvère
+- Chester
+- Grimm
+- Houëtt
+- Fossovoie pomme-rouge
+- Fossovoie pomme-verte
+- Bonleu
+- Boule
+- Brousse
+- Le Charpentier
+- Graceford
+- Milopin
+- Nègrebar
+- Norridge
+- Oldflowers
+- Roxton
+- Uffering
 Martell:
-  Martell: Martell
-  Allyrion: Allyrion
-  Dayne: Dayne
-  Ferboys: Ferboys
-  Forrest: Forrest
-  Gargalen: Gargalen
-  Jordayne: Jordayne
-  Noirmont: Noirmont
-  Poulet: Poulet
-  Qorgyle: Qorgyle
-  Toland: Toland
-  Uller: Uller
-  le Voi: le Voi
-  Wells: Wells
-  Wyl: Wyl
+- Martell
+- Allyrion
+- Dayne
+- Ferboys
+- Forrest
+- Gargalen
+- Jordayne
+- Poulet
+- Qorgyle
+- Uller
+- le Voi
+- Wyl
+Baratheon:
+- Baratheon
+- Buckler
+- Cossepois
+- Errol
+- Estremont
+- Fell
+- Grandison
+- Morrigen
+- Penrose
+- Staedmon
+- Torth
+- Wylde
+- Caron
+- Selmy
+- Swann
+- Connington
+- Mervault
+- Lonbec
+Tully:
+- Tully
+- Beurpuits
+- Bonru
+- Bracken
+- Darry
+- Frey
+- Charlton
+- Foin
+- Harlton
+- Lychester
+- Mallister
+- Mouton
+- Nerbosc
+- Piper
+- Racin
+- Vance
+- Petibois
+- Vyprin
+- Whent
+- Guède
+- Paege
+- Grell
+- Ryger
+- Terrick
+- Van
+Arryn:
+- Arryn
+- Baelish
+- Belmore
+- Corbray
+- Grafton
+- Lynderly
+- Royce de Roches-aux-runes
+- Vanbois
+- Hardyng
+- Veneur
+- Sunderland
+- Borrell
+- Cirley
+- Templeton
+- Montmarri
+- Moore
+- Pryor
+Port-Réal:
+- Castelfoyer
+- Chelsted
+- Harte
+- Mallery
+- Rosby
+- Rykker
+- Blount
+- Boulleau
+- Farring
+- Gaunt
+- Langward
+- Massey
+- Pyle

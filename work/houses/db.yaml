@@ -9,6 +9,8 @@ Stark:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stark
   :lord: Eddard Stark
   :ser: 
+  :leaders:
+  - King Robb Stark
 Bolton:
   :name: Bolton
   :vo: Bolton
@@ -19,6 +21,8 @@ Bolton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bolton
   :lord: Roose Bolton
   :ser: 
+  :leaders:
+  - Roose Bolton
 Cerwyn:
   :name: Cerwyn
   :vo: Cerwyn
@@ -29,6 +33,8 @@ Cerwyn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cerwyn
   :lord: Medger Cerwyn
   :ser: 
+  :leaders:
+  - Medger Cerwyn
 Corbois:
   :name: Corbois
   :vo: Hornwood
@@ -39,6 +45,8 @@ Corbois:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Corbois
   :lord: Halys Corbois
   :ser: 
+  :leaders:
+  - Halys Corbois
 Dustin:
   :name: Dustin
   :vo: Dustin
@@ -49,6 +57,8 @@ Dustin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dustin
   :lord: Roderick Dustin
   :ser: 
+  :leaders:
+  - Roderick Dustin
 Flint:
   :name: Flint
   :vo: Flint
@@ -59,6 +69,7 @@ Flint:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Flint_de_La_Veuve
   :lord: 
   :ser: 
+  :leaders: []
 Karstark:
   :name: Karstark
   :vo: Karstark
@@ -69,6 +80,8 @@ Karstark:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Karstark
   :lord: Rickard Karstark
   :ser: 
+  :leaders:
+  - Rickard Karstark
 Locke:
   :name: Locke
   :vo: Locke
@@ -79,6 +92,9 @@ Locke:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Locke
   :lord: Ondrew Locke
   :ser: Donnel Locke
+  :leaders:
+  - Ondrew Locke
+  - Donnel Locke
 Manderly:
   :name: Manderly
   :vo: Manderly
@@ -89,6 +105,9 @@ Manderly:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Manderly
   :lord: Wyman Manderly
   :ser: Marlon Manderly
+  :leaders:
+  - Wyman Manderly
+  - Marlon Manderly
 Mormont:
   :name: Mormont
   :vo: Mormont
@@ -99,6 +118,8 @@ Mormont:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mormont
   :lord: Jeor Mormont
   :ser: 
+  :leaders:
+  - Jeor Mormont
 Omble:
   :name: Omble
   :vo: Umber
@@ -109,6 +130,8 @@ Omble:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Omble
   :lord: Jon Omble
   :ser: 
+  :leaders:
+  - Jon Omble
 Ryswell:
   :name: Ryswell
   :vo: Ryswell
@@ -119,6 +142,9 @@ Ryswell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryswell
   :lord: Rodrik Ryswell
   :ser: Mark Ryswell
+  :leaders:
+  - Rodrik Ryswell
+  - Mark Ryswell
 Stout:
   :name: Stout
   :vo: Stout
@@ -129,6 +155,9 @@ Stout:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stout
   :lord: Harbois Stout
   :ser: Wynton Stout
+  :leaders:
+  - Harbois Stout
+  - Wynton Stout
 Glover:
   :name: Glover
   :vo: Glover
@@ -139,6 +168,7 @@ Glover:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Glover
   :lord: 
   :ser: 
+  :leaders: []
 Tallhart:
   :name: Tallhart
   :vo: Tallhart
@@ -149,6 +179,8 @@ Tallhart:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tallhart
   :lord: 
   :ser: Helman Tallhart
+  :leaders:
+  - Helman Tallhart
 Ardoise:
   :name: Ardoise
   :vo: Slate
@@ -159,6 +191,7 @@ Ardoise:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ardoise
   :lord: 
   :ser: 
+  :leaders: []
 Bosc:
   :name: Bosc
   :vo: Woods
@@ -169,6 +202,7 @@ Bosc:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bosc
   :lord: 
   :ser: 
+  :leaders: []
 Cassel:
   :name: Cassel
   :vo: Cassel
@@ -179,6 +213,8 @@ Cassel:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cassel
   :lord: 
   :ser: Rodrik Cassel
+  :leaders:
+  - Rodrik Cassel
 Cardon:
   :name: Cardon
   :vo: Condon
@@ -189,6 +225,8 @@ Cardon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cardon
   :lord: 
   :ser: Kyle Cardon
+  :leaders:
+  - Kyle Cardon
 Flint de Pouce-Flint:
   :name: Flint de Pouce-Flint
   :vo: Flint
@@ -199,6 +237,7 @@ Flint de Pouce-Flint:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Flint_de_Pouce-Flint
   :lord: 
   :ser: 
+  :leaders: []
 Forestier:
   :name: Forestier
   :vo: Forrester
@@ -209,6 +248,9 @@ Forestier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Forestier
   :lord: Gregor Forestier
   :ser: Royland Degore
+  :leaders:
+  - Gregor Forestier
+  - Royland Degore
 Ironsmith:
   :name: Ironsmith
   :vo: Ironsmith
@@ -219,6 +261,7 @@ Ironsmith:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ironsmith
   :lord: 
   :ser: 
+  :leaders: []
 Lake:
   :name: Lake
   :vo: Lake
@@ -229,6 +272,7 @@ Lake:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lake
   :lord: 
   :ser: 
+  :leaders: []
 Lightfoot:
   :name: Lightfoot
   :vo: Lightfoot
@@ -239,6 +283,7 @@ Lightfoot:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lightfoot
   :lord: 
   :ser: 
+  :leaders: []
 Long:
   :name: Long
   :vo: Long
@@ -249,6 +294,7 @@ Long:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Long
   :lord: 
   :ser: 
+  :leaders: []
 Marsh:
   :name: Marsh
   :vo: Marsh
@@ -259,6 +305,7 @@ Marsh:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Marsh
   :lord: 
   :ser: 
+  :leaders: []
 Mollen:
   :name: Mollen
   :vo: Mollen
@@ -269,6 +316,7 @@ Mollen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mollen
   :lord: 
   :ser: 
+  :leaders: []
 Moss:
   :name: Moss
   :vo: Moss
@@ -279,6 +327,7 @@ Moss:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moss
   :lord: 
   :ser: 
+  :leaders: []
 Overton:
   :name: Overton
   :vo: Overton
@@ -289,6 +338,7 @@ Overton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Overton
   :lord: 
   :ser: 
+  :leaders: []
 Poole:
   :name: Poole
   :vo: Poole
@@ -299,6 +349,7 @@ Poole:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Poole
   :lord: 
   :ser: 
+  :leaders: []
 Puits:
   :name: Puits
   :vo: Wells
@@ -309,6 +360,8 @@ Puits:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Puits_(Nord)
   :lord: 
   :ser: Theodan Puits
+  :leaders:
+  - Theodan Puits
 Souche:
   :name: Souche
   :vo: Bole
@@ -319,6 +372,7 @@ Souche:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Souche
   :lord: 
   :ser: 
+  :leaders: []
 Waterman:
   :name: Waterman
   :vo: Waterman
@@ -329,6 +383,7 @@ Waterman:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Waterman
   :lord: 
   :ser: 
+  :leaders: []
 Whitehill:
   :name: Whitehill
   :vo: Whitehill
@@ -339,6 +394,8 @@ Whitehill:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Whitehill
   :lord: Ludd Whitehill
   :ser: 
+  :leaders:
+  - Ludd Whitehill
 Woolfield:
   :name: Woolfield
   :vo: Woolfield
@@ -349,6 +406,7 @@ Woolfield:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Woolfield
   :lord: 
   :ser: 
+  :leaders: []
 Burley:
   :name: Burley
   :vo: Burley
@@ -359,6 +417,7 @@ Burley:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Burley
   :lord: 
   :ser: 
+  :leaders: []
 Harclay:
   :name: Harclay
   :vo: Harclay
@@ -369,6 +428,7 @@ Harclay:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harclay
   :lord: 
   :ser: 
+  :leaders: []
 Knott:
   :name: Knott
   :vo: Knott
@@ -379,6 +439,7 @@ Knott:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Knott
   :lord: 
   :ser: 
+  :leaders: []
 Lideuil:
   :name: Lideuil
   :vo: Liddle
@@ -389,6 +450,8 @@ Lideuil:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lideuil
   :lord: Torren Lideuil
   :ser: 
+  :leaders:
+  - Torren Lideuil
 Norroit:
   :name: Norroit
   :vo: Norrey
@@ -399,6 +462,8 @@ Norroit:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norroit
   :lord: Brandon Norroit
   :ser: 
+  :leaders:
+  - Brandon Norroit
 Wull:
   :name: Wull
   :vo: Wull
@@ -409,6 +474,8 @@ Wull:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wull
   :lord: Hugo Wull
   :ser: 
+  :leaders:
+  - Hugo Wull
 Reed:
   :name: Reed
   :vo: Reed
@@ -419,6 +486,8 @@ Reed:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Reed
   :lord: Howland Reed
   :ser: 
+  :leaders:
+  - Howland Reed
 Bonvert:
   :name: Bonvert
   :vo: Greengood
@@ -429,6 +498,7 @@ Bonvert:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonvert
   :lord: 
   :ser: 
+  :leaders: []
 Palus:
   :name: Palus
   :vo: Quagg
@@ -439,6 +509,7 @@ Palus:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Palus
   :lord: 
   :ser: 
+  :leaders: []
 Saline:
   :name: Saline
   :vo: Fenn
@@ -449,6 +520,7 @@ Saline:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Saline
   :lord: 
   :ser: 
+  :leaders: []
 Tourbier:
   :name: Tourbier
   :vo: Boggs
@@ -459,6 +531,7 @@ Tourbier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tourbier_du_Neck
   :lord: 
   :ser: 
+  :leaders: []
 Rhamp:
   :name: Rhamp
   :vo: Crowl
@@ -469,6 +542,7 @@ Rhamp:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rhamp
   :lord: 
   :ser: 
+  :leaders: []
 Magnar:
   :name: Magnar
   :vo: Magnar
@@ -479,6 +553,7 @@ Magnar:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Magnar
   :lord: 
   :ser: 
+  :leaders: []
 Stane:
   :name: Stane
   :vo: Stane
@@ -489,6 +564,7 @@ Stane:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stane
   :lord: 
   :ser: 
+  :leaders: []
 Barberouge:
   :name: Barberouge
   :vo: Redbeard
@@ -499,6 +575,7 @@ Barberouge:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Barberouge
   :lord: 
   :ser: 
+  :leaders: []
 Thenn:
   :name: Thenn
   :vo: Thenn
@@ -509,6 +586,7 @@ Thenn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Thenn
   :lord: 
   :ser: 
+  :leaders: []
 Greyjoy:
   :name: Greyjoy
   :vo: Greyjoy
@@ -519,6 +597,8 @@ Greyjoy:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Greyjoy
   :lord: Balon Greyjoy
   :ser: 
+  :leaders:
+  - Balon Greyjoy
 Bonfrère:
   :name: Bonfrère
   :vo: Goodbrother
@@ -529,6 +609,8 @@ Bonfrère:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonfr%C3%A8re_de_Cormartel
   :lord: Gorold Bonfr
   :ser: 
+  :leaders:
+  - Gorold Bonfr
 Botley:
   :name: Botley
   :vo: Botley
@@ -539,6 +621,8 @@ Botley:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Botley
   :lord: Sawane Botley
   :ser: 
+  :leaders:
+  - Sawane Botley
 Harloi:
   :name: Harloi
   :vo: Harlaw
@@ -549,6 +633,9 @@ Harloi:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harloi
   :lord: Rodrik Harloi
   :ser: Harras Harloi
+  :leaders:
+  - Rodrik Harloi
+  - Harras Harloi
 Merlyn:
   :name: Merlyn
   :vo: Merlyn
@@ -559,6 +646,8 @@ Merlyn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Merlyn
   :lord: Meldred Merlyn
   :ser: 
+  :leaders:
+  - Meldred Merlyn
 Noirmarées:
   :name: Noirmarées
   :vo: Blacktyde
@@ -569,6 +658,8 @@ Noirmarées:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Noirmar%C3%A9es
   :lord: Baelor Noirmar
   :ser: 
+  :leaders:
+  - Baelor Noirmar
 Orquebois:
   :name: Orquebois
   :vo: Orkwood
@@ -579,6 +670,8 @@ Orquebois:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Orquebois
   :lord: Alyn Orquebois
   :ser: 
+  :leaders:
+  - Alyn Orquebois
 Salfalaise:
   :name: Salfalaise
   :vo: Saltcliffe
@@ -589,6 +682,8 @@ Salfalaise:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Salfalaise
   :lord: Donnor Salfalaise
   :ser: 
+  :leaders:
+  - Donnor Salfalaise
 Tawney:
   :name: Tawney
   :vo: Tawney
@@ -599,6 +694,8 @@ Tawney:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tawney
   :lord: Balon Tawney
   :ser: 
+  :leaders:
+  - Balon Tawney
 Timbal:
   :name: Timbal
   :vo: Drumm
@@ -609,6 +706,8 @@ Timbal:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Timbal
   :lord: Dunstan Timbal
   :ser: 
+  :leaders:
+  - Dunstan Timbal
 Valleuse:
   :name: Valleuse
   :vo: Sunderly
@@ -619,6 +718,7 @@ Valleuse:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Valleuse
   :lord: 
   :ser: 
+  :leaders: []
 Volmark:
   :name: Volmark
   :vo: Volmark
@@ -629,6 +729,8 @@ Volmark:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Volmark
   :lord: Maron Volmark
   :ser: 
+  :leaders:
+  - Maron Volmark
 Wynch:
   :name: Wynch
   :vo: Wynch
@@ -639,6 +741,9 @@ Wynch:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wynch
   :lord: Waldon Wynch
   :ser: Aladale Wynch
+  :leaders:
+  - Waldon Wynch
+  - Aladale Wynch
 Kenning de Harloi:
   :name: Kenning de Harloi
   :vo: Kenning of Harlaw
@@ -649,6 +754,7 @@ Kenning de Harloi:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kenning_de_Harloi
   :lord: 
   :ser: 
+  :leaders: []
 Maisonpierre:
   :name: Maisonpierre
   :vo: Stonehouse
@@ -659,6 +765,7 @@ Maisonpierre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Maisonpierre
   :lord: 
   :ser: 
+  :leaders: []
 Morru:
   :name: Morru
   :vo: Codd
@@ -669,6 +776,7 @@ Morru:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Morru
   :lord: 
   :ser: 
+  :leaders: []
 Myrès:
   :name: Myrès
   :vo: Myre
@@ -679,6 +787,7 @@ Myrès:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Myr%C3%A8s
   :lord: 
   :ser: 
+  :leaders: []
 Pindepierre:
   :name: Pindepierre
   :vo: Stonetree
@@ -689,6 +798,7 @@ Pindepierre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pindepierre
   :lord: 
   :ser: 
+  :leaders: []
 Sparr:
   :name: Sparr
   :vo: Sparr
@@ -699,6 +809,7 @@ Sparr:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sparr
   :lord: 
   :ser: 
+  :leaders: []
 Chenu:
   :name: Chenu
   :vo: Hoare
@@ -709,6 +820,7 @@ Chenu:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chenu
   :lord: 
   :ser: 
+  :leaders: []
 Greyfer:
   :name: Greyfer
   :vo: Greyiron
@@ -719,6 +831,7 @@ Greyfer:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Greyfer
   :lord: 
   :ser: 
+  :leaders: []
 Tully:
   :name: Tully
   :vo: Tully
@@ -729,6 +842,9 @@ Tully:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tully
   :lord: Hoster Tully
   :ser: Brynden Tully
+  :leaders:
+  - Hoster Tully
+  - Brynden Tully
 Beurpuits:
   :name: Beurpuits
   :vo: Butterwell
@@ -739,6 +855,8 @@ Beurpuits:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Beurpuits
   :lord: Alton Beurpuits
   :ser: 
+  :leaders:
+  - Alton Beurpuits
 Bonru:
   :name: Bonru
   :vo: Goodbrook
@@ -749,6 +867,9 @@ Bonru:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonru
   :lord: Lymond Bonru
   :ser: Garse Bonru
+  :leaders:
+  - Lymond Bonru
+  - Garse Bonru
 Bracken:
   :name: Bracken
   :vo: Bracken
@@ -759,6 +880,9 @@ Bracken:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bracken
   :lord: Jonos Bracken
   :ser: Lyle Bracken
+  :leaders:
+  - Jonos Bracken
+  - Lyle Bracken
 Charlton:
   :name: Charlton
   :vo: Charlton
@@ -769,6 +893,9 @@ Charlton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Charlton
   :lord: Theo Charlton
   :ser: Andrey Charlton
+  :leaders:
+  - Theo Charlton
+  - Andrey Charlton
 Darry:
   :name: Darry
   :vo: Darry
@@ -779,6 +906,9 @@ Darry:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Darry
   :lord: Darnold Darry
   :ser: Raymun Darry
+  :leaders:
+  - Darnold Darry
+  - Raymun Darry
 Frey:
   :name: Frey
   :vo: Frey
@@ -789,6 +919,9 @@ Frey:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Frey
   :lord: Walder Frey
   :ser: Franklyn Frey
+  :leaders:
+  - Walder Frey
+  - Franklyn Frey
 Harlton:
   :name: Harlton
   :vo: Harlton
@@ -799,6 +932,8 @@ Harlton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harlton
   :lord: Arwood Harlton
   :ser: 
+  :leaders:
+  - Arwood Harlton
 Lychester:
   :name: Lychester
   :vo: Lychester
@@ -809,6 +944,8 @@ Lychester:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lychester
   :lord: Lymond Lychester
   :ser: 
+  :leaders:
+  - Lymond Lychester
 Mallister:
   :name: Mallister
   :vo: Mallister
@@ -819,6 +956,9 @@ Mallister:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mallister
   :lord: Jason Mallister
   :ser: Denys Mallister
+  :leaders:
+  - Jason Mallister
+  - Denys Mallister
 Mouton:
   :name: Mouton
   :vo: Mooton
@@ -829,6 +969,9 @@ Mouton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mouton
   :lord: William Mouton
   :ser: Myles Mouton
+  :leaders:
+  - William Mouton
+  - Myles Mouton
 Nerbosc:
   :name: Nerbosc
   :vo: Blackwood
@@ -839,6 +982,9 @@ Nerbosc:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Nerbosc
   :lord: Tytos Nerbosc
   :ser: Bennifer Nerbosc
+  :leaders:
+  - Tytos Nerbosc
+  - Bennifer Nerbosc
 Petibois:
   :name: Petibois
   :vo: Smallwood[N 1]
@@ -849,6 +995,8 @@ Petibois:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Petibois
   :lord: Theomar Petibois
   :ser: 
+  :leaders:
+  - Theomar Petibois
 Piper:
   :name: Piper
   :vo: Piper
@@ -859,6 +1007,9 @@ Piper:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Piper
   :lord: Clement Piper
   :ser: Marq Piper
+  :leaders:
+  - Clement Piper
+  - Marq Piper
 Racin:
   :name: Racin
   :vo: Roote
@@ -869,6 +1020,8 @@ Racin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Racin
   :lord: 
   :ser: Richard Racin
+  :leaders:
+  - Richard Racin
 Vance:
   :name: Vance
   :vo: Vance
@@ -879,6 +1032,9 @@ Vance:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vance_de_Bel_Accueil
   :lord: Armistead Vance
   :ser: Karyl Vance
+  :leaders:
+  - Armistead Vance
+  - Karyl Vance
 Vyprin:
   :name: Vyprin
   :vo: Vypren
@@ -889,6 +1045,8 @@ Vyprin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vyprin
   :lord: Lucias Vyprin
   :ser: 
+  :leaders:
+  - Lucias Vyprin
 Whent:
   :name: Whent
   :vo: Whent
@@ -899,6 +1057,9 @@ Whent:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Whent
   :lord: Walter Whent
   :ser: Oswell Whent
+  :leaders:
+  - Walter Whent
+  - Oswell Whent
 Foin:
   :name: Foin
   :vo: Haigh
@@ -909,6 +1070,8 @@ Foin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Foin
   :lord: 
   :ser: Leslyn Foin
+  :leaders:
+  - Leslyn Foin
 Guède:
   :name: Guède
   :vo: Wode
@@ -919,6 +1082,8 @@ Guède:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gu%C3%A8de
   :lord: 
   :ser: Willis Gu
+  :leaders:
+  - Willis Gu
 Paege:
   :name: Paege
   :vo: Paege
@@ -929,6 +1094,8 @@ Paege:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Paege
   :lord: 
   :ser: Halmon Paege
+  :leaders:
+  - Halmon Paege
 Blanetree:
   :name: Blanetree
   :vo: Blanetree
@@ -939,6 +1106,7 @@ Blanetree:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Blanetree
   :lord: 
   :ser: 
+  :leaders: []
 Chauney:
   :name: Chauney
   :vo: Shawney
@@ -949,6 +1117,7 @@ Chauney:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chauney
   :lord: 
   :ser: 
+  :leaders: []
 Erongué:
   :name: Erongué
   :vo: Erenford
@@ -959,6 +1128,7 @@ Erongué:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Erongu%C3%A9
   :lord: 
   :ser: 
+  :leaders: []
 Grell:
   :name: Grell
   :vo: Grell
@@ -969,6 +1139,8 @@ Grell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grell
   :lord: 
   :ser: Desmond Grell
+  :leaders:
+  - Desmond Grell
 Hawick:
   :name: Hawick
   :vo: Hawick
@@ -979,6 +1151,7 @@ Hawick:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hawick
   :lord: 
   :ser: 
+  :leaders: []
 Keath:
   :name: Keath
   :vo: Keath
@@ -989,6 +1162,7 @@ Keath:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Keath
   :lord: 
   :ser: 
+  :leaders: []
 Lolliston:
   :name: Lolliston
   :vo: Lolliston
@@ -999,6 +1173,7 @@ Lolliston:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lolliston
   :lord: 
   :ser: 
+  :leaders: []
 Ryger:
   :name: Ryger
   :vo: Ryger
@@ -1009,6 +1184,8 @@ Ryger:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryger
   :lord: 
   :ser: Robin Ryger
+  :leaders:
+  - Robin Ryger
 Terrick:
   :name: Terrick
   :vo: Terrick
@@ -1019,6 +1196,8 @@ Terrick:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Terrick
   :lord: 
   :ser: Alyn Terrick
+  :leaders:
+  - Alyn Terrick
 Van:
   :name: Van
   :vo: Wayn
@@ -1029,6 +1208,8 @@ Van:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Van
   :lord: Tristifer Van
   :ser: 
+  :leaders:
+  - Tristifer Van
 d'Alluve:
   :name: d'Alluve
   :vo: Mudd
@@ -1039,6 +1220,8 @@ d'Alluve:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_d%27Alluve
   :lord: Tristan d
   :ser: 
+  :leaders:
+  - Tristan d
 Croche:
   :name: Croche
   :vo: Hook
@@ -1049,6 +1232,7 @@ Croche:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Croche
   :lord: 
   :ser: 
+  :leaders: []
 Fort:
   :name: Fort
   :vo: Strong
@@ -1059,6 +1243,9 @@ Fort:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fort
   :lord: Bywin Fort
   :ser: Osmund Fort
+  :leaders:
+  - Bywin Fort
+  - Osmund Fort
 Herpivoie:
   :name: Herpivoie
   :vo: Harroway
@@ -1069,6 +1256,8 @@ Herpivoie:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Herpivoie
   :lord: Lucas Herpivoie
   :ser: 
+  :leaders:
+  - Lucas Herpivoie
 Lejuste:
   :name: Lejuste
   :vo: Justman
@@ -1079,6 +1268,7 @@ Lejuste:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lejuste
   :lord: 
   :ser: 
+  :leaders: []
 Lothston:
   :name: Lothston
   :vo: Lothston
@@ -1089,6 +1279,9 @@ Lothston:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lothston
   :lord: Lucas Lothston
   :ser: Guy Lothston
+  :leaders:
+  - Lucas Lothston
+  - Guy Lothston
 Pescheur:
   :name: Pescheur
   :vo: Fisher
@@ -1099,6 +1292,8 @@ Pescheur:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pescheur
   :lord: 
   :ser: Lymond Pescheur
+  :leaders:
+  - Lymond Pescheur
 Qoherys:
   :name: Qoherys
   :vo: Qoherys
@@ -1109,6 +1304,8 @@ Qoherys:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Qoherys
   :lord: Quenton Qoherys
   :ser: 
+  :leaders:
+  - Quenton Qoherys
 Teague:
   :name: Teague
   :vo: Teague
@@ -1119,6 +1316,8 @@ Teague:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Teague
   :lord: Torrence Teague
   :ser: 
+  :leaders:
+  - Torrence Teague
 Tourelles:
   :name: Tourelles
   :vo: Towers
@@ -1129,6 +1328,9 @@ Tourelles:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tourelles
   :lord: Jordan Tourelles
   :ser: Walton Tourelles
+  :leaders:
+  - Jordan Tourelles
+  - Walton Tourelles
 Arryn:
   :name: Arryn
   :vo: Arryn
@@ -1139,6 +1341,9 @@ Arryn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Arryn
   :lord: Jon Arryn
   :ser: Rymond Arryn
+  :leaders:
+  - Jon Arryn
+  - Rymond Arryn
 Baelish:
   :name: Baelish
   :vo: Baelish
@@ -1149,6 +1354,8 @@ Baelish:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baelish
   :lord: Petyr Baelish
   :ser: 
+  :leaders:
+  - Petyr Baelish
 Belmore:
   :name: Belmore
   :vo: Belmore
@@ -1159,6 +1366,9 @@ Belmore:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Belmore
   :lord: Benedar Belmore
   :ser: Marwyn Belmore
+  :leaders:
+  - Benedar Belmore
+  - Marwyn Belmore
 Corbray:
   :name: Corbray
   :vo: Corbray
@@ -1169,6 +1379,9 @@ Corbray:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Corbray
   :lord: Lyonel Corbray
   :ser: Lyn Corbray
+  :leaders:
+  - Lyonel Corbray
+  - Lyn Corbray
 Elesham:
   :name: Elesham
   :vo: Elesham
@@ -1179,6 +1392,7 @@ Elesham:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Elesham
   :lord: 
   :ser: 
+  :leaders: []
 Froideseaux:
   :name: Froideseaux
   :vo: Coldwater
@@ -1189,6 +1403,8 @@ Froideseaux:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Froideseaux
   :lord: Royce Froideseaux
   :ser: 
+  :leaders:
+  - Royce Froideseaux
 Grafton:
   :name: Grafton
   :vo: Grafton
@@ -1199,6 +1415,8 @@ Grafton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grafton
   :lord: Gerold Grafton
   :ser: 
+  :leaders:
+  - Gerold Grafton
 Lynderly:
   :name: Lynderly
   :vo: Lynderly
@@ -1209,6 +1427,8 @@ Lynderly:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lynderly
   :lord: Jon Lynderly
   :ser: 
+  :leaders:
+  - Jon Lynderly
 Rougefort:
   :name: Rougefort
   :vo: Redfort
@@ -1219,6 +1439,8 @@ Rougefort:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rougefort
   :lord: Horton Rougefort
   :ser: 
+  :leaders:
+  - Horton Rougefort
 Royce de Roches-aux-runes:
   :name: Royce de Roches-aux-runes
   :vo: Royce
@@ -1229,6 +1451,9 @@ Royce de Roches-aux-runes:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Royce
   :lord: Yohn Royce
   :ser: Andar Royce
+  :leaders:
+  - Yohn Royce
+  - Andar Royce
 Tallett:
   :name: Tallett
   :vo: Tollett
@@ -1239,6 +1464,9 @@ Tallett:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tallett
   :lord: Uthor Tallett
   :ser: Jon Tallett
+  :leaders:
+  - Uthor Tallett
+  - Jon Tallett
 Vanbois:
   :name: Vanbois
   :vo: Waynwood
@@ -1249,6 +1477,8 @@ Vanbois:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vanbois
   :lord: 
   :ser: Morton Vanbois
+  :leaders:
+  - Morton Vanbois
 Veneur:
   :name: Veneur
   :vo: Hunter
@@ -1259,6 +1489,8 @@ Veneur:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Veneur
   :lord: Alec Veneur
   :ser: 
+  :leaders:
+  - Alec Veneur
 Borrell:
   :name: Borrell
   :vo: Borrell
@@ -1269,6 +1501,8 @@ Borrell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Borrell
   :lord: Godric Borrell
   :ser: 
+  :leaders:
+  - Godric Borrell
 Sunderland:
   :name: Sunderland
   :vo: Sunderland
@@ -1279,6 +1513,8 @@ Sunderland:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sunderland
   :lord: Triston Sunderland
   :ser: 
+  :leaders:
+  - Triston Sunderland
 Cirley:
   :name: Cirley
   :vo: Waxley
@@ -1289,6 +1525,8 @@ Cirley:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cirley
   :lord: 
   :ser: Edmund Cirley
+  :leaders:
+  - Edmund Cirley
 Hardyng:
   :name: Hardyng
   :vo: Hardyng
@@ -1299,6 +1537,8 @@ Hardyng:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hardyng
   :lord: 
   :ser: Desmond Hardyng
+  :leaders:
+  - Desmond Hardyng
 Shett:
   :name: Shett
   :vo: Shett
@@ -1309,6 +1549,8 @@ Shett:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Shett
   :lord: 
   :ser: Damon Shett
+  :leaders:
+  - Damon Shett
 Templeton:
   :name: Templeton
   :vo: Templeton
@@ -1319,6 +1561,8 @@ Templeton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Templeton
   :lord: 
   :ser: Symond Templeton
+  :leaders:
+  - Symond Templeton
 Descarpe:
   :name: Descarpe
   :vo: Upcliff
@@ -1329,6 +1573,7 @@ Descarpe:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Descarpe
   :lord: 
   :ser: 
+  :leaders: []
 Donniger:
   :name: Donniger
   :vo: Donniger
@@ -1339,6 +1584,7 @@ Donniger:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Donniger
   :lord: 
   :ser: 
+  :leaders: []
 Egen:
   :name: Egen
   :vo: Egen
@@ -1349,6 +1595,7 @@ Egen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Egen
   :lord: 
   :ser: 
+  :leaders: []
 Hersy:
   :name: Hersy
   :vo: Hersy
@@ -1359,6 +1606,7 @@ Hersy:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hersy
   :lord: 
   :ser: 
+  :leaders: []
 Lipps:
   :name: Lipps
   :vo: Lipps
@@ -1369,6 +1617,8 @@ Lipps:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lipps
   :lord: 
   :ser: Ossifer Lipps
+  :leaders:
+  - Ossifer Lipps
 Melcom:
   :name: Melcom
   :vo: Melcolm
@@ -1379,6 +1629,7 @@ Melcom:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Melcolm
   :lord: 
   :ser: 
+  :leaders: []
 Montmarri:
   :name: Montmarri
   :vo: Ruthermont
@@ -1389,6 +1640,8 @@ Montmarri:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montmarri
   :lord: Montmarri qui
   :ser: 
+  :leaders:
+  - Montmarri qui
 Moore:
   :name: Moore
   :vo: Moore
@@ -1399,6 +1652,8 @@ Moore:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moore
   :lord: 
   :ser: Mandon Moore
+  :leaders:
+  - Mandon Moore
 Pryor:
   :name: Pryor
   :vo: Pryor
@@ -1409,6 +1664,8 @@ Pryor:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pryor
   :lord: Dunstan Pryor
   :ser: 
+  :leaders:
+  - Dunstan Pryor
 Rompierre:
   :name: Rompierre
   :vo: Breakstone
@@ -1419,6 +1676,8 @@ Rompierre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rompierre
   :lord: 
   :ser: Edmund Rompierre
+  :leaders:
+  - Edmund Rompierre
 Royce des Portes de la Lune:
   :name: Royce des Portes de la Lune
   :vo: Royce
@@ -1429,6 +1688,7 @@ Royce des Portes de la Lune:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Royce_des_Portes_de_la_Lune
   :lord: 
   :ser: 
+  :leaders: []
 Wydman:
   :name: Wydman
   :vo: Wydman
@@ -1439,6 +1699,7 @@ Wydman:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wydman
   :lord: 
   :ser: 
+  :leaders: []
 Conque:
   :name: Conque
   :vo: Shell
@@ -1449,6 +1710,7 @@ Conque:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Conque
   :lord: 
   :ser: 
+  :leaders: []
 Baratheon:
   :name: Baratheon
   :vo: Baratheon
@@ -1459,6 +1721,9 @@ Baratheon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baratheon
   :lord: Stannis Baratheon
   :ser: Davos Baratheon
+  :leaders:
+  - Stannis Baratheon
+  - Davos Baratheon
 Targaryen:
   :name: Targaryen
   :vo: Targaryen
@@ -1469,6 +1734,7 @@ Targaryen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Targaryen
   :lord: 
   :ser: 
+  :leaders: []
 Castelfoyer:
   :name: Castelfoyer
   :vo: Stokeworth
@@ -1479,6 +1745,9 @@ Castelfoyer:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Castelfoyer
   :lord: Alyn Castelfoyer
   :ser: Samwell Castelfoyer
+  :leaders:
+  - Alyn Castelfoyer
+  - Samwell Castelfoyer
 Chelsted:
   :name: Chelsted
   :vo: Chelsted
@@ -1489,6 +1758,8 @@ Chelsted:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chelsted
   :lord: Qarlton Chelsted
   :ser: 
+  :leaders:
+  - Qarlton Chelsted
 Fengué:
   :name: Fengué
   :vo: Hayford
@@ -1499,6 +1770,7 @@ Fengué:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fengu%C3%A9
   :lord: 
   :ser: 
+  :leaders: []
 Harte:
   :name: Harte
   :vo: Harte
@@ -1509,6 +1781,8 @@ Harte:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Harte
   :lord: 
   :ser: Elwood Harte
+  :leaders:
+  - Elwood Harte
 Mallery:
   :name: Mallery
   :vo: Mallery
@@ -1519,6 +1793,9 @@ Mallery:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mallery
   :lord: Lothar Mallery
   :ser: Raymund Mallery
+  :leaders:
+  - Lothar Mallery
+  - Raymund Mallery
 Prédeaux:
   :name: Prédeaux
   :vo: Bywater
@@ -1529,6 +1806,8 @@ Prédeaux:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pr%C3%A9deaux
   :lord: 
   :ser: Jacelyn Pr
+  :leaders:
+  - Jacelyn Pr
 Rosby:
   :name: Rosby
   :vo: Rosby
@@ -1539,6 +1818,9 @@ Rosby:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rosby
   :lord: Gyles Rosby
   :ser: Rayford Rosby
+  :leaders:
+  - Gyles Rosby
+  - Rayford Rosby
 Rykker:
   :name: Rykker
   :vo: Rykker
@@ -1549,6 +1831,9 @@ Rykker:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rykker
   :lord: Renfred Rykker
   :ser: Jaremy Rykker
+  :leaders:
+  - Renfred Rykker
+  - Jaremy Rykker
 Slynt:
   :name: Slynt
   :vo: Slynt
@@ -1559,6 +1844,7 @@ Slynt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Slynt
   :lord: 
   :ser: 
+  :leaders: []
 Bar Emmon:
   :name: Bar Emmon
   :vo: Bar Emmon
@@ -1569,6 +1855,8 @@ Bar Emmon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bar_Emmon
   :lord: Duram Bar
   :ser: 
+  :leaders:
+  - Duram Bar
 Celtigar:
   :name: Celtigar
   :vo: Celtigar
@@ -1579,6 +1867,9 @@ Celtigar:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Celtigar
   :lord: Crispian Celtigar
   :ser: Terrence Celtigar
+  :leaders:
+  - Crispian Celtigar
+  - Terrence Celtigar
 Chyttering:
   :name: Chyttering
   :vo: Chyttering
@@ -1589,6 +1880,7 @@ Chyttering:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chyttering
   :lord: 
   :ser: 
+  :leaders: []
 Solverre:
   :name: Solverre
   :vo: Sunglass
@@ -1599,6 +1891,8 @@ Solverre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Solverre
   :lord: Guncer Solverre
   :ser: 
+  :leaders:
+  - Guncer Solverre
 Velaryon:
   :name: Velaryon
   :vo: Velaryon
@@ -1609,6 +1903,9 @@ Velaryon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Velaryon
   :lord: Daemon Velaryon
   :ser: Corlys Velaryon
+  :leaders:
+  - Daemon Velaryon
+  - Corlys Velaryon
 Brune de Combebrune:
   :name: Brune de Combebrune
   :vo: Brune
@@ -1619,6 +1916,8 @@ Brune de Combebrune:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brune_de_Combebrune
   :lord: 
   :ser: Bennard Brune
+  :leaders:
+  - Bennard Brune
 Hollard:
   :name: Hollard
   :vo: Hollard
@@ -1629,6 +1928,7 @@ Hollard:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hollard
   :lord: 
   :ser: 
+  :leaders: []
 Potaunoir:
   :name: Potaunoir
   :vo: Kettleblack
@@ -1639,6 +1939,7 @@ Potaunoir:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Potaunoir
   :lord: 
   :ser: 
+  :leaders: []
 Blount:
   :name: Blount
   :vo: Blount
@@ -1649,6 +1950,8 @@ Blount:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Blount
   :lord: 
   :ser: Boros Blount
+  :leaders:
+  - Boros Blount
 Boulleau:
   :name: Boulleau
   :vo: Byrch
@@ -1659,6 +1962,8 @@ Boulleau:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boulleau
   :lord: 
   :ser: Balmain Boulleau
+  :leaders:
+  - Balmain Boulleau
 Buckwell:
   :name: Buckwell
   :vo: Buckwell
@@ -1669,6 +1974,7 @@ Buckwell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Buckwell
   :lord: 
   :ser: 
+  :leaders: []
 Cressey:
   :name: Cressey
   :vo: Cressey
@@ -1679,6 +1985,7 @@ Cressey:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cressey
   :lord: 
   :ser: 
+  :leaders: []
 Edgerton:
   :name: Edgerton
   :vo: Edgerton
@@ -1689,6 +1996,7 @@ Edgerton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Edgerton
   :lord: 
   :ser: 
+  :leaders: []
 Farring:
   :name: Farring
   :vo: Farring
@@ -1699,6 +2007,8 @@ Farring:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Farring
   :lord: 
   :ser: Gilbert Farring
+  :leaders:
+  - Gilbert Farring
 Follard:
   :name: Follard
   :vo: Follard
@@ -1709,6 +2019,7 @@ Follard:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Follard
   :lord: 
   :ser: 
+  :leaders: []
 Gaunt:
   :name: Gaunt
   :vo: Gaunt
@@ -1719,6 +2030,8 @@ Gaunt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gaunt
   :lord: 
   :ser: Gwayne Gaunt
+  :leaders:
+  - Gwayne Gaunt
 Langward:
   :name: Langward
   :vo: Langward
@@ -1729,6 +2042,8 @@ Langward:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Longegarde
   :lord: 
   :ser: Harrold Longegarde
+  :leaders:
+  - Harrold Longegarde
 Manning:
   :name: Manning
   :vo: Manning
@@ -1739,6 +2054,7 @@ Manning:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Manning
   :lord: 
   :ser: 
+  :leaders: []
 Massey:
   :name: Massey
   :vo: Massey
@@ -1749,6 +2065,9 @@ Massey:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Massey
   :lord: Maldon Massey
   :ser: Justin Massey
+  :leaders:
+  - Maldon Massey
+  - Justin Massey
 Pyle:
   :name: Pyle
   :vo: Pyle
@@ -1759,6 +2078,8 @@ Pyle:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pyle
   :lord: 
   :ser: Howard Pyle
+  :leaders:
+  - Howard Pyle
 Rambton:
   :name: Rambton
   :vo: Rambton
@@ -1769,6 +2090,8 @@ Rambton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rambton
   :lord: 
   :ser: Hubard Rambton
+  :leaders:
+  - Hubard Rambton
 Grondegué:
   :name: Grondegué
   :vo: Rollingford
@@ -1779,6 +2102,7 @@ Grondegué:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grondegu%C3%A9
   :lord: 
   :ser: 
+  :leaders: []
 Staunton:
   :name: Staunton
   :vo: Staunton
@@ -1789,6 +2113,9 @@ Staunton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Staunton
   :lord: Symond Staunton
   :ser: Joffrey Staunton
+  :leaders:
+  - Symond Staunton
+  - Joffrey Staunton
 Thorne:
   :name: Thorne
   :vo: Thorne
@@ -1799,6 +2126,7 @@ Thorne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Thorne
   :lord: 
   :ser: 
+  :leaders: []
 Wendwater:
   :name: Wendwater
   :vo: Wendwater
@@ -1809,6 +2137,7 @@ Wendwater:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wendwater
   :lord: 
   :ser: 
+  :leaders: []
 Cargyll:
   :name: Cargyll
   :vo: Cargyll
@@ -1819,6 +2148,8 @@ Cargyll:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cargyll
   :lord: 
   :ser: Arryk Cargyll
+  :leaders:
+  - Arryk Cargyll
 Feunoyr:
   :name: Feunoyr
   :vo: Blackfyre
@@ -1829,6 +2160,7 @@ Feunoyr:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Feunoyr
   :lord: 
   :ser: 
+  :leaders: []
 Sombrelyn:
   :name: Sombrelyn
   :vo: Darklyn
@@ -1839,6 +2171,9 @@ Sombrelyn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sombrelyn
   :lord: Denys Sombrelyn
   :ser: Robin Sombrelyn
+  :leaders:
+  - Denys Sombrelyn
+  - Robin Sombrelyn
 Lannister:
   :name: Lannister
   :vo: Lannister
@@ -1849,6 +2184,9 @@ Lannister:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lannister
   :lord: Tywin Lannister
   :ser: Jaime Lannister
+  :leaders:
+  - Tywin Lannister
+  - Jaime Lannister
 Brax:
   :name: Brax
   :vo: Brax
@@ -1859,6 +2197,9 @@ Brax:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brax
   :lord: Andros Brax
   :ser: Tytos Brax
+  :leaders:
+  - Andros Brax
+  - Tytos Brax
 Crakehall:
   :name: Crakehall
   :vo: Crakehall
@@ -1869,6 +2210,9 @@ Crakehall:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Crakehall
   :lord: Roland Crakehall
   :ser: Tybolt Crakehall
+  :leaders:
+  - Roland Crakehall
+  - Tybolt Crakehall
 Estren:
   :name: Estren
   :vo: Estren
@@ -1879,6 +2223,8 @@ Estren:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Estren
   :lord: Regenard Estren
   :ser: 
+  :leaders:
+  - Regenard Estren
 Gerblance:
   :name: Gerblance
   :vo: Stackspear
@@ -1889,6 +2235,9 @@ Gerblance:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gerblance
   :lord: Selmond Gerblance
   :ser: Steffon Gerblance
+  :leaders:
+  - Selmond Gerblance
+  - Steffon Gerblance
 Farman:
   :name: Farman
   :vo: Farman
@@ -1899,6 +2248,8 @@ Farman:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Farman
   :lord: Sebaston Farman
   :ser: 
+  :leaders:
+  - Sebaston Farman
 Fléaufort:
   :name: Fléaufort
   :vo: Banefort
@@ -1909,6 +2260,8 @@ Fléaufort:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fl%C3%A9aufort
   :lord: Quenten Fl
   :ser: 
+  :leaders:
+  - Quenten Fl
 Jast:
   :name: Jast
   :vo: Jast
@@ -1919,6 +2272,8 @@ Jast:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jast
   :lord: Antario Jast
   :ser: 
+  :leaders:
+  - Antario Jast
 Kenning:
   :name: Kenning
   :vo: Kenning
@@ -1929,6 +2284,9 @@ Kenning:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kenning_de_Kayce
   :lord: Terrence Kenning
   :ser: Kennos de
+  :leaders:
+  - Terrence Kenning
+  - Kennos de
 Lefford:
   :name: Lefford
   :vo: Lefford
@@ -1939,6 +2297,8 @@ Lefford:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lefford
   :lord: Leo Lefford
   :ser: 
+  :leaders:
+  - Leo Lefford
 Lydden:
   :name: Lydden
   :vo: Lydden
@@ -1949,6 +2309,8 @@ Lydden:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lydden
   :lord: Lewys Lydden
   :ser: 
+  :leaders:
+  - Lewys Lydden
 Marpheux:
   :name: Marpheux
   :vo: Marbrand
@@ -1959,6 +2321,7 @@ Marpheux:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Marpheux
   :lord: 
   :ser: 
+  :leaders: []
 Moreland:
   :name: Moreland
   :vo: Moreland
@@ -1969,6 +2332,7 @@ Moreland:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moreland
   :lord: 
   :ser: 
+  :leaders: []
 Ouestrelin:
   :name: Ouestrelin
   :vo: Westerling
@@ -1979,6 +2343,9 @@ Ouestrelin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ouestrelin
   :lord: Roland Ouestrelin
   :ser: Harrold Ouestrelin
+  :leaders:
+  - Roland Ouestrelin
+  - Harrold Ouestrelin
 Prestre:
   :name: Prestre
   :vo: Prester
@@ -1989,6 +2356,9 @@ Prestre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Prestre
   :lord: Garrison Prestre
   :ser: Forley Prestre
+  :leaders:
+  - Garrison Prestre
+  - Forley Prestre
 Prünh:
   :name: Prünh
   :vo: Plumm
@@ -1999,6 +2369,9 @@ Prünh:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pr%C3%BCnh
   :lord: Philipp Pr
   :ser: Dennis Pr
+  :leaders:
+  - Philipp Pr
+  - Dennis Pr
 Sarwyck:
   :name: Sarwyck
   :vo: Sarwyck
@@ -2009,6 +2382,9 @@ Sarwyck:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sarwyck
   :lord: Raynald Sarwyck
   :ser: Alester Sarwyck
+  :leaders:
+  - Raynald Sarwyck
+  - Alester Sarwyck
 Serrett:
   :name: Serrett
   :vo: Serrett
@@ -2019,6 +2395,7 @@ Serrett:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Serrett
   :lord: 
   :ser: 
+  :leaders: []
 Clegane:
   :name: Clegane
   :vo: Clegane
@@ -2029,6 +2406,8 @@ Clegane:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Clegane
   :lord: 
   :ser: Gregor Clegane
+  :leaders:
+  - Gregor Clegane
 Cuillêtre:
   :name: Cuillêtre
   :vo: Hetherspoon
@@ -2039,6 +2418,8 @@ Cuillêtre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cuill%C3%AAtre
   :lord: 
   :ser: Tybolt Cuill
+  :leaders:
+  - Tybolt Cuill
 If:
   :name: If
   :vo: Yew
@@ -2049,6 +2430,7 @@ If:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_If
   :lord: 
   :ser: 
+  :leaders: []
 Lépicier:
   :name: Lépicier
   :vo: Spicer
@@ -2059,6 +2441,8 @@ Lépicier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_L%C3%A9picier
   :lord: 
   :ser: Rolph L
+  :leaders:
+  - Rolph L
 Lorch:
   :name: Lorch
   :vo: Lorch
@@ -2069,6 +2453,8 @@ Lorch:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lorch
   :lord: 
   :ser: Lorent Lorch
+  :leaders:
+  - Lorent Lorch
 Rouxtigre:
   :name: Rouxtigre
   :vo: Ruttiger
@@ -2079,6 +2465,7 @@ Rouxtigre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rouxtigre
   :lord: 
   :ser: 
+  :leaders: []
 Swyft:
   :name: Swyft
   :vo: Swyft
@@ -2089,6 +2476,8 @@ Swyft:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swyft
   :lord: 
   :ser: Harys Swyft
+  :leaders:
+  - Harys Swyft
 Verchamps:
   :name: Verchamps
   :vo: Greenfield
@@ -2099,6 +2488,8 @@ Verchamps:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Verchamps
   :lord: 
   :ser: Garth Verchamps
+  :leaders:
+  - Garth Verchamps
 Vikair:
   :name: Vikair
   :vo: Vikary
@@ -2109,6 +2500,8 @@ Vikair:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vikair
   :lord: 
   :ser: Lymond Vikair
+  :leaders:
+  - Lymond Vikair
 Algood:
   :name: Algood
   :vo: Algood
@@ -2119,6 +2512,7 @@ Algood:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Algood
   :lord: 
   :ser: 
+  :leaders: []
 Aubépin:
   :name: Aubépin
   :vo: Hawthorne
@@ -2129,6 +2523,7 @@ Aubépin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Aub%C3%A9pin
   :lord: 
   :ser: 
+  :leaders: []
 Bettley:
   :name: Bettley
   :vo: Bettley
@@ -2139,6 +2534,8 @@ Bettley:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bettley
   :lord: 
   :ser: Jon Bettley
+  :leaders:
+  - Jon Bettley
 Doguette:
   :name: Doguette
   :vo: Doggett
@@ -2149,6 +2546,8 @@ Doguette:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Doguette
   :lord: 
   :ser: Joffrey Doguette
+  :leaders:
+  - Joffrey Doguette
 Dombecq:
   :name: Dombecq
   :vo: Peckledon
@@ -2159,6 +2558,7 @@ Dombecq:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dombecq
   :lord: 
   :ser: 
+  :leaders: []
 Drox:
   :name: Drox
   :vo: Drox
@@ -2169,6 +2569,7 @@ Drox:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Drox
   :lord: 
   :ser: 
+  :leaders: []
 Fallières:
   :name: Fallières
   :vo: Falwell
@@ -2179,6 +2580,8 @@ Fallières:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Falli%C3%A8res
   :lord: Rupert Falli
   :ser: 
+  :leaders:
+  - Rupert Falli
 Ferren:
   :name: Ferren
   :vo: Ferren
@@ -2189,6 +2592,7 @@ Ferren:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ferren
   :lord: 
   :ser: 
+  :leaders: []
 Garner:
   :name: Garner
   :vo: Garner
@@ -2199,6 +2603,8 @@ Garner:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Garner
   :lord: 
   :ser: Alyn Garner
+  :leaders:
+  - Alyn Garner
 Geneste:
   :name: Geneste
   :vo: Broom
@@ -2209,6 +2615,8 @@ Geneste:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Geneste
   :lord: 
   :ser: Benedict Geneste
+  :leaders:
+  - Benedict Geneste
 Hamell:
   :name: Hamell
   :vo: Hamell
@@ -2219,6 +2627,7 @@ Hamell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hamell
   :lord: 
   :ser: 
+  :leaders: []
 Kyndall:
   :name: Kyndall
   :vo: Kyndall
@@ -2229,6 +2638,7 @@ Kyndall:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kyndall
   :lord: 
   :ser: 
+  :leaders: []
 Myatt:
   :name: Myatt
   :vo: Myatt
@@ -2239,6 +2649,7 @@ Myatt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Myatt
   :lord: 
   :ser: 
+  :leaders: []
 Payne:
   :name: Payne
   :vo: Payne
@@ -2249,6 +2660,8 @@ Payne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Payne
   :lord: 
   :ser: Ilyn Payne
+  :leaders:
+  - Ilyn Payne
 Pièdre:
   :name: Pièdre
   :vo: Foote
@@ -2259,6 +2672,8 @@ Pièdre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8dre
   :lord: 
   :ser: Philip Pi
+  :leaders:
+  - Philip Pi
 Sarschamp:
   :name: Sarschamp
   :vo: Sarsfield
@@ -2269,6 +2684,8 @@ Sarschamp:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sarschamp
   :lord: 
   :ser: Melwyn Sarschamp
+  :leaders:
+  - Melwyn Sarschamp
 Tournebaie:
   :name: Tournebaie
   :vo: Turnberry
@@ -2279,6 +2696,8 @@ Tournebaie:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tournebaie
   :lord: 
   :ser: Lambert Tournebaie
+  :leaders:
+  - Lambert Tournebaie
 Yarwyck:
   :name: Yarwyck
   :vo: Yarwyck
@@ -2289,6 +2708,7 @@ Yarwyck:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Yarwyck
   :lord: 
   :ser: 
+  :leaders: []
 Castral:
   :name: Castral
   :vo: Casterly
@@ -2299,6 +2719,7 @@ Castral:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Castral
   :lord: 
   :ser: 
+  :leaders: []
 Parren:
   :name: Parren
   :vo: Parren
@@ -2309,6 +2730,7 @@ Parren:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Parren
   :lord: 
   :ser: 
+  :leaders: []
 Reyne:
   :name: Reyne
   :vo: Reyne
@@ -2319,6 +2741,9 @@ Reyne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Reyne
   :lord: Robert Reyne
   :ser: Alastor Reyne
+  :leaders:
+  - Robert Reyne
+  - Alastor Reyne
 Tarbeck:
   :name: Tarbeck
   :vo: Tarbeck
@@ -2329,6 +2754,9 @@ Tarbeck:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tarbeck
   :lord: Alyn Tarbeck
   :ser: Adrian Tarbeck
+  :leaders:
+  - Alyn Tarbeck
+  - Adrian Tarbeck
 Westford:
   :name: Westford
   :vo: Westford
@@ -2339,6 +2767,7 @@ Westford:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Westford
   :lord: 
   :ser: 
+  :leaders: []
 Buckler:
   :name: Buckler
   :vo: Buckler
@@ -2349,6 +2778,9 @@ Buckler:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Buckler
   :lord: Ralph Buckler
   :ser: Brus Buckler
+  :leaders:
+  - Ralph Buckler
+  - Brus Buckler
 Cafferen:
   :name: Cafferen
   :vo: Cafferen
@@ -2359,6 +2791,7 @@ Cafferen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cafferen
   :lord: 
   :ser: 
+  :leaders: []
 Cossepois:
   :name: Cossepois
   :vo: Peasebury
@@ -2369,6 +2802,8 @@ Cossepois:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cossepois
   :lord: Robin Cossepois
   :ser: 
+  :leaders:
+  - Robin Cossepois
 Errol:
   :name: Errol
   :vo: Errol
@@ -2379,6 +2814,8 @@ Errol:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Errol
   :lord: Sebastion Errol
   :ser: 
+  :leaders:
+  - Sebastion Errol
 Estremont:
   :name: Estremont
   :vo: Estermont
@@ -2389,6 +2826,9 @@ Estremont:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Estremont
   :lord: Eldon Estremont
   :ser: Aemon Estremont
+  :leaders:
+  - Eldon Estremont
+  - Aemon Estremont
 Fell:
   :name: Fell
   :vo: Fell
@@ -2399,6 +2839,9 @@ Fell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fell
   :lord: Harbois Fell
   :ser: Willis Fell
+  :leaders:
+  - Harbois Fell
+  - Willis Fell
 Grandison:
   :name: Grandison
   :vo: Grandison
@@ -2409,6 +2852,9 @@ Grandison:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grandison
   :lord: Hugh Grandison
   :ser: Narbert Grandison
+  :leaders:
+  - Hugh Grandison
+  - Narbert Grandison
 Morrigen:
   :name: Morrigen
   :vo: Morrigen
@@ -2419,6 +2865,9 @@ Morrigen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Morrigen
   :lord: Lester Morrigen
   :ser: Richard Morrigen
+  :leaders:
+  - Lester Morrigen
+  - Richard Morrigen
 Penrose:
   :name: Penrose
   :vo: Penrose
@@ -2429,6 +2878,9 @@ Penrose:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Penrose
   :lord: Ronnel Penrose
   :ser: Cortnay Penrose
+  :leaders:
+  - Ronnel Penrose
+  - Cortnay Penrose
 Staedmon:
   :name: Staedmon
   :vo: Staedmon
@@ -2439,6 +2891,8 @@ Staedmon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Staedmon
   :lord: Alesander Staedmon
   :ser: 
+  :leaders:
+  - Alesander Staedmon
 Torth:
   :name: Torth
   :vo: Tarth
@@ -2449,6 +2903,9 @@ Torth:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Torth
   :lord: Cameron Torth
   :ser: Endrew Torth
+  :leaders:
+  - Cameron Torth
+  - Endrew Torth
 Wylde:
   :name: Wylde
   :vo: Wylde
@@ -2459,6 +2916,9 @@ Wylde:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wylde
   :lord: Casper Wylde
   :ser: Ormund Wylde
+  :leaders:
+  - Casper Wylde
+  - Ormund Wylde
 Caron:
   :name: Caron
   :vo: Caron
@@ -2469,6 +2929,9 @@ Caron:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Caron
   :lord: Bryce Caron
   :ser: Rolland Storm
+  :leaders:
+  - Bryce Caron
+  - Rolland Storm
 Dondarrion:
   :name: Dondarrion
   :vo: Dondarrion
@@ -2479,6 +2942,9 @@ Dondarrion:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dondarrion
   :lord: Harmon Dondarrion
   :ser: Manfred Dondarrion
+  :leaders:
+  - Harmon Dondarrion
+  - Manfred Dondarrion
 Selmy:
   :name: Selmy
   :vo: Selmy
@@ -2489,6 +2955,9 @@ Selmy:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Selmy
   :lord: Arstan Selmy
   :ser: Barristan Selmy
+  :leaders:
+  - Arstan Selmy
+  - Barristan Selmy
 Swann:
   :name: Swann
   :vo: Swann
@@ -2499,6 +2968,9 @@ Swann:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swann
   :lord: Gulian Swann
   :ser: Donnel Swann
+  :leaders:
+  - Gulian Swann
+  - Donnel Swann
 Connington:
   :name: Connington
   :vo: Connington
@@ -2509,6 +2981,9 @@ Connington:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Connington
   :lord: Roy Connington
   :ser: Ronnet Connington
+  :leaders:
+  - Roy Connington
+  - Ronnet Connington
 Hastif:
   :name: Hastif
   :vo: Hasty
@@ -2519,6 +2994,8 @@ Hastif:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hastif
   :lord: 
   :ser: Bonifer Hastif
+  :leaders:
+  - Bonifer Hastif
 Mervault:
   :name: Mervault
   :vo: Seaworth
@@ -2529,6 +3006,8 @@ Mervault:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mervault
   :lord: 
   :ser: Davos Mervault
+  :leaders:
+  - Davos Mervault
 Boulin:
   :name: Boulin
   :vo: Bolling
@@ -2539,6 +3018,8 @@ Boulin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boulin
   :lord: 
   :ser: Herbert Boulin
+  :leaders:
+  - Herbert Boulin
 Frétilletrique:
   :name: Frétilletrique
   :vo: Wagstaff
@@ -2549,6 +3030,8 @@ Frétilletrique:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fr%C3%A9tilletrique
   :lord: 
   :ser: Humfrey Fr
+  :leaders:
+  - Humfrey Fr
 Goüer:
   :name: Goüer
   :vo: Gower
@@ -2559,6 +3042,8 @@ Goüer:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Go%C3%BCer
   :lord: 
   :ser: Gerald Go
+  :leaders:
+  - Gerald Go
 Herston:
   :name: Herston
   :vo: Herston
@@ -2569,6 +3054,7 @@ Herston:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Herston
   :lord: 
   :ser: 
+  :leaders: []
 Horpe:
   :name: Horpe
   :vo: Horpe
@@ -2579,6 +3065,8 @@ Horpe:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Horpe
   :lord: 
   :ser: Richard Horpe
+  :leaders:
+  - Richard Horpe
 Kellington:
   :name: Kellington
   :vo: Kellington
@@ -2589,6 +3077,7 @@ Kellington:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kellington
   :lord: 
   :ser: 
+  :leaders: []
 Lonbec:
   :name: Lonbec
   :vo: Lonmouth
@@ -2599,6 +3088,8 @@ Lonbec:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lonbec
   :lord: 
   :ser: Richard Lonbec
+  :leaders:
+  - Richard Lonbec
 Mertyns:
   :name: Mertyns
   :vo: Mertyns
@@ -2609,6 +3100,8 @@ Mertyns:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mertyns
   :lord: 
   :ser: Michael Mertyns
+  :leaders:
+  - Michael Mertyns
 Mossegonde:
   :name: Mossegonde
   :vo: Musgood
@@ -2619,6 +3112,8 @@ Mossegonde:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mossegonde
   :lord: Jack Mossegonde
   :ser: 
+  :leaders:
+  - Jack Mossegonde
 Rogers:
   :name: Rogers
   :vo: Rogers
@@ -2629,6 +3124,8 @@ Rogers:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rogers
   :lord: 
   :ser: Corwin Rogers
+  :leaders:
+  - Corwin Rogers
 Swygert:
   :name: Swygert
   :vo: Swygert
@@ -2639,6 +3136,7 @@ Swygert:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swygert
   :lord: 
   :ser: 
+  :leaders: []
 Trant:
   :name: Trant
   :vo: Trant
@@ -2649,6 +3147,8 @@ Trant:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Trant
   :lord: 
   :ser: Meryn Trant
+  :leaders:
+  - Meryn Trant
 Tudbury:
   :name: Tudbury
   :vo: Tudbury
@@ -2659,6 +3159,7 @@ Tudbury:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tudbury
   :lord: 
   :ser: 
+  :leaders: []
 Wensington:
   :name: Wensington
   :vo: Wensington
@@ -2669,6 +3170,7 @@ Wensington:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wensington
   :lord: 
   :ser: 
+  :leaders: []
 Durrandon:
   :name: Durrandon
   :vo: Durrandon
@@ -2679,6 +3181,7 @@ Durrandon:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Durrandon
   :lord: 
   :ser: 
+  :leaders: []
 Tignac:
   :name: Tignac
   :vo: Toyne
@@ -2689,6 +3192,8 @@ Tignac:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tignac
   :lord: 
   :ser: Terrence Tignac
+  :leaders:
+  - Terrence Tignac
 Tyrell:
   :name: Tyrell
   :vo: Tyrell
@@ -2699,6 +3204,9 @@ Tyrell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tyrell
   :lord: Mace Tyrell
   :ser: Garlan Tyrell
+  :leaders:
+  - Mace Tyrell
+  - Garlan Tyrell
 Ambrose:
   :name: Ambrose
   :vo: Ambrose
@@ -2709,6 +3217,9 @@ Ambrose:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ambrose
   :lord: Arthur Ambrose
   :ser: Edmund Ambrose
+  :leaders:
+  - Arthur Ambrose
+  - Edmund Ambrose
 Bulwer:
   :name: Bulwer
   :vo: Bulwer
@@ -2719,6 +3230,9 @@ Bulwer:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bulwer
   :lord: Jon Bulwer
   :ser: Buford Bulwer
+  :leaders:
+  - Jon Bulwer
+  - Buford Bulwer
 Caswell:
   :name: Caswell
   :vo: Caswell
@@ -2729,6 +3243,9 @@ Caswell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Caswell
   :lord: Lorent Caswell
   :ser: Cleyton Caswell
+  :leaders:
+  - Lorent Caswell
+  - Cleyton Caswell
 Cendregué:
   :name: Cendregué
   :vo: 'AshfordAutre traduction : Sorbier'
@@ -2739,6 +3256,8 @@ Cendregué:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cendregu%C3%A9
   :lord: 
   :ser: Alyn Cendregu
+  :leaders:
+  - Alyn Cendregu
 Chantecoq:
   :name: Chantecoq
   :vo: Cockshaw
@@ -2749,6 +3268,8 @@ Chantecoq:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chantecoq
   :lord: Alyn Chantecoq
   :ser: 
+  :leaders:
+  - Alyn Chantecoq
 Costayne:
   :name: Costayne
   :vo: Costayne
@@ -2759,6 +3280,9 @@ Costayne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Costayne
   :lord: Tommen Costayne
   :ser: Leo Costayne
+  :leaders:
+  - Tommen Costayne
+  - Leo Costayne
 Crane:
   :name: Crane
   :vo: Crane
@@ -2769,6 +3293,8 @@ Crane:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Crane
   :lord: 
   :ser: Parment Crane
+  :leaders:
+  - Parment Crane
 Cuy:
   :name: Cuy
   :vo: Cuy
@@ -2779,6 +3305,9 @@ Cuy:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cuy
   :lord: Branston Cuy
   :ser: Emmon Cuy
+  :leaders:
+  - Branston Cuy
+  - Emmon Cuy
 des Essaims:
   :name: des Essaims
   :vo: Beesbury
@@ -2789,6 +3318,9 @@ des Essaims:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_des_Essaims
   :lord: Warryn des
   :ser: Bertram des
+  :leaders:
+  - Warryn des
+  - Bertram des
 Florent:
   :name: Florent
   :vo: Florent
@@ -2799,6 +3331,9 @@ Florent:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Florent
   :lord: Alester Florent
   :ser: Axell Florent
+  :leaders:
+  - Alester Florent
+  - Axell Florent
 Hightower:
   :name: Hightower
   :vo: Hightower
@@ -2809,6 +3344,9 @@ Hightower:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hightower
   :lord: Leyton Hightower
   :ser: Baelor Hightower
+  :leaders:
+  - Leyton Hightower
+  - Baelor Hightower
 Merryweather:
   :name: Merryweather
   :vo: Merryweather
@@ -2819,6 +3357,8 @@ Merryweather:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Merryweather
   :lord: Orton Merryweather
   :ser: 
+  :leaders:
+  - Orton Merryweather
 Mullendore:
   :name: Mullendore
   :vo: Mullendore
@@ -2829,6 +3369,9 @@ Mullendore:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mullendore
   :lord: Martyn Mullendore
   :ser: Mark Mullendore
+  :leaders:
+  - Martyn Mullendore
+  - Mark Mullendore
 de la Nouë:
   :name: de la Nouë
   :vo: Meadows
@@ -2839,6 +3382,8 @@ de la Nouë:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_de_la_Nou%C3%AB
   :lord: Elbois de
   :ser: 
+  :leaders:
+  - Elbois de
 Peake:
   :name: Peake
   :vo: Peake
@@ -2849,6 +3394,9 @@ Peake:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Peake
   :lord: Titus Peake
   :ser: Laswell Peake
+  :leaders:
+  - Titus Peake
+  - Laswell Peake
 Redwyne:
   :name: Redwyne
   :vo: Redwyne
@@ -2859,6 +3407,9 @@ Redwyne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Redwyne
   :lord: Paxter Redwyne
   :ser: Horas Redwyne
+  :leaders:
+  - Paxter Redwyne
+  - Horas Redwyne
 Risley:
   :name: Risley
   :vo: Risley
@@ -2869,6 +3420,8 @@ Risley:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Risley
   :lord: 
   :ser: Eden Risley
+  :leaders:
+  - Eden Risley
 du Rouvre:
   :name: du Rouvre
   :vo: Oakheart
@@ -2879,6 +3432,9 @@ du Rouvre:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_du_Rouvre
   :lord: Edgerran du
   :ser: Arys du
+  :leaders:
+  - Edgerran du
+  - Arys du
 Rowan:
   :name: Rowan
   :vo: Rowan
@@ -2889,6 +3445,9 @@ Rowan:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rowan
   :lord: Mathis Rowan
   :ser: Nyles Rowan
+  :leaders:
+  - Mathis Rowan
+  - Nyles Rowan
 Tarly:
   :name: Tarly
   :vo: Tarly
@@ -2899,6 +3458,9 @@ Tarly:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tarly
   :lord: Randyll Tarly
   :ser: Samwyle Tarly
+  :leaders:
+  - Randyll Tarly
+  - Samwyle Tarly
 Tyssier:
   :name: Tyssier
   :vo: Webber
@@ -2909,6 +3471,8 @@ Tyssier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tyssier
   :lord: Wyman Tyssier
   :ser: 
+  :leaders:
+  - Wyman Tyssier
 Varnier:
   :name: Varnier
   :vo: Varner
@@ -2919,6 +3483,8 @@ Varnier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Varnier
   :lord: Steffon Varnier
   :ser: 
+  :leaders:
+  - Steffon Varnier
 Vouyvère:
   :name: Vouyvère
   :vo: Vyrwel
@@ -2929,6 +3495,8 @@ Vouyvère:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vouyv%C3%A8re
   :lord: et lady
   :ser: 
+  :leaders:
+  - et lady
 Willum:
   :name: Willum
   :vo: Willum
@@ -2939,6 +3507,7 @@ Willum:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Willum
   :lord: 
   :ser: 
+  :leaders: []
 Chester:
   :name: Chester
   :vo: Chester
@@ -2949,6 +3518,8 @@ Chester:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Chester
   :lord: Moribald Chester
   :ser: 
+  :leaders:
+  - Moribald Chester
 Grimm:
   :name: Grimm
   :vo: Grimm
@@ -2959,6 +3530,8 @@ Grimm:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grimm
   :lord: Guthor Grimm
   :ser: 
+  :leaders:
+  - Guthor Grimm
 Houëtt:
   :name: Houëtt
   :vo: Hewett
@@ -2969,6 +3542,9 @@ Houëtt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hou%C3%ABtt
   :lord: Humfrey Hou
   :ser: Glendon Hou
+  :leaders:
+  - Humfrey Hou
+  - Glendon Hou
 Serry:
   :name: Serry
   :vo: Serry
@@ -2979,6 +3555,7 @@ Serry:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Serry
   :lord: 
   :ser: 
+  :leaders: []
 Fossovoie pomme-rouge:
   :name: Fossovoie pomme-rouge
   :vo: Fossoway
@@ -2989,6 +3566,9 @@ Fossovoie pomme-rouge:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-rouge
   :lord: Owen Fossovoie
   :ser: Bryan Fossovoie
+  :leaders:
+  - Owen Fossovoie
+  - Bryan Fossovoie
 Fossovoie pomme-verte:
   :name: Fossovoie pomme-verte
   :vo: Fossoway
@@ -2999,6 +3579,8 @@ Fossovoie pomme-verte:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-verte
   :lord: 
   :ser: Jon Fossovoie
+  :leaders:
+  - Jon Fossovoie
 Hunt:
   :name: Hunt
   :vo: Hunt
@@ -3009,6 +3591,8 @@ Hunt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hunt
   :lord: 
   :ser: Hyle Hunt
+  :leaders:
+  - Hyle Hunt
 Norcroix:
   :name: Norcroix
   :vo: Norcross
@@ -3019,6 +3603,8 @@ Norcroix:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norcroix
   :lord: 
   :ser: Hosman Norcroix
+  :leaders:
+  - Hosman Norcroix
 Osgris:
   :name: Osgris
   :vo: Osgrey
@@ -3029,6 +3615,9 @@ Osgris:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Osgris
   :lord: Perwyn Osgris
   :ser: Wilbert Osgris
+  :leaders:
+  - Perwyn Osgris
+  - Wilbert Osgris
 Appleton:
   :name: Appleton
   :vo: Appleton
@@ -3039,6 +3628,7 @@ Appleton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Appleton
   :lord: 
   :ser: 
+  :leaders: []
 Bonleu:
   :name: Bonleu
   :vo: Leygood
@@ -3049,6 +3639,8 @@ Bonleu:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bonleu
   :lord: 
   :ser: Simon Bonleu
+  :leaders:
+  - Simon Bonleu
 Boule:
   :name: Boule
   :vo: Ball
@@ -3059,6 +3651,8 @@ Boule:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boule
   :lord: 
   :ser: Quentyn Boule
+  :leaders:
+  - Quentyn Boule
 Bridges:
   :name: Bridges
   :vo: Bridges
@@ -3069,6 +3663,7 @@ Bridges:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bridges
   :lord: 
   :ser: 
+  :leaders: []
 Brousse:
   :name: Brousse
   :vo: Bushy
@@ -3079,6 +3674,8 @@ Brousse:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brousse
   :lord: 
   :ser: Ben Brousse
+  :leaders:
+  - Ben Brousse
 Le Charpentier:
   :name: Le Charpentier
   :vo: Woodwright
@@ -3089,6 +3686,8 @@ Le Charpentier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Le_Charpentier
   :lord: 
   :ser: Portifer Le
+  :leaders:
+  - Portifer Le
 Cordwayner:
   :name: Cordwayner
   :vo: Cordwayner
@@ -3099,6 +3698,7 @@ Cordwayner:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cordwayner
   :lord: 
   :ser: 
+  :leaders: []
 Dunn:
   :name: Dunn
   :vo: Dunn
@@ -3109,6 +3709,7 @@ Dunn:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dunn
   :lord: 
   :ser: 
+  :leaders: []
 Graceford:
   :name: Graceford
   :vo: Graceford
@@ -3119,6 +3720,8 @@ Graceford:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Graceford
   :lord: 
   :ser: Harys Graceford
+  :leaders:
+  - Harys Graceford
 Graves:
   :name: Graves
   :vo: Graves
@@ -3129,6 +3732,7 @@ Graves:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Graves
   :lord: 
   :ser: 
+  :leaders: []
 Hutcheson:
   :name: Hutcheson
   :vo: Hutcheson
@@ -3139,6 +3743,7 @@ Hutcheson:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hutcheson
   :lord: 
   :ser: 
+  :leaders: []
 Kidwell:
   :name: Kidwell
   :vo: Kidwell
@@ -3149,6 +3754,7 @@ Kidwell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Kidwell
   :lord: 
   :ser: 
+  :leaders: []
 Lowther:
   :name: Lowther
   :vo: Lowther
@@ -3159,6 +3765,7 @@ Lowther:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lowther
   :lord: 
   :ser: 
+  :leaders: []
 Lyberr:
   :name: Lyberr
   :vo: Lyberr
@@ -3169,6 +3776,7 @@ Lyberr:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lyberr
   :lord: 
   :ser: 
+  :leaders: []
 Middlebury:
   :name: Middlebury
   :vo: Middlebury
@@ -3179,6 +3787,7 @@ Middlebury:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Middlebury
   :lord: 
   :ser: 
+  :leaders: []
 Milopin:
   :name: Milopin
   :vo: Inchfield
@@ -3189,6 +3798,8 @@ Milopin:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Milopin
   :lord: 
   :ser: Owen Milopin
+  :leaders:
+  - Owen Milopin
 Nègrebar:
   :name: Nègrebar
   :vo: Blackbar
@@ -3199,6 +3810,8 @@ Nègrebar:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_N%C3%A8grebar
   :lord: 
   :ser: Leo N
+  :leaders:
+  - Leo N
 Norridge:
   :name: Norridge
   :vo: Norridge
@@ -3209,6 +3822,8 @@ Norridge:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norridge
   :lord: 
   :ser: Theodore Tyrell
+  :leaders:
+  - Theodore Tyrell
 Oldflowers:
   :name: Oldflowers
   :vo: Oldflowers
@@ -3219,6 +3834,8 @@ Oldflowers:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Oldflowers
   :lord: 
   :ser: Garth Oldflowers
+  :leaders:
+  - Garth Oldflowers
 Orme:
   :name: Orme
   :vo: Orme
@@ -3229,6 +3846,7 @@ Orme:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Orme
   :lord: 
   :ser: 
+  :leaders: []
 Piète:
   :name: Piète
   :vo: Footly
@@ -3239,6 +3857,7 @@ Piète:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8te
   :lord: 
   :ser: 
+  :leaders: []
 Piquemèche:
   :name: Piquemèche
   :vo: Hastwyck
@@ -3249,6 +3868,8 @@ Piquemèche:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Piquem%C3%A8che
   :lord: 
   :ser: Morgil Piquem
+  :leaders:
+  - Morgil Piquem
 Pommingham:
   :name: Pommingham
   :vo: Pommingham
@@ -3259,6 +3880,7 @@ Pommingham:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pommingham
   :lord: 
   :ser: 
+  :leaders: []
 Redding:
   :name: Redding
   :vo: Redding
@@ -3269,6 +3891,7 @@ Redding:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Redding
   :lord: 
   :ser: 
+  :leaders: []
 Roxton:
   :name: Roxton
   :vo: Roxton
@@ -3279,6 +3902,9 @@ Roxton:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Roxton
   :lord: Jon Roxton
   :ser: Lorence Roxton
+  :leaders:
+  - Jon Roxton
+  - Lorence Roxton
 Shermer:
   :name: Shermer
   :vo: Shermer
@@ -3289,6 +3915,7 @@ Shermer:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Shermer
   :lord: 
   :ser: 
+  :leaders: []
 Sloane:
   :name: Sloane
   :vo: Sloane
@@ -3299,6 +3926,7 @@ Sloane:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sloane
   :lord: 
   :ser: 
+  :leaders: []
 Uffering:
   :name: Uffering
   :vo: Uffering
@@ -3309,6 +3937,8 @@ Uffering:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Uffering
   :lord: 
   :ser: Rolland Uffering
+  :leaders:
+  - Rolland Uffering
 Westbrook:
   :name: Westbrook
   :vo: Westbrook
@@ -3319,6 +3949,7 @@ Westbrook:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Westbrook
   :lord: 
   :ser: 
+  :leaders: []
 Wythers:
   :name: Wythers
   :vo: Wythers
@@ -3329,6 +3960,7 @@ Wythers:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wythers
   :lord: 
   :ser: 
+  :leaders: []
 Yelshire:
   :name: Yelshire
   :vo: Yelshire
@@ -3339,6 +3971,7 @@ Yelshire:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Yelshire
   :lord: 
   :ser: 
+  :leaders: []
 Jardinier:
   :name: Jardinier
   :vo: Gardener
@@ -3349,6 +3982,7 @@ Jardinier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jardinier
   :lord: 
   :ser: 
+  :leaders: []
 Rhysling:
   :name: Rhysling
   :vo: Rhysling
@@ -3359,6 +3993,8 @@ Rhysling:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Rhysling
   :lord: 
   :ser: Robyn Rhysling
+  :leaders:
+  - Robyn Rhysling
 Martell:
   :name: Martell
   :vo: Martell
@@ -3369,6 +4005,8 @@ Martell:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Martell
   :lord: 
   :ser: 
+  :leaders:
+  - Prince Oberyn Martell
 Allyrion:
   :name: Allyrion
   :vo: Allyrion
@@ -3379,6 +4017,8 @@ Allyrion:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Allyrion
   :lord: 
   :ser: Ryon Allyrion
+  :leaders:
+  - Ryon Allyrion
 Dayne:
   :name: Dayne
   :vo: Dayne
@@ -3389,6 +4029,9 @@ Dayne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dayne
   :lord: Edric Dayne
   :ser: Davos Dayne
+  :leaders:
+  - Edric Dayne
+  - Davos Dayne
 Ferboys:
   :name: Ferboys
   :vo: Yronwood
@@ -3399,6 +4042,9 @@ Ferboys:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ferboys
   :lord: Anders Ferboys
   :ser: Cletus Ferboys
+  :leaders:
+  - Anders Ferboys
+  - Cletus Ferboys
 Forrest:
   :name: Forrest
   :vo: Manwoody
@@ -3409,6 +4055,9 @@ Forrest:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Forrest
   :lord: Dagos Forrest
   :ser: Myles Forrest
+  :leaders:
+  - Dagos Forrest
+  - Myles Forrest
 Gargalen:
   :name: Gargalen
   :vo: Gargalen
@@ -3419,6 +4068,8 @@ Gargalen:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gargalen
   :lord: Tremond Gargalen
   :ser: 
+  :leaders:
+  - Tremond Gargalen
 Jordayne:
   :name: Jordayne
   :vo: Jordayne
@@ -3429,6 +4080,8 @@ Jordayne:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jordayne
   :lord: Trebor Jordayne
   :ser: 
+  :leaders:
+  - Trebor Jordayne
 Noirmont:
   :name: Noirmont
   :vo: Blackmont
@@ -3439,6 +4092,7 @@ Noirmont:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Noirmont
   :lord: 
   :ser: 
+  :leaders: []
 Poulet:
   :name: Poulet
   :vo: Fowler
@@ -3449,6 +4103,8 @@ Poulet:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Poulet
   :lord: Franklyn Poulet
   :ser: 
+  :leaders:
+  - Franklyn Poulet
 Qorgyle:
   :name: Qorgyle
   :vo: Qorgyle
@@ -3459,6 +4115,9 @@ Qorgyle:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Qorgyle
   :lord: Quentyn Qorgyle
   :ser: Gulian Qorgyle
+  :leaders:
+  - Quentyn Qorgyle
+  - Gulian Qorgyle
 Toland:
   :name: Toland
   :vo: Toland
@@ -3469,6 +4128,7 @@ Toland:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Toland
   :lord: 
   :ser: 
+  :leaders: []
 Uller:
   :name: Uller
   :vo: Uller
@@ -3479,6 +4139,9 @@ Uller:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Uller
   :lord: Harmen Uller
   :ser: Ulwyck Uller
+  :leaders:
+  - Harmen Uller
+  - Ulwyck Uller
 le Voi:
   :name: le Voi
   :vo: Vaith
@@ -3489,6 +4152,8 @@ le Voi:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_le_Voi
   :lord: Daeron le
   :ser: 
+  :leaders:
+  - Daeron le
 Dalt:
   :name: Dalt
   :vo: Dalt
@@ -3499,6 +4164,8 @@ Dalt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Dalt
   :lord: 
   :ser: Deziel Dalt
+  :leaders:
+  - Deziel Dalt
 Santagar:
   :name: Santagar
   :vo: Santagar
@@ -3509,6 +4176,8 @@ Santagar:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Santagar
   :lord: 
   :ser: Symon Santagar
+  :leaders:
+  - Symon Santagar
 Wells:
   :name: Wells
   :vo: Wells
@@ -3519,6 +4188,7 @@ Wells:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wells_(Dorne)
   :lord: 
   :ser: 
+  :leaders: []
 Wyl:
   :name: Wyl
   :vo: Wyl
@@ -3529,6 +4199,8 @@ Wyl:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wyl
   :lord: Walter Wyl
   :ser: 
+  :leaders:
+  - Walter Wyl
 l'Aride:
   :name: l'Aride
   :vo: Dryland
@@ -3539,6 +4211,7 @@ l'Aride:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_l%27Aride
   :lord: 
   :ser: 
+  :leaders: []
 Brook:
   :name: Brook
   :vo: Brook
@@ -3549,6 +4222,7 @@ Brook:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Brook
   :lord: 
   :ser: 
+  :leaders: []
 Carène:
   :name: Carène
   :vo: Hull
@@ -3559,6 +4233,7 @@ Carène:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Car%C3%A8ne
   :lord: 
   :ser: 
+  :leaders: []
 Conquet:
   :name: Conquet
   :vo: Shell
@@ -3569,6 +4244,7 @@ Conquet:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Conquet
   :lord: 
   :ser: 
+  :leaders: []
 Holt:
   :name: Holt
   :vo: Holt
@@ -3579,6 +4255,7 @@ Holt:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Holt_(Dorne)
   :lord: 
   :ser: 
+  :leaders: []
 Lacq:
   :name: Lacq
   :vo: Lake
@@ -3589,6 +4266,7 @@ Lacq:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lacq
   :lord: 
   :ser: 
+  :leaders: []
 Montbrun:
   :name: Montbrun
   :vo: Brownhill
@@ -3599,6 +4277,7 @@ Montbrun:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montbrun
   :lord: 
   :ser: 
+  :leaders: []
 Roncier:
   :name: Roncier
   :vo: Briar
@@ -3609,6 +4288,7 @@ Roncier:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Roncier
   :lord: 
   :ser: 
+  :leaders: []
 Wade:
   :name: Wade
   :vo: Wade
@@ -3619,6 +4299,7 @@ Wade:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wade
   :lord: 
   :ser: 
+  :leaders: []
 Cole:
   :name: Cole
   :vo: Cole
@@ -3629,6 +4310,8 @@ Cole:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cole
   :lord: 
   :ser: Criston Cole
+  :leaders:
+  - Criston Cole
 Vendeloyn de Lumière Isolée:
   :name: Vendeloyn de Lumière Isolée
   :vo: Farwynd
@@ -3639,6 +4322,8 @@ Vendeloyn de Lumière Isolée:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vendeloyn_de_Lumi%C3%A8re_Isol%C3%A9e
   :lord: Gylbert Vendeloyn
   :ser: 
+  :leaders:
+  - Gylbert Vendeloyn
 Vendeloyn de Sealskin Point:
   :name: Vendeloyn de Sealskin Point
   :vo: Farwynd
@@ -3649,3 +4334,5 @@ Vendeloyn de Sealskin Point:
   :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vendeloyn_de_Sealskin_Point
   :lord: Triston Vendeloyn
   :ser: 
+  :leaders:
+  - Triston Vendeloyn
