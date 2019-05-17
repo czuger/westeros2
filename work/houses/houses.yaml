@@ -614,19 +614,6 @@ Arryn:
   - Lord Jon Arryn
   - Ser Rymond Arryn
   :faction: Arryn
-Baelish:
-  :name: Baelish
-  :vo: Baelish
-  :location: 
-  :rang: maison noble
-  :vassal_of: Arryn
-  :blason: Blason-baelish-alt-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baelish
-  :lord: Petyr Baelish
-  :ser: 
-  :leaders:
-  - Lord Petyr Baelish
-  :faction: Arryn
 Belmore:
   :name: Belmore
   :vo: Belmore
@@ -1188,20 +1175,6 @@ Prestre:
   :leaders:
   - Lord Garrison Prestre
   - Ser Forley Prestre
-  :faction: Lannister
-Prünh:
-  :name: Prünh
-  :vo: Plumm
-  :location: 
-  :rang: Maison Noble
-  :vassal_of: Lannister
-  :blason: Blason-prunh-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pr%C3%BCnh
-  :lord: Philipp Pr
-  :ser: Dennis Pr
-  :leaders:
-  - Lord Philipp Pr
-  - Ser Dennis Pr
   :faction: Lannister
 Sarwyck:
   :name: Sarwyck

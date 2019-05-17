@@ -6,72 +6,84 @@ Stark:
   :allegence: Stark
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Stark
 - :leader: Lord Rickard Karstark
   :blason: Blason-karstark-2014-V01-256px.png
   :name: Karstark
   :allegence: Stark
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Karstark
 - :leader: Lord Roose Bolton
   :blason: Blason-bolton-2014-v01-256px.png
   :name: Bolton
   :allegence: Stark
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bolton
 - :leader: Lord Jon Omble
   :blason: Blason-omble-2014-v01-256px.png
   :name: Omble
   :allegence: Stark
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Omble
 - :leader: Lord Medger Cerwyn
   :blason: Blason-cerwyn-2014-v01-256px.png
   :name: Cerwyn
   :allegence: Stark
   :kind: :footmen
   :men: 2000
-- :leader: Lord Ludd Whitehill
-  :blason: Blason-whitehill-2014-v01-256px.png
-  :name: Whitehill
-  :allegence: Stark
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cerwyn
 - :leader: Lord Howland Reed
   :blason: Blason-reed-2014-v01-256px.png
   :name: Reed
   :allegence: Stark
   :kind: :footmen
   :men: 2000
-- :leader: Lord Wyman Manderly
-  :blason: Blason-manderly-2014-v01-256px.png
-  :name: Manderly
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Reed
+- :leader: Ser Theodan Puits
+  :blason: Blason-puits-2014-v01-256px.png
+  :name: Puits
   :allegence: Stark
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Puits_(Nord)
+- :leader: Lord Torren Lideuil
+  :blason: Blason-lideuil-2014-v01-256px.png
+  :name: Lideuil
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lideuil
+- :leader: Ser Kyle Cardon
+  :blason: Blason-condon-2014-v01-256px.png
+  :name: Cardon
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cardon
+- :leader: Ser Rodrik Cassel
+  :blason: Blason-cassel-2014-v01-256px.png
+  :name: Cassel
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cassel
+- :leader: Ser Helman Tallhart
+  :blason: Blason-tallhart-2014-v01-256px.png
+  :name: Tallhart
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tallhart
 - :leader: Lord Rodrik Ryswell
   :blason: Blason-ryswell-2014-v01-256px.png
   :name: Ryswell
   :allegence: Stark
   :kind: :knights
   :men: 1000
-- :leader: Lord Brandon Norroit
-  :blason: Blason-norroit-2014-v01-256px.png
-  :name: Norroit
-  :allegence: Stark
-  :kind: :knights
-  :men: 1000
-- :leader: Lord Ondrew Locke
-  :blason: Blason-locke-2014-v01-256px.png
-  :name: Locke
-  :allegence: Stark
-  :kind: :knights
-  :men: 1000
-- :leader: Lord Torren Lideuil
-  :blason: Blason-lideuil-2014-v01-256px.png
-  :name: Lideuil
-  :allegence: Stark
-  :kind: :knights
-  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryswell
 Lannister:
 - :leader: Lord Tywin Lannister
   :blason: Blason-lannister-2014-v01-256px.png
@@ -79,72 +91,84 @@ Lannister:
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Philipp Pr
-  :blason: Blason-prunh-2014-v01-256px.png
-  :name: Prünh
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Lannister
+- :leader: Ser Melwyn Sarschamp
+  :blason: Blason-sarschamp-2014-v01-256px.png
+  :name: Sarschamp
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Garrison Prestre
-  :blason: Blason-prestre-2014-v01-256px.png
-  :name: Prestre
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Sarschamp
+- :leader: Ser Philip Pi
+  :blason: Blason-piedre-2014-v01-256px.png
+  :name: Pièdre
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Roland Ouestrelin
-  :blason: Blason-ouestrelin-2014-v01-256px.png
-  :name: Ouestrelin
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8dre
+- :leader: Ser Ilyn Payne
+  :blason: Blason-payne-2014-v01-256px.png
+  :name: Payne
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Lewys Lydden
-  :blason: Blason-lydden-2014-v01-256px.png
-  :name: Lydden
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Payne
+- :leader: Ser Benedict Geneste
+  :blason: Blason-broom-2014-v01-256px.png
+  :name: Geneste
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Leo Lefford
-  :blason: Blason-lefford-2014-v01-256px.png
-  :name: Lefford
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Geneste
+- :leader: Ser Alyn Garner
+  :blason: Blason-garner-2014-v01-256px.png
+  :name: Garner
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Terrence Kenning
-  :blason: Blason-kenning2-2014-v01-256px.png
-  :name: Kenning
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Garner
+- :leader: Lord Rupert Falli
+  :blason: Blason-falwell-2014-v01-256px.png
+  :name: Fallières
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Antario Jast
-  :blason: Blason-jast-2014-v01-256px.png
-  :name: Jast
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Falli%C3%A8res
+- :leader: Ser Joffrey Doguette
+  :blason: Blason-doggett-2014-v01-256px.png
+  :name: Doguette
   :allegence: Lannister
   :kind: :footmen
   :men: 2000
-- :leader: Lord Quenten Fl
-  :blason: Blason-fleaufort-2014-v01-256px.png
-  :name: Fléaufort
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Doguette
+- :leader: Ser Jon Bettley
+  :blason: Blason-bettley-2014-v01-256px.png
+  :name: Bettley
   :allegence: Lannister
   :kind: :knights
   :men: 1000
-- :leader: Lord Sebaston Farman
-  :blason: Blason-farman-2014-v01-256px.png
-  :name: Farman
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Bettley
+- :leader: Ser Lymond Vikair
+  :blason: Blason-vikair-2014-v01-256px.png
+  :name: Vikair
   :allegence: Lannister
   :kind: :knights
   :men: 1000
-- :leader: Lord Selmond Gerblance
-  :blason: Blason-gerblance-2014-v01-256px.png
-  :name: Gerblance
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vikair
+- :leader: Ser Garth Verchamps
+  :blason: Blason-verchamps-2014-v01-256px.png
+  :name: Verchamps
   :allegence: Lannister
   :kind: :knights
   :men: 1000
-- :leader: Lord Regenard Estren
-  :blason: Blason-estren-2014-v01-256px.png
-  :name: Estren
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Verchamps
+- :leader: Ser Harys Swyft
+  :blason: Blason-swyft-2014-v01-256px.png
+  :name: Swyft
   :allegence: Lannister
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swyft
 Tyrell:
 - :leader: Lord Mace Tyrell
   :blason: Blason-tyrell-2014-v01-256px.png
@@ -152,36 +176,42 @@ Tyrell:
   :allegence: Tyrell
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tyrell
 - :leader: Lord Randyll Tarly
   :blason: Blason-tarly-2014-v01-256px.png
   :name: Tarly
   :allegence: Tyrell
   :kind: :footmen
   :men: 2000
-- :leader: Lord Jon Roxton
-  :blason: Blason-roxton-2014-v01-256px.png
-  :name: Roxton
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tarly
+- :leader: Ser Theodore Tyrell
+  :blason: Blason-norridge-2014-v01-256px.png
+  :name: Norridge
   :allegence: Tyrell
   :kind: :footmen
   :men: 2000
-- :leader: Lord Edgerran du
-  :blason: Blason-durouvre-2014-v01-256px.png
-  :name: du Rouvre
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norridge
+- :leader: Ser Leo N
+  :blason: Blason-negrebar-2014-v01-256px.png
+  :name: Nègrebar
   :allegence: Tyrell
   :kind: :footmen
   :men: 2000
-- :leader: Lord Paxter Redwyne
-  :blason: Blason-redwyne-2014-v01-256px.png
-  :name: Redwyne
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_N%C3%A8grebar
+- :leader: Ser Owen Milopin
+  :blason: Blason-milopin-2014-v01-256px.png
+  :name: Milopin
   :allegence: Tyrell
   :kind: :knights
   :men: 1000
-- :leader: Lord Titus Peake
-  :blason: Blason-peake-2014-v01-256px.png
-  :name: Peake
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Milopin
+- :leader: Ser Harys Graceford
+  :blason: Blason-graceford-2014-v01-256px.png
+  :name: Graceford
   :allegence: Tyrell
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Graceford
 Martell:
 - :leader: Prince Oberyn Martell
   :blason: Blason-martell-2014-v01-256px.png
@@ -189,36 +219,42 @@ Martell:
   :allegence: Martell
   :kind: :footmen
   :men: 2000
-- :leader: Lord Walter Wyl
-  :blason: Blason-wyl-2014-v01-256px.png
-  :name: Wyl
-  :allegence: Martell
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Martell
 - :leader: Lord Daeron le
   :blason: Blason-levoi-2014-v01-256px.png
   :name: le Voi
   :allegence: Martell
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_le_Voi
 - :leader: Lord Harmen Uller
   :blason: Blason-uller-2014-v01-256px.png
   :name: Uller
   :allegence: Martell
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Uller
 - :leader: Lord Quentyn Qorgyle
   :blason: Blason-qorgyle-2014-v01-256px.png
   :name: Qorgyle
   :allegence: Martell
-  :kind: :knights
-  :men: 1000
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Qorgyle
 - :leader: Lord Franklyn Poulet
   :blason: Blason-poulet-2014-v01-256px.png
   :name: Poulet
   :allegence: Martell
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Poulet
+- :leader: Lord Trebor Jordayne
+  :blason: Blason-jordayne-2014-v01-256px.png
+  :name: Jordayne
+  :allegence: Martell
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Jordayne
 Baratheon:
 - :leader: Lord Stannis Baratheon
   :blason: Blason-baratheon-2014-v01-256px.png
@@ -226,72 +262,84 @@ Baratheon:
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
-- :leader: Lord Ralph Buckler
-  :blason: Blason-buckler-2014-v01-256px.png
-  :name: Buckler
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Baratheon
+- :leader: Lord Cameron Torth
+  :blason: Blason-torth-2014-v01-256px.png
+  :name: Torth
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
-- :leader: Lord Alesander Staedmon
-  :blason: Blason-staedmon-2014-v01-256px.png
-  :name: Staedmon
-  :allegence: Baratheon
-  :kind: :footmen
-  :men: 2000
-- :leader: Lord Roy Connington
-  :blason: Blason-connington-2014-v01-256px.png
-  :name: Connington
-  :allegence: Baratheon
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Torth
 - :leader: Lord Gulian Swann
   :blason: Blason-swann-2014-v01-256px.png
   :name: Swann
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Swann
 - :leader: Lord Arstan Selmy
   :blason: Blason-selmy-2014-v01-256px.png
   :name: Selmy
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Selmy
 - :leader: Lord Bryce Caron
   :blason: Blason-caron-2014-v01-256px.png
   :name: Caron
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Caron
 - :leader: Lord Casper Wylde
   :blason: Blason-wylde-2014-v01-256px.png
   :name: Wylde
   :allegence: Baratheon
   :kind: :footmen
   :men: 2000
-- :leader: Lord Cameron Torth
-  :blason: Blason-torth-2014-v01-256px.png
-  :name: Torth
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Wylde
+- :leader: Ser Davos Mervault
+  :blason: Blason-mervault-2014-v01-256px.png
+  :name: Mervault
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mervault
+- :leader: Lord Roy Connington
+  :blason: Blason-connington-2014-v01-256px.png
+  :name: Connington
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Connington
+- :leader: Lord Alesander Staedmon
+  :blason: Blason-staedmon-2014-v01-256px.png
+  :name: Staedmon
   :allegence: Baratheon
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Staedmon
 - :leader: Lord Ronnel Penrose
   :blason: Blason-penrose-2014-v01-256px.png
   :name: Penrose
   :allegence: Baratheon
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Penrose
 - :leader: Lord Lester Morrigen
   :blason: Blason-morrigen-2014-v01-256px.png
   :name: Morrigen
   :allegence: Baratheon
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Morrigen
 - :leader: Lord Hugh Grandison
   :blason: Blason-grandison-2014-v01-256px.png
   :name: Grandison
   :allegence: Baratheon
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grandison
 Tully:
 - :leader: Lord Hoster Tully
   :blason: Blason-tully-2014-v01-256px.png
@@ -299,36 +347,42 @@ Tully:
   :allegence: Tully
   :kind: :footmen
   :men: 2000
-- :leader: Lord Theo Charlton
-  :blason: Blason-charlton-2014-v01-256px.png
-  :name: Charlton
-  :allegence: Tully
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Tully
 - :leader: Lord Walder Frey
   :blason: Blason-frey-2014-v01-256px.png
   :name: Frey
   :allegence: Tully
   :kind: :footmen
   :men: 2000
-- :leader: Lord Darnold Darry
-  :blason: Blason-darry-2014-v01-256px.png
-  :name: Darry
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Frey
+- :leader: Ser Desmond Grell
+  :blason: Blason-grell-2014-v01-256px.png
+  :name: Grell
   :allegence: Tully
   :kind: :footmen
   :men: 2000
-- :leader: Lord Jonos Bracken
-  :blason: Blason-bracken-2014-v01-256px.png
-  :name: Bracken
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Grell
+- :leader: Ser Halmon Paege
+  :blason: Blason-paege-2014-v01-256px.png
+  :name: Paege
+  :allegence: Tully
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Paege
+- :leader: Ser Alyn Terrick
+  :blason: Blason-terrick-2014-v01-256px.png
+  :name: Terrick
   :allegence: Tully
   :kind: :knights
   :men: 1000
-- :leader: Lord Lymond Bonru
-  :blason: Blason-bonru-2014-v01-256px.png
-  :name: Bonru
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Terrick
+- :leader: Ser Robin Ryger
+  :blason: Blason-ryger-2014-v01-256px.png
+  :name: Ryger
   :allegence: Tully
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Ryger
 Arryn:
 - :leader: Lord Jon Arryn
   :blason: Blason-arryn-2014-v01-256px.png
@@ -336,36 +390,42 @@ Arryn:
   :allegence: Arryn
   :kind: :footmen
   :men: 2000
-- :leader: Lord Gerold Grafton
-  :blason: Blason-grafton-2014-v01-256px.png
-  :name: Grafton
-  :allegence: Arryn
-  :kind: :footmen
-  :men: 2000
-- :leader: Lord Lyonel Corbray
-  :blason: Blason-corbray-2014-v01-256px.png
-  :name: Corbray
-  :allegence: Arryn
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Arryn
 - :leader: Lord Benedar Belmore
   :blason: Blason-belmore-2014-v01-256px.png
   :name: Belmore
   :allegence: Arryn
   :kind: :footmen
   :men: 2000
-- :leader: Lord Petyr Baelish
-  :blason: Blason-baelish-alt-2014-v01-256px.png
-  :name: Baelish
-  :allegence: Arryn
-  :kind: :knights
-  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Belmore
 - :leader: Lord Dunstan Pryor
   :blason: Blason-pryor-2014-v01-256px.png
   :name: Pryor
   :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pryor
+- :leader: Ser Mandon Moore
+  :blason: Blason-moore-2014-v01-256px.png
+  :name: Moore
+  :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Moore
+- :leader: Lord Montmarri qui
+  :blason: Blason-ruthermont-2014-v01-256px.png
+  :name: Montmarri
+  :allegence: Arryn
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montmarri
+- :leader: Ser Symond Templeton
+  :blason: Blason-templeton-2014-v01-256px.png
+  :name: Templeton
+  :allegence: Arryn
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Templeton
 Port-Réal:
 - :leader: Lord Alyn Castelfoyer
   :blason: Blason-castelfoyer-2014-v01-256px.png
@@ -373,33 +433,39 @@ Port-Réal:
   :allegence: Port-Réal
   :kind: :footmen
   :men: 2000
-- :leader: Lord Renfred Rykker
-  :blason: Blason-rykker-2014-v01-256px.png
-  :name: Rykker
-  :allegence: Port-Réal
-  :kind: :footmen
-  :men: 2000
-- :leader: Lord Gyles Rosby
-  :blason: Blason-rosby-2014-v01-256px.png
-  :name: Rosby
-  :allegence: Port-Réal
-  :kind: :footmen
-  :men: 2000
-- :leader: Lord Lothar Mallery
-  :blason: Blason-mallery-2014-v01-256px.png
-  :name: Mallery
-  :allegence: Port-Réal
-  :kind: :footmen
-  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Castelfoyer
 - :leader: Lord Maldon Massey
   :blason: Blason-massey-2014-v01-256px.png
   :name: Massey
   :allegence: Port-Réal
-  :kind: :knights
-  :men: 1000
-- :leader: Lord Qarlton Chelsted
-  :blason: Blason-chelsted-2014-v01-256px.png
-  :name: Chelsted
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Massey
+- :leader: Ser Harrold Longegarde
+  :blason: Blason-langward-2014-v01-256px.png
+  :name: Langward
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Longegarde
+- :leader: Ser Gwayne Gaunt
+  :blason: Blason-gaunt-2014-v01-256px.png
+  :name: Gaunt
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gaunt
+- :leader: Ser Gilbert Farring
+  :blason: Blason-farring-2014-v01-256px.png
+  :name: Farring
   :allegence: Port-Réal
   :kind: :knights
   :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Farring
+- :leader: Ser Balmain Boulleau
+  :blason: Blason-boulleau-2014-v01-256px.png
+  :name: Boulleau
+  :allegence: Port-Réal
+  :kind: :knights
+  :men: 1000
+  :link: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Boulleau
