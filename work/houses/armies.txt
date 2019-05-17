@@ -1,7 +1,7 @@
 # Faction:House:Commander:Rank:Men/Horses:Amount
 # When commander is empty, choose a random name or invent one.
 
-Stark:Stark:Robb Stark:Men:2000
+Stark:Stark:Robb Stark, king of the north:Men:2000
 Stark:Karstark:Lord Rickard Karstark:Men:2000
 Stark:Bolton:Lord Roose Bolton:Men:2000
 Stark:Omble:Lord Jon Omble:Men:2000
@@ -10,11 +10,11 @@ Stark:Cerwyn:Lord Medger Cerwyn:Men:2000
 Stark:Locke:Lord Ondrew Locke:Men:2000
 Stark:Glover:Galbart Glover:Men:2000
 
-Stark:Ryswell:Lord Rodrik Ryswell:Horses:500
-Stark:Corbois:Lord Halys Corbois:Horses:500
-Stark:Stout:Lord Harbois Stout:Horses:500
-Stark:Whitehill:Lord Ludd Whitehill:Horses:500
-Stark:Flint:Robin Flint:Horses:500
-Stark:Cassel:Ser Rodrik Cassel:Horses:500
-Stark:Tallhart:Ser Helman Tallhart:Horses:500
-Stark:Cardon:Ser Kyle Cardon:Horses:500
+Stark:Ryswell:Lord Rodrik Ryswell:Horses:1000
+Stark:Corbois:Lord Halys Corbois:Horses:1000
+Stark:Stout:Lord Harbois Stout:Horses:1000
+Stark:Whitehill:Lord Ludd Whitehill:Horses:1000
+# Stark:Flint:Robin Flint:Horses:1000
+# Stark:Cassel:Ser Rodrik Cassel:Horses:1000
+# Stark:Tallhart:Ser Helman Tallhart:Horses:1000
+# Stark:Cardon:Ser Kyle Cardon:Horses:1000

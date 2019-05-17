@@ -37,9 +37,35 @@ doc.xpath('//a[starts-with(@title, "Maison")]').each do |house|
   # puts
 
   blason = house_info.at('.//img').attribute('src').text
-  `wget #{'https://www.lagardedenuit.com'+blason}`
-  `mv *.png ../../app/assets/images/blasons/`
+  unless File.exist?( '../../app/assets/images/blasons/' + File.basename(blason) )
+    `wget #{'https://www.lagardedenuit.com'+blason}`
+    `mv *.png ../../app/assets/images/blasons/`
+  end
   blason = File.basename(blason)
+
+  lord = nil
+  house_info.xpath('//li').each do |nodeset|
+    m = nodeset.text.match( /^.?[l|L]ord (\w+ \w+)/ )
+    if m
+      # p nodeset.text
+      lord = m[1]
+      break
+    end
+  end
+  # p lord if lord
+
+  ser = nil
+  house_info.xpath('//li').each do |nodeset|
+    m = nodeset.text.match( /^.?[S|s]er (\w+ \w+)/ )
+    if m
+      # p nodeset.text
+      ser = m[1]
+      break
+    end
+  end
+
+  # p ser if ser
+  # puts
 
   vo = house_info.at('b:contains("V.O.")').parent.next_element.children.text.strip.gsub(/.ouse /, '')
 
@@ -52,7 +78,8 @@ doc.xpath('//a[starts-with(@title, "Maison")]').each do |house|
   vassal_of = house_info.at('b:contains("Vassale de")')
   vassal_of = vassal_of.parent.next_element.children.text.strip.gsub(/.aison /, '') if vassal_of
 
-  h_db[name] = { name: name, vo: vo, location: location, rang: rang, vassal_of: vassal_of, blason: blason, url: page }
+  h_db[name] = { name: name, vo: vo, location: location, rang: rang, vassal_of: vassal_of, blason: blason, url: page,
+    lord: lord, ser: ser }
 
   File.open('db.yaml', 'w') do |f|
     f.write(h_db.to_yaml)
