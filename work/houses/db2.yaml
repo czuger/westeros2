@@ -22,7 +22,7 @@ Bolton:
   :lord: Roose Bolton
   :ser: 
   :leaders:
-  - Roose Bolton
+  - Lord Roose Bolton
 Cerwyn:
   :name: Cerwyn
   :vo: Cerwyn
@@ -34,7 +34,7 @@ Cerwyn:
   :lord: Medger Cerwyn
   :ser: 
   :leaders:
-  - Medger Cerwyn
+  - Lord Medger Cerwyn
 Corbois:
   :name: Corbois
   :vo: Hornwood
@@ -46,7 +46,7 @@ Corbois:
   :lord: Halys Corbois
   :ser: 
   :leaders:
-  - Halys Corbois
+  - Lord Halys Corbois
 Dustin:
   :name: Dustin
   :vo: Dustin
@@ -58,7 +58,7 @@ Dustin:
   :lord: Roderick Dustin
   :ser: 
   :leaders:
-  - Roderick Dustin
+  - Lord Roderick Dustin
 Karstark:
   :name: Karstark
   :vo: Karstark
@@ -70,7 +70,7 @@ Karstark:
   :lord: Rickard Karstark
   :ser: 
   :leaders:
-  - Rickard Karstark
+  - Lord Rickard Karstark
 Locke:
   :name: Locke
   :vo: Locke
@@ -82,8 +82,8 @@ Locke:
   :lord: Ondrew Locke
   :ser: Donnel Locke
   :leaders:
-  - Ondrew Locke
-  - Donnel Locke
+  - Lord Ondrew Locke
+  - Ser Donnel Locke
 Manderly:
   :name: Manderly
   :vo: Manderly
@@ -95,8 +95,8 @@ Manderly:
   :lord: Wyman Manderly
   :ser: Marlon Manderly
   :leaders:
-  - Wyman Manderly
-  - Marlon Manderly
+  - Lord Wyman Manderly
+  - Ser Marlon Manderly
 Mormont:
   :name: Mormont
   :vo: Mormont
@@ -108,7 +108,7 @@ Mormont:
   :lord: Jeor Mormont
   :ser: 
   :leaders:
-  - Jeor Mormont
+  - Lord Jeor Mormont
 Omble:
   :name: Omble
   :vo: Umber
@@ -120,7 +120,7 @@ Omble:
   :lord: Jon Omble
   :ser: 
   :leaders:
-  - Jon Omble
+  - Lord Jon Omble
 Ryswell:
   :name: Ryswell
   :vo: Ryswell
@@ -132,8 +132,8 @@ Ryswell:
   :lord: Rodrik Ryswell
   :ser: Mark Ryswell
   :leaders:
-  - Rodrik Ryswell
-  - Mark Ryswell
+  - Lord Rodrik Ryswell
+  - Ser Mark Ryswell
 Stout:
   :name: Stout
   :vo: Stout
@@ -145,8 +145,8 @@ Stout:
   :lord: Harbois Stout
   :ser: Wynton Stout
   :leaders:
-  - Harbois Stout
-  - Wynton Stout
+  - Lord Harbois Stout
+  - Ser Wynton Stout
 Tallhart:
   :name: Tallhart
   :vo: Tallhart
@@ -158,7 +158,7 @@ Tallhart:
   :lord: 
   :ser: Helman Tallhart
   :leaders:
-  - Helman Tallhart
+  - Ser Helman Tallhart
 Cassel:
   :name: Cassel
   :vo: Cassel
@@ -170,7 +170,7 @@ Cassel:
   :lord: 
   :ser: Rodrik Cassel
   :leaders:
-  - Rodrik Cassel
+  - Ser Rodrik Cassel
 Cardon:
   :name: Cardon
   :vo: Condon
@@ -182,7 +182,7 @@ Cardon:
   :lord: 
   :ser: Kyle Cardon
   :leaders:
-  - Kyle Cardon
+  - Ser Kyle Cardon
 Forestier:
   :name: Forestier
   :vo: Forrester
@@ -194,8 +194,8 @@ Forestier:
   :lord: Gregor Forestier
   :ser: Royland Degore
   :leaders:
-  - Gregor Forestier
-  - Royland Degore
+  - Lord Gregor Forestier
+  - Ser Royland Degore
 Puits:
   :name: Puits
   :vo: Wells
@@ -207,7 +207,7 @@ Puits:
   :lord: 
   :ser: Theodan Puits
   :leaders:
-  - Theodan Puits
+  - Ser Theodan Puits
 Whitehill:
   :name: Whitehill
   :vo: Whitehill
@@ -219,7 +219,7 @@ Whitehill:
   :lord: Ludd Whitehill
   :ser: 
   :leaders:
-  - Ludd Whitehill
+  - Lord Ludd Whitehill
 Lideuil:
   :name: Lideuil
   :vo: Liddle
@@ -231,7 +231,7 @@ Lideuil:
   :lord: Torren Lideuil
   :ser: 
   :leaders:
-  - Torren Lideuil
+  - Lord Torren Lideuil
 Norroit:
   :name: Norroit
   :vo: Norrey
@@ -243,7 +243,7 @@ Norroit:
   :lord: Brandon Norroit
   :ser: 
   :leaders:
-  - Brandon Norroit
+  - Lord Brandon Norroit
 Wull:
   :name: Wull
   :vo: Wull
@@ -255,7 +255,7 @@ Wull:
   :lord: Hugo Wull
   :ser: 
   :leaders:
-  - Hugo Wull
+  - Lord Hugo Wull
 Reed:
   :name: Reed
   :vo: Reed
@@ -267,7 +267,7 @@ Reed:
   :lord: Howland Reed
   :ser: 
   :leaders:
-  - Howland Reed
+  - Lord Howland Reed
 Greyjoy:
   :name: Greyjoy
   :vo: Greyjoy
@@ -279,7 +279,7 @@ Greyjoy:
   :lord: Balon Greyjoy
   :ser: 
   :leaders:
-  - Balon Greyjoy
+  - Lord Balon Greyjoy
 Bonfrère:
   :name: Bonfrère
   :vo: Goodbrother
@@ -291,7 +291,7 @@ Bonfrère:
   :lord: Gorold Bonfr
   :ser: 
   :leaders:
-  - Gorold Bonfr
+  - Lord Gorold Bonfr
 Botley:
   :name: Botley
   :vo: Botley
@@ -303,7 +303,7 @@ Botley:
   :lord: Sawane Botley
   :ser: 
   :leaders:
-  - Sawane Botley
+  - Lord Sawane Botley
 Harloi:
   :name: Harloi
   :vo: Harlaw
@@ -315,8 +315,8 @@ Harloi:
   :lord: Rodrik Harloi
   :ser: Harras Harloi
   :leaders:
-  - Rodrik Harloi
-  - Harras Harloi
+  - Lord Rodrik Harloi
+  - Ser Harras Harloi
 Merlyn:
   :name: Merlyn
   :vo: Merlyn
@@ -328,7 +328,7 @@ Merlyn:
   :lord: Meldred Merlyn
   :ser: 
   :leaders:
-  - Meldred Merlyn
+  - Lord Meldred Merlyn
 Noirmarées:
   :name: Noirmarées
   :vo: Blacktyde
@@ -340,7 +340,7 @@ Noirmarées:
   :lord: Baelor Noirmar
   :ser: 
   :leaders:
-  - Baelor Noirmar
+  - Lord Baelor Noirmar
 Orquebois:
   :name: Orquebois
   :vo: Orkwood
@@ -352,7 +352,7 @@ Orquebois:
   :lord: Alyn Orquebois
   :ser: 
   :leaders:
-  - Alyn Orquebois
+  - Lord Alyn Orquebois
 Salfalaise:
   :name: Salfalaise
   :vo: Saltcliffe
@@ -364,7 +364,7 @@ Salfalaise:
   :lord: Donnor Salfalaise
   :ser: 
   :leaders:
-  - Donnor Salfalaise
+  - Lord Donnor Salfalaise
 Tawney:
   :name: Tawney
   :vo: Tawney
@@ -376,7 +376,7 @@ Tawney:
   :lord: Balon Tawney
   :ser: 
   :leaders:
-  - Balon Tawney
+  - Lord Balon Tawney
 Timbal:
   :name: Timbal
   :vo: Drumm
@@ -388,7 +388,7 @@ Timbal:
   :lord: Dunstan Timbal
   :ser: 
   :leaders:
-  - Dunstan Timbal
+  - Lord Dunstan Timbal
 Volmark:
   :name: Volmark
   :vo: Volmark
@@ -400,7 +400,7 @@ Volmark:
   :lord: Maron Volmark
   :ser: 
   :leaders:
-  - Maron Volmark
+  - Lord Maron Volmark
 Wynch:
   :name: Wynch
   :vo: Wynch
@@ -412,8 +412,8 @@ Wynch:
   :lord: Waldon Wynch
   :ser: Aladale Wynch
   :leaders:
-  - Waldon Wynch
-  - Aladale Wynch
+  - Lord Waldon Wynch
+  - Ser Aladale Wynch
 Tully:
   :name: Tully
   :vo: Tully
@@ -425,8 +425,8 @@ Tully:
   :lord: Hoster Tully
   :ser: Brynden Tully
   :leaders:
-  - Hoster Tully
-  - Brynden Tully
+  - Lord Hoster Tully
+  - Ser Brynden Tully
 Beurpuits:
   :name: Beurpuits
   :vo: Butterwell
@@ -438,7 +438,7 @@ Beurpuits:
   :lord: Alton Beurpuits
   :ser: 
   :leaders:
-  - Alton Beurpuits
+  - Lord Alton Beurpuits
 Bonru:
   :name: Bonru
   :vo: Goodbrook
@@ -450,8 +450,8 @@ Bonru:
   :lord: Lymond Bonru
   :ser: Garse Bonru
   :leaders:
-  - Lymond Bonru
-  - Garse Bonru
+  - Lord Lymond Bonru
+  - Ser Garse Bonru
 Bracken:
   :name: Bracken
   :vo: Bracken
@@ -463,8 +463,8 @@ Bracken:
   :lord: Jonos Bracken
   :ser: Lyle Bracken
   :leaders:
-  - Jonos Bracken
-  - Lyle Bracken
+  - Lord Jonos Bracken
+  - Ser Lyle Bracken
 Charlton:
   :name: Charlton
   :vo: Charlton
@@ -476,8 +476,8 @@ Charlton:
   :lord: Theo Charlton
   :ser: Andrey Charlton
   :leaders:
-  - Theo Charlton
-  - Andrey Charlton
+  - Lord Theo Charlton
+  - Ser Andrey Charlton
 Darry:
   :name: Darry
   :vo: Darry
@@ -489,8 +489,8 @@ Darry:
   :lord: Darnold Darry
   :ser: Raymun Darry
   :leaders:
-  - Darnold Darry
-  - Raymun Darry
+  - Lord Darnold Darry
+  - Ser Raymun Darry
 Frey:
   :name: Frey
   :vo: Frey
@@ -502,8 +502,8 @@ Frey:
   :lord: Walder Frey
   :ser: Franklyn Frey
   :leaders:
-  - Walder Frey
-  - Franklyn Frey
+  - Lord Walder Frey
+  - Ser Franklyn Frey
 Harlton:
   :name: Harlton
   :vo: Harlton
@@ -515,7 +515,7 @@ Harlton:
   :lord: Arwood Harlton
   :ser: 
   :leaders:
-  - Arwood Harlton
+  - Lord Arwood Harlton
 Lychester:
   :name: Lychester
   :vo: Lychester
@@ -527,7 +527,7 @@ Lychester:
   :lord: Lymond Lychester
   :ser: 
   :leaders:
-  - Lymond Lychester
+  - Lord Lymond Lychester
 Mallister:
   :name: Mallister
   :vo: Mallister
@@ -539,8 +539,8 @@ Mallister:
   :lord: Jason Mallister
   :ser: Denys Mallister
   :leaders:
-  - Jason Mallister
-  - Denys Mallister
+  - Lord Jason Mallister
+  - Ser Denys Mallister
 Mouton:
   :name: Mouton
   :vo: Mooton
@@ -552,8 +552,8 @@ Mouton:
   :lord: William Mouton
   :ser: Myles Mouton
   :leaders:
-  - William Mouton
-  - Myles Mouton
+  - Lord William Mouton
+  - Ser Myles Mouton
 Nerbosc:
   :name: Nerbosc
   :vo: Blackwood
@@ -565,8 +565,8 @@ Nerbosc:
   :lord: Tytos Nerbosc
   :ser: Bennifer Nerbosc
   :leaders:
-  - Tytos Nerbosc
-  - Bennifer Nerbosc
+  - Lord Tytos Nerbosc
+  - Ser Bennifer Nerbosc
 Petibois:
   :name: Petibois
   :vo: Smallwood[N 1]
@@ -578,7 +578,7 @@ Petibois:
   :lord: Theomar Petibois
   :ser: 
   :leaders:
-  - Theomar Petibois
+  - Lord Theomar Petibois
 Piper:
   :name: Piper
   :vo: Piper
@@ -590,8 +590,8 @@ Piper:
   :lord: Clement Piper
   :ser: Marq Piper
   :leaders:
-  - Clement Piper
-  - Marq Piper
+  - Lord Clement Piper
+  - Ser Marq Piper
 Racin:
   :name: Racin
   :vo: Roote
@@ -603,7 +603,7 @@ Racin:
   :lord: 
   :ser: Richard Racin
   :leaders:
-  - Richard Racin
+  - Ser Richard Racin
 Vance:
   :name: Vance
   :vo: Vance
@@ -615,8 +615,8 @@ Vance:
   :lord: Armistead Vance
   :ser: Karyl Vance
   :leaders:
-  - Armistead Vance
-  - Karyl Vance
+  - Lord Armistead Vance
+  - Ser Karyl Vance
 Vyprin:
   :name: Vyprin
   :vo: Vypren
@@ -628,7 +628,7 @@ Vyprin:
   :lord: Lucias Vyprin
   :ser: 
   :leaders:
-  - Lucias Vyprin
+  - Lord Lucias Vyprin
 Whent:
   :name: Whent
   :vo: Whent
@@ -640,8 +640,8 @@ Whent:
   :lord: Walter Whent
   :ser: Oswell Whent
   :leaders:
-  - Walter Whent
-  - Oswell Whent
+  - Lord Walter Whent
+  - Ser Oswell Whent
 Foin:
   :name: Foin
   :vo: Haigh
@@ -653,7 +653,7 @@ Foin:
   :lord: 
   :ser: Leslyn Foin
   :leaders:
-  - Leslyn Foin
+  - Ser Leslyn Foin
 Guède:
   :name: Guède
   :vo: Wode
@@ -665,7 +665,7 @@ Guède:
   :lord: 
   :ser: Willis Gu
   :leaders:
-  - Willis Gu
+  - Ser Willis Gu
 Paege:
   :name: Paege
   :vo: Paege
@@ -677,7 +677,7 @@ Paege:
   :lord: 
   :ser: Halmon Paege
   :leaders:
-  - Halmon Paege
+  - Ser Halmon Paege
 Grell:
   :name: Grell
   :vo: Grell
@@ -689,7 +689,7 @@ Grell:
   :lord: 
   :ser: Desmond Grell
   :leaders:
-  - Desmond Grell
+  - Ser Desmond Grell
 Ryger:
   :name: Ryger
   :vo: Ryger
@@ -701,7 +701,7 @@ Ryger:
   :lord: 
   :ser: Robin Ryger
   :leaders:
-  - Robin Ryger
+  - Ser Robin Ryger
 Terrick:
   :name: Terrick
   :vo: Terrick
@@ -713,7 +713,7 @@ Terrick:
   :lord: 
   :ser: Alyn Terrick
   :leaders:
-  - Alyn Terrick
+  - Ser Alyn Terrick
 Van:
   :name: Van
   :vo: Wayn
@@ -725,7 +725,7 @@ Van:
   :lord: Tristifer Van
   :ser: 
   :leaders:
-  - Tristifer Van
+  - Lord Tristifer Van
 Arryn:
   :name: Arryn
   :vo: Arryn
@@ -737,8 +737,8 @@ Arryn:
   :lord: Jon Arryn
   :ser: Rymond Arryn
   :leaders:
-  - Jon Arryn
-  - Rymond Arryn
+  - Lord Jon Arryn
+  - Ser Rymond Arryn
 Baelish:
   :name: Baelish
   :vo: Baelish
@@ -750,7 +750,7 @@ Baelish:
   :lord: Petyr Baelish
   :ser: 
   :leaders:
-  - Petyr Baelish
+  - Lord Petyr Baelish
 Belmore:
   :name: Belmore
   :vo: Belmore
@@ -762,8 +762,8 @@ Belmore:
   :lord: Benedar Belmore
   :ser: Marwyn Belmore
   :leaders:
-  - Benedar Belmore
-  - Marwyn Belmore
+  - Lord Benedar Belmore
+  - Ser Marwyn Belmore
 Corbray:
   :name: Corbray
   :vo: Corbray
@@ -775,8 +775,8 @@ Corbray:
   :lord: Lyonel Corbray
   :ser: Lyn Corbray
   :leaders:
-  - Lyonel Corbray
-  - Lyn Corbray
+  - Lord Lyonel Corbray
+  - Ser Lyn Corbray
 Froideseaux:
   :name: Froideseaux
   :vo: Coldwater
@@ -788,7 +788,7 @@ Froideseaux:
   :lord: Royce Froideseaux
   :ser: 
   :leaders:
-  - Royce Froideseaux
+  - Lord Royce Froideseaux
 Grafton:
   :name: Grafton
   :vo: Grafton
@@ -800,7 +800,7 @@ Grafton:
   :lord: Gerold Grafton
   :ser: 
   :leaders:
-  - Gerold Grafton
+  - Lord Gerold Grafton
 Lynderly:
   :name: Lynderly
   :vo: Lynderly
@@ -812,7 +812,7 @@ Lynderly:
   :lord: Jon Lynderly
   :ser: 
   :leaders:
-  - Jon Lynderly
+  - Lord Jon Lynderly
 Rougefort:
   :name: Rougefort
   :vo: Redfort
@@ -824,7 +824,7 @@ Rougefort:
   :lord: Horton Rougefort
   :ser: 
   :leaders:
-  - Horton Rougefort
+  - Lord Horton Rougefort
 Royce de Roches-aux-runes:
   :name: Royce de Roches-aux-runes
   :vo: Royce
@@ -836,8 +836,8 @@ Royce de Roches-aux-runes:
   :lord: Yohn Royce
   :ser: Andar Royce
   :leaders:
-  - Yohn Royce
-  - Andar Royce
+  - Lord Yohn Royce
+  - Ser Andar Royce
 Tallett:
   :name: Tallett
   :vo: Tollett
@@ -849,8 +849,8 @@ Tallett:
   :lord: Uthor Tallett
   :ser: Jon Tallett
   :leaders:
-  - Uthor Tallett
-  - Jon Tallett
+  - Lord Uthor Tallett
+  - Ser Jon Tallett
 Vanbois:
   :name: Vanbois
   :vo: Waynwood
@@ -862,7 +862,7 @@ Vanbois:
   :lord: 
   :ser: Morton Vanbois
   :leaders:
-  - Morton Vanbois
+  - Ser Morton Vanbois
 Veneur:
   :name: Veneur
   :vo: Hunter
@@ -874,7 +874,7 @@ Veneur:
   :lord: Alec Veneur
   :ser: 
   :leaders:
-  - Alec Veneur
+  - Lord Alec Veneur
 Borrell:
   :name: Borrell
   :vo: Borrell
@@ -886,7 +886,7 @@ Borrell:
   :lord: Godric Borrell
   :ser: 
   :leaders:
-  - Godric Borrell
+  - Lord Godric Borrell
 Sunderland:
   :name: Sunderland
   :vo: Sunderland
@@ -898,7 +898,7 @@ Sunderland:
   :lord: Triston Sunderland
   :ser: 
   :leaders:
-  - Triston Sunderland
+  - Lord Triston Sunderland
 Cirley:
   :name: Cirley
   :vo: Waxley
@@ -910,7 +910,7 @@ Cirley:
   :lord: 
   :ser: Edmund Cirley
   :leaders:
-  - Edmund Cirley
+  - Ser Edmund Cirley
 Hardyng:
   :name: Hardyng
   :vo: Hardyng
@@ -922,7 +922,7 @@ Hardyng:
   :lord: 
   :ser: Desmond Hardyng
   :leaders:
-  - Desmond Hardyng
+  - Ser Desmond Hardyng
 Shett:
   :name: Shett
   :vo: Shett
@@ -934,7 +934,7 @@ Shett:
   :lord: 
   :ser: Damon Shett
   :leaders:
-  - Damon Shett
+  - Ser Damon Shett
 Templeton:
   :name: Templeton
   :vo: Templeton
@@ -946,7 +946,7 @@ Templeton:
   :lord: 
   :ser: Symond Templeton
   :leaders:
-  - Symond Templeton
+  - Ser Symond Templeton
 Lipps:
   :name: Lipps
   :vo: Lipps
@@ -958,7 +958,7 @@ Lipps:
   :lord: 
   :ser: Ossifer Lipps
   :leaders:
-  - Ossifer Lipps
+  - Ser Ossifer Lipps
 Montmarri:
   :name: Montmarri
   :vo: Ruthermont
@@ -970,7 +970,7 @@ Montmarri:
   :lord: Montmarri qui
   :ser: 
   :leaders:
-  - Montmarri qui
+  - Lord Montmarri qui
 Moore:
   :name: Moore
   :vo: Moore
@@ -982,7 +982,7 @@ Moore:
   :lord: 
   :ser: Mandon Moore
   :leaders:
-  - Mandon Moore
+  - Ser Mandon Moore
 Pryor:
   :name: Pryor
   :vo: Pryor
@@ -994,7 +994,7 @@ Pryor:
   :lord: Dunstan Pryor
   :ser: 
   :leaders:
-  - Dunstan Pryor
+  - Lord Dunstan Pryor
 Rompierre:
   :name: Rompierre
   :vo: Breakstone
@@ -1006,7 +1006,7 @@ Rompierre:
   :lord: 
   :ser: Edmund Rompierre
   :leaders:
-  - Edmund Rompierre
+  - Ser Edmund Rompierre
 Baratheon:
   :name: Baratheon
   :vo: Baratheon
@@ -1018,8 +1018,8 @@ Baratheon:
   :lord: Stannis Baratheon
   :ser: Davos Baratheon
   :leaders:
-  - Stannis Baratheon
-  - Davos Baratheon
+  - Lord Stannis Baratheon
+  - Ser Davos Baratheon
 Castelfoyer:
   :name: Castelfoyer
   :vo: Stokeworth
@@ -1031,8 +1031,8 @@ Castelfoyer:
   :lord: Alyn Castelfoyer
   :ser: Samwell Castelfoyer
   :leaders:
-  - Alyn Castelfoyer
-  - Samwell Castelfoyer
+  - Lord Alyn Castelfoyer
+  - Ser Samwell Castelfoyer
 Chelsted:
   :name: Chelsted
   :vo: Chelsted
@@ -1044,7 +1044,7 @@ Chelsted:
   :lord: Qarlton Chelsted
   :ser: 
   :leaders:
-  - Qarlton Chelsted
+  - Lord Qarlton Chelsted
 Harte:
   :name: Harte
   :vo: Harte
@@ -1056,7 +1056,7 @@ Harte:
   :lord: 
   :ser: Elwood Harte
   :leaders:
-  - Elwood Harte
+  - Ser Elwood Harte
 Mallery:
   :name: Mallery
   :vo: Mallery
@@ -1068,8 +1068,8 @@ Mallery:
   :lord: Lothar Mallery
   :ser: Raymund Mallery
   :leaders:
-  - Lothar Mallery
-  - Raymund Mallery
+  - Lord Lothar Mallery
+  - Ser Raymund Mallery
 Prédeaux:
   :name: Prédeaux
   :vo: Bywater
@@ -1081,7 +1081,7 @@ Prédeaux:
   :lord: 
   :ser: Jacelyn Pr
   :leaders:
-  - Jacelyn Pr
+  - Ser Jacelyn Pr
 Rosby:
   :name: Rosby
   :vo: Rosby
@@ -1093,8 +1093,8 @@ Rosby:
   :lord: Gyles Rosby
   :ser: Rayford Rosby
   :leaders:
-  - Gyles Rosby
-  - Rayford Rosby
+  - Lord Gyles Rosby
+  - Ser Rayford Rosby
 Rykker:
   :name: Rykker
   :vo: Rykker
@@ -1106,8 +1106,8 @@ Rykker:
   :lord: Renfred Rykker
   :ser: Jaremy Rykker
   :leaders:
-  - Renfred Rykker
-  - Jaremy Rykker
+  - Lord Renfred Rykker
+  - Ser Jaremy Rykker
 Bar Emmon:
   :name: Bar Emmon
   :vo: Bar Emmon
@@ -1119,7 +1119,7 @@ Bar Emmon:
   :lord: Duram Bar
   :ser: 
   :leaders:
-  - Duram Bar
+  - Lord Duram Bar
 Celtigar:
   :name: Celtigar
   :vo: Celtigar
@@ -1131,8 +1131,8 @@ Celtigar:
   :lord: Crispian Celtigar
   :ser: Terrence Celtigar
   :leaders:
-  - Crispian Celtigar
-  - Terrence Celtigar
+  - Lord Crispian Celtigar
+  - Ser Terrence Celtigar
 Solverre:
   :name: Solverre
   :vo: Sunglass
@@ -1144,7 +1144,7 @@ Solverre:
   :lord: Guncer Solverre
   :ser: 
   :leaders:
-  - Guncer Solverre
+  - Lord Guncer Solverre
 Velaryon:
   :name: Velaryon
   :vo: Velaryon
@@ -1156,8 +1156,8 @@ Velaryon:
   :lord: Daemon Velaryon
   :ser: Corlys Velaryon
   :leaders:
-  - Daemon Velaryon
-  - Corlys Velaryon
+  - Lord Daemon Velaryon
+  - Ser Corlys Velaryon
 Brune de Combebrune:
   :name: Brune de Combebrune
   :vo: Brune
@@ -1169,7 +1169,7 @@ Brune de Combebrune:
   :lord: 
   :ser: Bennard Brune
   :leaders:
-  - Bennard Brune
+  - Ser Bennard Brune
 Blount:
   :name: Blount
   :vo: Blount
@@ -1181,7 +1181,7 @@ Blount:
   :lord: 
   :ser: Boros Blount
   :leaders:
-  - Boros Blount
+  - Ser Boros Blount
 Boulleau:
   :name: Boulleau
   :vo: Byrch
@@ -1193,7 +1193,7 @@ Boulleau:
   :lord: 
   :ser: Balmain Boulleau
   :leaders:
-  - Balmain Boulleau
+  - Ser Balmain Boulleau
 Farring:
   :name: Farring
   :vo: Farring
@@ -1205,7 +1205,7 @@ Farring:
   :lord: 
   :ser: Gilbert Farring
   :leaders:
-  - Gilbert Farring
+  - Ser Gilbert Farring
 Gaunt:
   :name: Gaunt
   :vo: Gaunt
@@ -1217,7 +1217,7 @@ Gaunt:
   :lord: 
   :ser: Gwayne Gaunt
   :leaders:
-  - Gwayne Gaunt
+  - Ser Gwayne Gaunt
 Langward:
   :name: Langward
   :vo: Langward
@@ -1229,7 +1229,7 @@ Langward:
   :lord: 
   :ser: Harrold Longegarde
   :leaders:
-  - Harrold Longegarde
+  - Ser Harrold Longegarde
 Massey:
   :name: Massey
   :vo: Massey
@@ -1241,8 +1241,8 @@ Massey:
   :lord: Maldon Massey
   :ser: Justin Massey
   :leaders:
-  - Maldon Massey
-  - Justin Massey
+  - Lord Maldon Massey
+  - Ser Justin Massey
 Pyle:
   :name: Pyle
   :vo: Pyle
@@ -1254,7 +1254,7 @@ Pyle:
   :lord: 
   :ser: Howard Pyle
   :leaders:
-  - Howard Pyle
+  - Ser Howard Pyle
 Rambton:
   :name: Rambton
   :vo: Rambton
@@ -1266,7 +1266,7 @@ Rambton:
   :lord: 
   :ser: Hubard Rambton
   :leaders:
-  - Hubard Rambton
+  - Ser Hubard Rambton
 Staunton:
   :name: Staunton
   :vo: Staunton
@@ -1278,8 +1278,8 @@ Staunton:
   :lord: Symond Staunton
   :ser: Joffrey Staunton
   :leaders:
-  - Symond Staunton
-  - Joffrey Staunton
+  - Lord Symond Staunton
+  - Ser Joffrey Staunton
 Lannister:
   :name: Lannister
   :vo: Lannister
@@ -1291,8 +1291,8 @@ Lannister:
   :lord: Tywin Lannister
   :ser: Jaime Lannister
   :leaders:
-  - Tywin Lannister
-  - Jaime Lannister
+  - Lord Tywin Lannister
+  - Ser Jaime Lannister
 Brax:
   :name: Brax
   :vo: Brax
@@ -1304,8 +1304,8 @@ Brax:
   :lord: Andros Brax
   :ser: Tytos Brax
   :leaders:
-  - Andros Brax
-  - Tytos Brax
+  - Lord Andros Brax
+  - Ser Tytos Brax
 Crakehall:
   :name: Crakehall
   :vo: Crakehall
@@ -1317,8 +1317,8 @@ Crakehall:
   :lord: Roland Crakehall
   :ser: Tybolt Crakehall
   :leaders:
-  - Roland Crakehall
-  - Tybolt Crakehall
+  - Lord Roland Crakehall
+  - Ser Tybolt Crakehall
 Estren:
   :name: Estren
   :vo: Estren
@@ -1330,7 +1330,7 @@ Estren:
   :lord: Regenard Estren
   :ser: 
   :leaders:
-  - Regenard Estren
+  - Lord Regenard Estren
 Gerblance:
   :name: Gerblance
   :vo: Stackspear
@@ -1342,8 +1342,8 @@ Gerblance:
   :lord: Selmond Gerblance
   :ser: Steffon Gerblance
   :leaders:
-  - Selmond Gerblance
-  - Steffon Gerblance
+  - Lord Selmond Gerblance
+  - Ser Steffon Gerblance
 Farman:
   :name: Farman
   :vo: Farman
@@ -1355,7 +1355,7 @@ Farman:
   :lord: Sebaston Farman
   :ser: 
   :leaders:
-  - Sebaston Farman
+  - Lord Sebaston Farman
 Fléaufort:
   :name: Fléaufort
   :vo: Banefort
@@ -1367,7 +1367,7 @@ Fléaufort:
   :lord: Quenten Fl
   :ser: 
   :leaders:
-  - Quenten Fl
+  - Lord Quenten Fl
 Jast:
   :name: Jast
   :vo: Jast
@@ -1379,7 +1379,7 @@ Jast:
   :lord: Antario Jast
   :ser: 
   :leaders:
-  - Antario Jast
+  - Lord Antario Jast
 Kenning:
   :name: Kenning
   :vo: Kenning
@@ -1391,8 +1391,8 @@ Kenning:
   :lord: Terrence Kenning
   :ser: Kennos de
   :leaders:
-  - Terrence Kenning
-  - Kennos de
+  - Lord Terrence Kenning
+  - Ser Kennos de
 Lefford:
   :name: Lefford
   :vo: Lefford
@@ -1404,7 +1404,7 @@ Lefford:
   :lord: Leo Lefford
   :ser: 
   :leaders:
-  - Leo Lefford
+  - Lord Leo Lefford
 Lydden:
   :name: Lydden
   :vo: Lydden
@@ -1416,7 +1416,7 @@ Lydden:
   :lord: Lewys Lydden
   :ser: 
   :leaders:
-  - Lewys Lydden
+  - Lord Lewys Lydden
 Ouestrelin:
   :name: Ouestrelin
   :vo: Westerling
@@ -1428,8 +1428,8 @@ Ouestrelin:
   :lord: Roland Ouestrelin
   :ser: Harrold Ouestrelin
   :leaders:
-  - Roland Ouestrelin
-  - Harrold Ouestrelin
+  - Lord Roland Ouestrelin
+  - Ser Harrold Ouestrelin
 Prestre:
   :name: Prestre
   :vo: Prester
@@ -1441,8 +1441,8 @@ Prestre:
   :lord: Garrison Prestre
   :ser: Forley Prestre
   :leaders:
-  - Garrison Prestre
-  - Forley Prestre
+  - Lord Garrison Prestre
+  - Ser Forley Prestre
 Prünh:
   :name: Prünh
   :vo: Plumm
@@ -1454,8 +1454,8 @@ Prünh:
   :lord: Philipp Pr
   :ser: Dennis Pr
   :leaders:
-  - Philipp Pr
-  - Dennis Pr
+  - Lord Philipp Pr
+  - Ser Dennis Pr
 Sarwyck:
   :name: Sarwyck
   :vo: Sarwyck
@@ -1467,8 +1467,8 @@ Sarwyck:
   :lord: Raynald Sarwyck
   :ser: Alester Sarwyck
   :leaders:
-  - Raynald Sarwyck
-  - Alester Sarwyck
+  - Lord Raynald Sarwyck
+  - Ser Alester Sarwyck
 Clegane:
   :name: Clegane
   :vo: Clegane
@@ -1480,7 +1480,7 @@ Clegane:
   :lord: 
   :ser: Gregor Clegane
   :leaders:
-  - Gregor Clegane
+  - Ser Gregor Clegane
 Cuillêtre:
   :name: Cuillêtre
   :vo: Hetherspoon
@@ -1492,7 +1492,7 @@ Cuillêtre:
   :lord: 
   :ser: Tybolt Cuill
   :leaders:
-  - Tybolt Cuill
+  - Ser Tybolt Cuill
 Lépicier:
   :name: Lépicier
   :vo: Spicer
@@ -1504,7 +1504,7 @@ Lépicier:
   :lord: 
   :ser: Rolph L
   :leaders:
-  - Rolph L
+  - Ser Rolph L
 Lorch:
   :name: Lorch
   :vo: Lorch
@@ -1516,7 +1516,7 @@ Lorch:
   :lord: 
   :ser: Lorent Lorch
   :leaders:
-  - Lorent Lorch
+  - Ser Lorent Lorch
 Swyft:
   :name: Swyft
   :vo: Swyft
@@ -1528,7 +1528,7 @@ Swyft:
   :lord: 
   :ser: Harys Swyft
   :leaders:
-  - Harys Swyft
+  - Ser Harys Swyft
 Verchamps:
   :name: Verchamps
   :vo: Greenfield
@@ -1540,7 +1540,7 @@ Verchamps:
   :lord: 
   :ser: Garth Verchamps
   :leaders:
-  - Garth Verchamps
+  - Ser Garth Verchamps
 Vikair:
   :name: Vikair
   :vo: Vikary
@@ -1552,7 +1552,7 @@ Vikair:
   :lord: 
   :ser: Lymond Vikair
   :leaders:
-  - Lymond Vikair
+  - Ser Lymond Vikair
 Bettley:
   :name: Bettley
   :vo: Bettley
@@ -1564,7 +1564,7 @@ Bettley:
   :lord: 
   :ser: Jon Bettley
   :leaders:
-  - Jon Bettley
+  - Ser Jon Bettley
 Doguette:
   :name: Doguette
   :vo: Doggett
@@ -1576,7 +1576,7 @@ Doguette:
   :lord: 
   :ser: Joffrey Doguette
   :leaders:
-  - Joffrey Doguette
+  - Ser Joffrey Doguette
 Fallières:
   :name: Fallières
   :vo: Falwell
@@ -1588,7 +1588,7 @@ Fallières:
   :lord: Rupert Falli
   :ser: 
   :leaders:
-  - Rupert Falli
+  - Lord Rupert Falli
 Garner:
   :name: Garner
   :vo: Garner
@@ -1600,7 +1600,7 @@ Garner:
   :lord: 
   :ser: Alyn Garner
   :leaders:
-  - Alyn Garner
+  - Ser Alyn Garner
 Geneste:
   :name: Geneste
   :vo: Broom
@@ -1612,7 +1612,7 @@ Geneste:
   :lord: 
   :ser: Benedict Geneste
   :leaders:
-  - Benedict Geneste
+  - Ser Benedict Geneste
 Payne:
   :name: Payne
   :vo: Payne
@@ -1624,7 +1624,7 @@ Payne:
   :lord: 
   :ser: Ilyn Payne
   :leaders:
-  - Ilyn Payne
+  - Ser Ilyn Payne
 Pièdre:
   :name: Pièdre
   :vo: Foote
@@ -1636,7 +1636,7 @@ Pièdre:
   :lord: 
   :ser: Philip Pi
   :leaders:
-  - Philip Pi
+  - Ser Philip Pi
 Sarschamp:
   :name: Sarschamp
   :vo: Sarsfield
@@ -1648,7 +1648,7 @@ Sarschamp:
   :lord: 
   :ser: Melwyn Sarschamp
   :leaders:
-  - Melwyn Sarschamp
+  - Ser Melwyn Sarschamp
 Tournebaie:
   :name: Tournebaie
   :vo: Turnberry
@@ -1660,7 +1660,7 @@ Tournebaie:
   :lord: 
   :ser: Lambert Tournebaie
   :leaders:
-  - Lambert Tournebaie
+  - Ser Lambert Tournebaie
 Buckler:
   :name: Buckler
   :vo: Buckler
@@ -1672,8 +1672,8 @@ Buckler:
   :lord: Ralph Buckler
   :ser: Brus Buckler
   :leaders:
-  - Ralph Buckler
-  - Brus Buckler
+  - Lord Ralph Buckler
+  - Ser Brus Buckler
 Cossepois:
   :name: Cossepois
   :vo: Peasebury
@@ -1685,7 +1685,7 @@ Cossepois:
   :lord: Robin Cossepois
   :ser: 
   :leaders:
-  - Robin Cossepois
+  - Lord Robin Cossepois
 Errol:
   :name: Errol
   :vo: Errol
@@ -1697,7 +1697,7 @@ Errol:
   :lord: Sebastion Errol
   :ser: 
   :leaders:
-  - Sebastion Errol
+  - Lord Sebastion Errol
 Estremont:
   :name: Estremont
   :vo: Estermont
@@ -1709,8 +1709,8 @@ Estremont:
   :lord: Eldon Estremont
   :ser: Aemon Estremont
   :leaders:
-  - Eldon Estremont
-  - Aemon Estremont
+  - Lord Eldon Estremont
+  - Ser Aemon Estremont
 Fell:
   :name: Fell
   :vo: Fell
@@ -1722,8 +1722,8 @@ Fell:
   :lord: Harbois Fell
   :ser: Willis Fell
   :leaders:
-  - Harbois Fell
-  - Willis Fell
+  - Lord Harbois Fell
+  - Ser Willis Fell
 Grandison:
   :name: Grandison
   :vo: Grandison
@@ -1735,8 +1735,8 @@ Grandison:
   :lord: Hugh Grandison
   :ser: Narbert Grandison
   :leaders:
-  - Hugh Grandison
-  - Narbert Grandison
+  - Lord Hugh Grandison
+  - Ser Narbert Grandison
 Morrigen:
   :name: Morrigen
   :vo: Morrigen
@@ -1748,8 +1748,8 @@ Morrigen:
   :lord: Lester Morrigen
   :ser: Richard Morrigen
   :leaders:
-  - Lester Morrigen
-  - Richard Morrigen
+  - Lord Lester Morrigen
+  - Ser Richard Morrigen
 Penrose:
   :name: Penrose
   :vo: Penrose
@@ -1761,8 +1761,8 @@ Penrose:
   :lord: Ronnel Penrose
   :ser: Cortnay Penrose
   :leaders:
-  - Ronnel Penrose
-  - Cortnay Penrose
+  - Lord Ronnel Penrose
+  - Ser Cortnay Penrose
 Staedmon:
   :name: Staedmon
   :vo: Staedmon
@@ -1774,7 +1774,7 @@ Staedmon:
   :lord: Alesander Staedmon
   :ser: 
   :leaders:
-  - Alesander Staedmon
+  - Lord Alesander Staedmon
 Torth:
   :name: Torth
   :vo: Tarth
@@ -1786,8 +1786,8 @@ Torth:
   :lord: Cameron Torth
   :ser: Endrew Torth
   :leaders:
-  - Cameron Torth
-  - Endrew Torth
+  - Lord Cameron Torth
+  - Ser Endrew Torth
 Wylde:
   :name: Wylde
   :vo: Wylde
@@ -1799,8 +1799,8 @@ Wylde:
   :lord: Casper Wylde
   :ser: Ormund Wylde
   :leaders:
-  - Casper Wylde
-  - Ormund Wylde
+  - Lord Casper Wylde
+  - Ser Ormund Wylde
 Caron:
   :name: Caron
   :vo: Caron
@@ -1812,8 +1812,8 @@ Caron:
   :lord: Bryce Caron
   :ser: Rolland Storm
   :leaders:
-  - Bryce Caron
-  - Rolland Storm
+  - Lord Bryce Caron
+  - Ser Rolland Storm
 Dondarrion:
   :name: Dondarrion
   :vo: Dondarrion
@@ -1825,8 +1825,8 @@ Dondarrion:
   :lord: Harmon Dondarrion
   :ser: Manfred Dondarrion
   :leaders:
-  - Harmon Dondarrion
-  - Manfred Dondarrion
+  - Lord Harmon Dondarrion
+  - Ser Manfred Dondarrion
 Selmy:
   :name: Selmy
   :vo: Selmy
@@ -1838,8 +1838,8 @@ Selmy:
   :lord: Arstan Selmy
   :ser: Barristan Selmy
   :leaders:
-  - Arstan Selmy
-  - Barristan Selmy
+  - Lord Arstan Selmy
+  - Ser Barristan Selmy
 Swann:
   :name: Swann
   :vo: Swann
@@ -1851,8 +1851,8 @@ Swann:
   :lord: Gulian Swann
   :ser: Donnel Swann
   :leaders:
-  - Gulian Swann
-  - Donnel Swann
+  - Lord Gulian Swann
+  - Ser Donnel Swann
 Connington:
   :name: Connington
   :vo: Connington
@@ -1864,8 +1864,8 @@ Connington:
   :lord: Roy Connington
   :ser: Ronnet Connington
   :leaders:
-  - Roy Connington
-  - Ronnet Connington
+  - Lord Roy Connington
+  - Ser Ronnet Connington
 Hastif:
   :name: Hastif
   :vo: Hasty
@@ -1877,7 +1877,7 @@ Hastif:
   :lord: 
   :ser: Bonifer Hastif
   :leaders:
-  - Bonifer Hastif
+  - Ser Bonifer Hastif
 Mervault:
   :name: Mervault
   :vo: Seaworth
@@ -1889,7 +1889,7 @@ Mervault:
   :lord: 
   :ser: Davos Mervault
   :leaders:
-  - Davos Mervault
+  - Ser Davos Mervault
 Boulin:
   :name: Boulin
   :vo: Bolling
@@ -1901,7 +1901,7 @@ Boulin:
   :lord: 
   :ser: Herbert Boulin
   :leaders:
-  - Herbert Boulin
+  - Ser Herbert Boulin
 Frétilletrique:
   :name: Frétilletrique
   :vo: Wagstaff
@@ -1913,7 +1913,7 @@ Frétilletrique:
   :lord: 
   :ser: Humfrey Fr
   :leaders:
-  - Humfrey Fr
+  - Ser Humfrey Fr
 Goüer:
   :name: Goüer
   :vo: Gower
@@ -1925,7 +1925,7 @@ Goüer:
   :lord: 
   :ser: Gerald Go
   :leaders:
-  - Gerald Go
+  - Ser Gerald Go
 Horpe:
   :name: Horpe
   :vo: Horpe
@@ -1937,7 +1937,7 @@ Horpe:
   :lord: 
   :ser: Richard Horpe
   :leaders:
-  - Richard Horpe
+  - Ser Richard Horpe
 Lonbec:
   :name: Lonbec
   :vo: Lonmouth
@@ -1949,7 +1949,7 @@ Lonbec:
   :lord: 
   :ser: Richard Lonbec
   :leaders:
-  - Richard Lonbec
+  - Ser Richard Lonbec
 Mertyns:
   :name: Mertyns
   :vo: Mertyns
@@ -1961,7 +1961,7 @@ Mertyns:
   :lord: 
   :ser: Michael Mertyns
   :leaders:
-  - Michael Mertyns
+  - Ser Michael Mertyns
 Mossegonde:
   :name: Mossegonde
   :vo: Musgood
@@ -1973,7 +1973,7 @@ Mossegonde:
   :lord: Jack Mossegonde
   :ser: 
   :leaders:
-  - Jack Mossegonde
+  - Lord Jack Mossegonde
 Rogers:
   :name: Rogers
   :vo: Rogers
@@ -1985,7 +1985,7 @@ Rogers:
   :lord: 
   :ser: Corwin Rogers
   :leaders:
-  - Corwin Rogers
+  - Ser Corwin Rogers
 Trant:
   :name: Trant
   :vo: Trant
@@ -1997,7 +1997,7 @@ Trant:
   :lord: 
   :ser: Meryn Trant
   :leaders:
-  - Meryn Trant
+  - Ser Meryn Trant
 Tyrell:
   :name: Tyrell
   :vo: Tyrell
@@ -2009,8 +2009,8 @@ Tyrell:
   :lord: Mace Tyrell
   :ser: Garlan Tyrell
   :leaders:
-  - Mace Tyrell
-  - Garlan Tyrell
+  - Lord Mace Tyrell
+  - Ser Garlan Tyrell
 Ambrose:
   :name: Ambrose
   :vo: Ambrose
@@ -2022,8 +2022,8 @@ Ambrose:
   :lord: Arthur Ambrose
   :ser: Edmund Ambrose
   :leaders:
-  - Arthur Ambrose
-  - Edmund Ambrose
+  - Lord Arthur Ambrose
+  - Ser Edmund Ambrose
 Bulwer:
   :name: Bulwer
   :vo: Bulwer
@@ -2035,8 +2035,8 @@ Bulwer:
   :lord: Jon Bulwer
   :ser: Buford Bulwer
   :leaders:
-  - Jon Bulwer
-  - Buford Bulwer
+  - Lord Jon Bulwer
+  - Ser Buford Bulwer
 Caswell:
   :name: Caswell
   :vo: Caswell
@@ -2048,8 +2048,8 @@ Caswell:
   :lord: Lorent Caswell
   :ser: Cleyton Caswell
   :leaders:
-  - Lorent Caswell
-  - Cleyton Caswell
+  - Lord Lorent Caswell
+  - Ser Cleyton Caswell
 Cendregué:
   :name: Cendregué
   :vo: 'AshfordAutre traduction : Sorbier'
@@ -2061,7 +2061,7 @@ Cendregué:
   :lord: 
   :ser: Alyn Cendregu
   :leaders:
-  - Alyn Cendregu
+  - Ser Alyn Cendregu
 Chantecoq:
   :name: Chantecoq
   :vo: Cockshaw
@@ -2073,7 +2073,7 @@ Chantecoq:
   :lord: Alyn Chantecoq
   :ser: 
   :leaders:
-  - Alyn Chantecoq
+  - Lord Alyn Chantecoq
 Costayne:
   :name: Costayne
   :vo: Costayne
@@ -2085,8 +2085,8 @@ Costayne:
   :lord: Tommen Costayne
   :ser: Leo Costayne
   :leaders:
-  - Tommen Costayne
-  - Leo Costayne
+  - Lord Tommen Costayne
+  - Ser Leo Costayne
 Crane:
   :name: Crane
   :vo: Crane
@@ -2098,7 +2098,7 @@ Crane:
   :lord: 
   :ser: Parment Crane
   :leaders:
-  - Parment Crane
+  - Ser Parment Crane
 Cuy:
   :name: Cuy
   :vo: Cuy
@@ -2110,8 +2110,8 @@ Cuy:
   :lord: Branston Cuy
   :ser: Emmon Cuy
   :leaders:
-  - Branston Cuy
-  - Emmon Cuy
+  - Lord Branston Cuy
+  - Ser Emmon Cuy
 des Essaims:
   :name: des Essaims
   :vo: Beesbury
@@ -2123,8 +2123,8 @@ des Essaims:
   :lord: Warryn des
   :ser: Bertram des
   :leaders:
-  - Warryn des
-  - Bertram des
+  - Lord Warryn des
+  - Ser Bertram des
 Florent:
   :name: Florent
   :vo: Florent
@@ -2136,8 +2136,8 @@ Florent:
   :lord: Alester Florent
   :ser: Axell Florent
   :leaders:
-  - Alester Florent
-  - Axell Florent
+  - Lord Alester Florent
+  - Ser Axell Florent
 Hightower:
   :name: Hightower
   :vo: Hightower
@@ -2149,8 +2149,8 @@ Hightower:
   :lord: Leyton Hightower
   :ser: Baelor Hightower
   :leaders:
-  - Leyton Hightower
-  - Baelor Hightower
+  - Lord Leyton Hightower
+  - Ser Baelor Hightower
 Merryweather:
   :name: Merryweather
   :vo: Merryweather
@@ -2162,7 +2162,7 @@ Merryweather:
   :lord: Orton Merryweather
   :ser: 
   :leaders:
-  - Orton Merryweather
+  - Lord Orton Merryweather
 Mullendore:
   :name: Mullendore
   :vo: Mullendore
@@ -2174,8 +2174,8 @@ Mullendore:
   :lord: Martyn Mullendore
   :ser: Mark Mullendore
   :leaders:
-  - Martyn Mullendore
-  - Mark Mullendore
+  - Lord Martyn Mullendore
+  - Ser Mark Mullendore
 de la Nouë:
   :name: de la Nouë
   :vo: Meadows
@@ -2187,7 +2187,7 @@ de la Nouë:
   :lord: Elbois de
   :ser: 
   :leaders:
-  - Elbois de
+  - Lord Elbois de
 Peake:
   :name: Peake
   :vo: Peake
@@ -2199,8 +2199,8 @@ Peake:
   :lord: Titus Peake
   :ser: Laswell Peake
   :leaders:
-  - Titus Peake
-  - Laswell Peake
+  - Lord Titus Peake
+  - Ser Laswell Peake
 Redwyne:
   :name: Redwyne
   :vo: Redwyne
@@ -2212,8 +2212,8 @@ Redwyne:
   :lord: Paxter Redwyne
   :ser: Horas Redwyne
   :leaders:
-  - Paxter Redwyne
-  - Horas Redwyne
+  - Lord Paxter Redwyne
+  - Ser Horas Redwyne
 Risley:
   :name: Risley
   :vo: Risley
@@ -2225,7 +2225,7 @@ Risley:
   :lord: 
   :ser: Eden Risley
   :leaders:
-  - Eden Risley
+  - Ser Eden Risley
 du Rouvre:
   :name: du Rouvre
   :vo: Oakheart
@@ -2237,8 +2237,8 @@ du Rouvre:
   :lord: Edgerran du
   :ser: Arys du
   :leaders:
-  - Edgerran du
-  - Arys du
+  - Lord Edgerran du
+  - Ser Arys du
 Rowan:
   :name: Rowan
   :vo: Rowan
@@ -2250,8 +2250,8 @@ Rowan:
   :lord: Mathis Rowan
   :ser: Nyles Rowan
   :leaders:
-  - Mathis Rowan
-  - Nyles Rowan
+  - Lord Mathis Rowan
+  - Ser Nyles Rowan
 Tarly:
   :name: Tarly
   :vo: Tarly
@@ -2263,8 +2263,8 @@ Tarly:
   :lord: Randyll Tarly
   :ser: Samwyle Tarly
   :leaders:
-  - Randyll Tarly
-  - Samwyle Tarly
+  - Lord Randyll Tarly
+  - Ser Samwyle Tarly
 Tyssier:
   :name: Tyssier
   :vo: Webber
@@ -2276,7 +2276,7 @@ Tyssier:
   :lord: Wyman Tyssier
   :ser: 
   :leaders:
-  - Wyman Tyssier
+  - Lord Wyman Tyssier
 Varnier:
   :name: Varnier
   :vo: Varner
@@ -2288,7 +2288,7 @@ Varnier:
   :lord: Steffon Varnier
   :ser: 
   :leaders:
-  - Steffon Varnier
+  - Lord Steffon Varnier
 Vouyvère:
   :name: Vouyvère
   :vo: Vyrwel
@@ -2300,7 +2300,7 @@ Vouyvère:
   :lord: et lady
   :ser: 
   :leaders:
-  - et lady
+  - Lord et lady
 Chester:
   :name: Chester
   :vo: Chester
@@ -2312,7 +2312,7 @@ Chester:
   :lord: Moribald Chester
   :ser: 
   :leaders:
-  - Moribald Chester
+  - Lord Moribald Chester
 Grimm:
   :name: Grimm
   :vo: Grimm
@@ -2324,7 +2324,7 @@ Grimm:
   :lord: Guthor Grimm
   :ser: 
   :leaders:
-  - Guthor Grimm
+  - Lord Guthor Grimm
 Houëtt:
   :name: Houëtt
   :vo: Hewett
@@ -2336,8 +2336,8 @@ Houëtt:
   :lord: Humfrey Hou
   :ser: Glendon Hou
   :leaders:
-  - Humfrey Hou
-  - Glendon Hou
+  - Lord Humfrey Hou
+  - Ser Glendon Hou
 Fossovoie pomme-rouge:
   :name: Fossovoie pomme-rouge
   :vo: Fossoway
@@ -2349,8 +2349,8 @@ Fossovoie pomme-rouge:
   :lord: Owen Fossovoie
   :ser: Bryan Fossovoie
   :leaders:
-  - Owen Fossovoie
-  - Bryan Fossovoie
+  - Lord Owen Fossovoie
+  - Ser Bryan Fossovoie
 Fossovoie pomme-verte:
   :name: Fossovoie pomme-verte
   :vo: Fossoway
@@ -2362,7 +2362,7 @@ Fossovoie pomme-verte:
   :lord: 
   :ser: Jon Fossovoie
   :leaders:
-  - Jon Fossovoie
+  - Ser Jon Fossovoie
 Hunt:
   :name: Hunt
   :vo: Hunt
@@ -2374,7 +2374,7 @@ Hunt:
   :lord: 
   :ser: Hyle Hunt
   :leaders:
-  - Hyle Hunt
+  - Ser Hyle Hunt
 Norcroix:
   :name: Norcroix
   :vo: Norcross
@@ -2386,7 +2386,7 @@ Norcroix:
   :lord: 
   :ser: Hosman Norcroix
   :leaders:
-  - Hosman Norcroix
+  - Ser Hosman Norcroix
 Osgris:
   :name: Osgris
   :vo: Osgrey
@@ -2398,8 +2398,8 @@ Osgris:
   :lord: Perwyn Osgris
   :ser: Wilbert Osgris
   :leaders:
-  - Perwyn Osgris
-  - Wilbert Osgris
+  - Lord Perwyn Osgris
+  - Ser Wilbert Osgris
 Bonleu:
   :name: Bonleu
   :vo: Leygood
@@ -2411,7 +2411,7 @@ Bonleu:
   :lord: 
   :ser: Simon Bonleu
   :leaders:
-  - Simon Bonleu
+  - Ser Simon Bonleu
 Boule:
   :name: Boule
   :vo: Ball
@@ -2423,7 +2423,7 @@ Boule:
   :lord: 
   :ser: Quentyn Boule
   :leaders:
-  - Quentyn Boule
+  - Ser Quentyn Boule
 Brousse:
   :name: Brousse
   :vo: Bushy
@@ -2435,7 +2435,7 @@ Brousse:
   :lord: 
   :ser: Ben Brousse
   :leaders:
-  - Ben Brousse
+  - Ser Ben Brousse
 Le Charpentier:
   :name: Le Charpentier
   :vo: Woodwright
@@ -2447,7 +2447,7 @@ Le Charpentier:
   :lord: 
   :ser: Portifer Le
   :leaders:
-  - Portifer Le
+  - Ser Portifer Le
 Graceford:
   :name: Graceford
   :vo: Graceford
@@ -2459,7 +2459,7 @@ Graceford:
   :lord: 
   :ser: Harys Graceford
   :leaders:
-  - Harys Graceford
+  - Ser Harys Graceford
 Milopin:
   :name: Milopin
   :vo: Inchfield
@@ -2471,7 +2471,7 @@ Milopin:
   :lord: 
   :ser: Owen Milopin
   :leaders:
-  - Owen Milopin
+  - Ser Owen Milopin
 Nègrebar:
   :name: Nègrebar
   :vo: Blackbar
@@ -2483,7 +2483,7 @@ Nègrebar:
   :lord: 
   :ser: Leo N
   :leaders:
-  - Leo N
+  - Ser Leo N
 Norridge:
   :name: Norridge
   :vo: Norridge
@@ -2495,7 +2495,7 @@ Norridge:
   :lord: 
   :ser: Theodore Tyrell
   :leaders:
-  - Theodore Tyrell
+  - Ser Theodore Tyrell
 Oldflowers:
   :name: Oldflowers
   :vo: Oldflowers
@@ -2507,7 +2507,7 @@ Oldflowers:
   :lord: 
   :ser: Garth Oldflowers
   :leaders:
-  - Garth Oldflowers
+  - Ser Garth Oldflowers
 Piquemèche:
   :name: Piquemèche
   :vo: Hastwyck
@@ -2519,7 +2519,7 @@ Piquemèche:
   :lord: 
   :ser: Morgil Piquem
   :leaders:
-  - Morgil Piquem
+  - Ser Morgil Piquem
 Roxton:
   :name: Roxton
   :vo: Roxton
@@ -2531,8 +2531,8 @@ Roxton:
   :lord: Jon Roxton
   :ser: Lorence Roxton
   :leaders:
-  - Jon Roxton
-  - Lorence Roxton
+  - Lord Jon Roxton
+  - Ser Lorence Roxton
 Uffering:
   :name: Uffering
   :vo: Uffering
@@ -2544,7 +2544,7 @@ Uffering:
   :lord: 
   :ser: Rolland Uffering
   :leaders:
-  - Rolland Uffering
+  - Ser Rolland Uffering
 Martell:
   :name: Martell
   :vo: Martell
@@ -2568,7 +2568,7 @@ Allyrion:
   :lord: 
   :ser: Ryon Allyrion
   :leaders:
-  - Ryon Allyrion
+  - Ser Ryon Allyrion
 Dayne:
   :name: Dayne
   :vo: Dayne
@@ -2580,8 +2580,8 @@ Dayne:
   :lord: Edric Dayne
   :ser: Davos Dayne
   :leaders:
-  - Edric Dayne
-  - Davos Dayne
+  - Lord Edric Dayne
+  - Ser Davos Dayne
 Ferboys:
   :name: Ferboys
   :vo: Yronwood
@@ -2593,8 +2593,8 @@ Ferboys:
   :lord: Anders Ferboys
   :ser: Cletus Ferboys
   :leaders:
-  - Anders Ferboys
-  - Cletus Ferboys
+  - Lord Anders Ferboys
+  - Ser Cletus Ferboys
 Forrest:
   :name: Forrest
   :vo: Manwoody
@@ -2606,8 +2606,8 @@ Forrest:
   :lord: Dagos Forrest
   :ser: Myles Forrest
   :leaders:
-  - Dagos Forrest
-  - Myles Forrest
+  - Lord Dagos Forrest
+  - Ser Myles Forrest
 Gargalen:
   :name: Gargalen
   :vo: Gargalen
@@ -2619,7 +2619,7 @@ Gargalen:
   :lord: Tremond Gargalen
   :ser: 
   :leaders:
-  - Tremond Gargalen
+  - Lord Tremond Gargalen
 Jordayne:
   :name: Jordayne
   :vo: Jordayne
@@ -2631,7 +2631,7 @@ Jordayne:
   :lord: Trebor Jordayne
   :ser: 
   :leaders:
-  - Trebor Jordayne
+  - Lord Trebor Jordayne
 Poulet:
   :name: Poulet
   :vo: Fowler
@@ -2643,7 +2643,7 @@ Poulet:
   :lord: Franklyn Poulet
   :ser: 
   :leaders:
-  - Franklyn Poulet
+  - Lord Franklyn Poulet
 Qorgyle:
   :name: Qorgyle
   :vo: Qorgyle
@@ -2655,8 +2655,8 @@ Qorgyle:
   :lord: Quentyn Qorgyle
   :ser: Gulian Qorgyle
   :leaders:
-  - Quentyn Qorgyle
-  - Gulian Qorgyle
+  - Lord Quentyn Qorgyle
+  - Ser Gulian Qorgyle
 Uller:
   :name: Uller
   :vo: Uller
@@ -2668,8 +2668,8 @@ Uller:
   :lord: Harmen Uller
   :ser: Ulwyck Uller
   :leaders:
-  - Harmen Uller
-  - Ulwyck Uller
+  - Lord Harmen Uller
+  - Ser Ulwyck Uller
 le Voi:
   :name: le Voi
   :vo: Vaith
@@ -2681,7 +2681,7 @@ le Voi:
   :lord: Daeron le
   :ser: 
   :leaders:
-  - Daeron le
+  - Lord Daeron le
 Dalt:
   :name: Dalt
   :vo: Dalt
@@ -2693,7 +2693,7 @@ Dalt:
   :lord: 
   :ser: Deziel Dalt
   :leaders:
-  - Deziel Dalt
+  - Ser Deziel Dalt
 Santagar:
   :name: Santagar
   :vo: Santagar
@@ -2705,7 +2705,7 @@ Santagar:
   :lord: 
   :ser: Symon Santagar
   :leaders:
-  - Symon Santagar
+  - Ser Symon Santagar
 Wyl:
   :name: Wyl
   :vo: Wyl
@@ -2717,7 +2717,7 @@ Wyl:
   :lord: Walter Wyl
   :ser: 
   :leaders:
-  - Walter Wyl
+  - Lord Walter Wyl
 Cole:
   :name: Cole
   :vo: Cole
@@ -2729,7 +2729,7 @@ Cole:
   :lord: 
   :ser: Criston Cole
   :leaders:
-  - Criston Cole
+  - Ser Criston Cole
 Vendeloyn de Lumière Isolée:
   :name: Vendeloyn de Lumière Isolée
   :vo: Farwynd
@@ -2741,7 +2741,7 @@ Vendeloyn de Lumière Isolée:
   :lord: Gylbert Vendeloyn
   :ser: 
   :leaders:
-  - Gylbert Vendeloyn
+  - Lord Gylbert Vendeloyn
 Vendeloyn de Sealskin Point:
   :name: Vendeloyn de Sealskin Point
   :vo: Farwynd
@@ -2753,4 +2753,4 @@ Vendeloyn de Sealskin Point:
   :lord: Triston Vendeloyn
   :ser: 
   :leaders:
-  - Triston Vendeloyn
+  - Lord Triston Vendeloyn

@@ -23,7 +23,7 @@ Bolton:
   :lord: Roose Bolton
   :ser: 
   :leaders:
-  - Roose Bolton
+  - Lord Roose Bolton
   :faction: Stark
 Cerwyn:
   :name: Cerwyn
@@ -36,7 +36,7 @@ Cerwyn:
   :lord: Medger Cerwyn
   :ser: 
   :leaders:
-  - Medger Cerwyn
+  - Lord Medger Cerwyn
   :faction: Stark
 Corbois:
   :name: Corbois
@@ -49,7 +49,7 @@ Corbois:
   :lord: Halys Corbois
   :ser: 
   :leaders:
-  - Halys Corbois
+  - Lord Halys Corbois
   :faction: Stark
 Dustin:
   :name: Dustin
@@ -62,7 +62,7 @@ Dustin:
   :lord: Roderick Dustin
   :ser: 
   :leaders:
-  - Roderick Dustin
+  - Lord Roderick Dustin
   :faction: Stark
 Karstark:
   :name: Karstark
@@ -75,7 +75,7 @@ Karstark:
   :lord: Rickard Karstark
   :ser: 
   :leaders:
-  - Rickard Karstark
+  - Lord Rickard Karstark
   :faction: Stark
 Locke:
   :name: Locke
@@ -88,8 +88,8 @@ Locke:
   :lord: Ondrew Locke
   :ser: Donnel Locke
   :leaders:
-  - Ondrew Locke
-  - Donnel Locke
+  - Lord Ondrew Locke
+  - Ser Donnel Locke
   :faction: Stark
 Manderly:
   :name: Manderly
@@ -102,8 +102,8 @@ Manderly:
   :lord: Wyman Manderly
   :ser: Marlon Manderly
   :leaders:
-  - Wyman Manderly
-  - Marlon Manderly
+  - Lord Wyman Manderly
+  - Ser Marlon Manderly
   :faction: Stark
 Mormont:
   :name: Mormont
@@ -116,7 +116,7 @@ Mormont:
   :lord: Jeor Mormont
   :ser: 
   :leaders:
-  - Jeor Mormont
+  - Lord Jeor Mormont
   :faction: Stark
 Omble:
   :name: Omble
@@ -129,7 +129,7 @@ Omble:
   :lord: Jon Omble
   :ser: 
   :leaders:
-  - Jon Omble
+  - Lord Jon Omble
   :faction: Stark
 Ryswell:
   :name: Ryswell
@@ -142,8 +142,8 @@ Ryswell:
   :lord: Rodrik Ryswell
   :ser: Mark Ryswell
   :leaders:
-  - Rodrik Ryswell
-  - Mark Ryswell
+  - Lord Rodrik Ryswell
+  - Ser Mark Ryswell
   :faction: Stark
 Stout:
   :name: Stout
@@ -156,8 +156,8 @@ Stout:
   :lord: Harbois Stout
   :ser: Wynton Stout
   :leaders:
-  - Harbois Stout
-  - Wynton Stout
+  - Lord Harbois Stout
+  - Ser Wynton Stout
   :faction: Stark
 Tallhart:
   :name: Tallhart
@@ -170,7 +170,7 @@ Tallhart:
   :lord: 
   :ser: Helman Tallhart
   :leaders:
-  - Helman Tallhart
+  - Ser Helman Tallhart
   :faction: Stark
 Cassel:
   :name: Cassel
@@ -183,7 +183,7 @@ Cassel:
   :lord: 
   :ser: Rodrik Cassel
   :leaders:
-  - Rodrik Cassel
+  - Ser Rodrik Cassel
   :faction: Stark
 Cardon:
   :name: Cardon
@@ -196,7 +196,7 @@ Cardon:
   :lord: 
   :ser: Kyle Cardon
   :leaders:
-  - Kyle Cardon
+  - Ser Kyle Cardon
   :faction: Stark
 Puits:
   :name: Puits
@@ -209,7 +209,7 @@ Puits:
   :lord: 
   :ser: Theodan Puits
   :leaders:
-  - Theodan Puits
+  - Ser Theodan Puits
   :faction: Stark
 Whitehill:
   :name: Whitehill
@@ -222,7 +222,7 @@ Whitehill:
   :lord: Ludd Whitehill
   :ser: 
   :leaders:
-  - Ludd Whitehill
+  - Lord Ludd Whitehill
   :faction: Stark
 Lideuil:
   :name: Lideuil
@@ -235,7 +235,7 @@ Lideuil:
   :lord: Torren Lideuil
   :ser: 
   :leaders:
-  - Torren Lideuil
+  - Lord Torren Lideuil
   :faction: Stark
 Norroit:
   :name: Norroit
@@ -248,7 +248,7 @@ Norroit:
   :lord: Brandon Norroit
   :ser: 
   :leaders:
-  - Brandon Norroit
+  - Lord Brandon Norroit
   :faction: Stark
 Wull:
   :name: Wull
@@ -261,7 +261,7 @@ Wull:
   :lord: Hugo Wull
   :ser: 
   :leaders:
-  - Hugo Wull
+  - Lord Hugo Wull
   :faction: Stark
 Reed:
   :name: Reed
@@ -274,7 +274,7 @@ Reed:
   :lord: Howland Reed
   :ser: 
   :leaders:
-  - Howland Reed
+  - Lord Howland Reed
   :faction: Stark
 Tully:
   :name: Tully
@@ -287,8 +287,8 @@ Tully:
   :lord: Hoster Tully
   :ser: Brynden Tully
   :leaders:
-  - Hoster Tully
-  - Brynden Tully
+  - Lord Hoster Tully
+  - Ser Brynden Tully
   :faction: Tully
 Beurpuits:
   :name: Beurpuits
@@ -301,7 +301,7 @@ Beurpuits:
   :lord: Alton Beurpuits
   :ser: 
   :leaders:
-  - Alton Beurpuits
+  - Lord Alton Beurpuits
   :faction: Tully
 Bonru:
   :name: Bonru
@@ -314,8 +314,8 @@ Bonru:
   :lord: Lymond Bonru
   :ser: Garse Bonru
   :leaders:
-  - Lymond Bonru
-  - Garse Bonru
+  - Lord Lymond Bonru
+  - Ser Garse Bonru
   :faction: Tully
 Bracken:
   :name: Bracken
@@ -328,8 +328,8 @@ Bracken:
   :lord: Jonos Bracken
   :ser: Lyle Bracken
   :leaders:
-  - Jonos Bracken
-  - Lyle Bracken
+  - Lord Jonos Bracken
+  - Ser Lyle Bracken
   :faction: Tully
 Charlton:
   :name: Charlton
@@ -342,8 +342,8 @@ Charlton:
   :lord: Theo Charlton
   :ser: Andrey Charlton
   :leaders:
-  - Theo Charlton
-  - Andrey Charlton
+  - Lord Theo Charlton
+  - Ser Andrey Charlton
   :faction: Tully
 Darry:
   :name: Darry
@@ -356,8 +356,8 @@ Darry:
   :lord: Darnold Darry
   :ser: Raymun Darry
   :leaders:
-  - Darnold Darry
-  - Raymun Darry
+  - Lord Darnold Darry
+  - Ser Raymun Darry
   :faction: Tully
 Frey:
   :name: Frey
@@ -370,8 +370,8 @@ Frey:
   :lord: Walder Frey
   :ser: Franklyn Frey
   :leaders:
-  - Walder Frey
-  - Franklyn Frey
+  - Lord Walder Frey
+  - Ser Franklyn Frey
   :faction: Tully
 Harlton:
   :name: Harlton
@@ -384,7 +384,7 @@ Harlton:
   :lord: Arwood Harlton
   :ser: 
   :leaders:
-  - Arwood Harlton
+  - Lord Arwood Harlton
   :faction: Tully
 Lychester:
   :name: Lychester
@@ -397,7 +397,7 @@ Lychester:
   :lord: Lymond Lychester
   :ser: 
   :leaders:
-  - Lymond Lychester
+  - Lord Lymond Lychester
   :faction: Tully
 Mallister:
   :name: Mallister
@@ -410,8 +410,8 @@ Mallister:
   :lord: Jason Mallister
   :ser: Denys Mallister
   :leaders:
-  - Jason Mallister
-  - Denys Mallister
+  - Lord Jason Mallister
+  - Ser Denys Mallister
   :faction: Tully
 Mouton:
   :name: Mouton
@@ -424,8 +424,8 @@ Mouton:
   :lord: William Mouton
   :ser: Myles Mouton
   :leaders:
-  - William Mouton
-  - Myles Mouton
+  - Lord William Mouton
+  - Ser Myles Mouton
   :faction: Tully
 Nerbosc:
   :name: Nerbosc
@@ -438,8 +438,8 @@ Nerbosc:
   :lord: Tytos Nerbosc
   :ser: Bennifer Nerbosc
   :leaders:
-  - Tytos Nerbosc
-  - Bennifer Nerbosc
+  - Lord Tytos Nerbosc
+  - Ser Bennifer Nerbosc
   :faction: Tully
 Petibois:
   :name: Petibois
@@ -452,7 +452,7 @@ Petibois:
   :lord: Theomar Petibois
   :ser: 
   :leaders:
-  - Theomar Petibois
+  - Lord Theomar Petibois
   :faction: Tully
 Piper:
   :name: Piper
@@ -465,8 +465,8 @@ Piper:
   :lord: Clement Piper
   :ser: Marq Piper
   :leaders:
-  - Clement Piper
-  - Marq Piper
+  - Lord Clement Piper
+  - Ser Marq Piper
   :faction: Tully
 Racin:
   :name: Racin
@@ -479,7 +479,7 @@ Racin:
   :lord: 
   :ser: Richard Racin
   :leaders:
-  - Richard Racin
+  - Ser Richard Racin
   :faction: Tully
 Vance:
   :name: Vance
@@ -492,8 +492,8 @@ Vance:
   :lord: Armistead Vance
   :ser: Karyl Vance
   :leaders:
-  - Armistead Vance
-  - Karyl Vance
+  - Lord Armistead Vance
+  - Ser Karyl Vance
   :faction: Tully
 Vyprin:
   :name: Vyprin
@@ -506,7 +506,7 @@ Vyprin:
   :lord: Lucias Vyprin
   :ser: 
   :leaders:
-  - Lucias Vyprin
+  - Lord Lucias Vyprin
   :faction: Tully
 Whent:
   :name: Whent
@@ -519,8 +519,8 @@ Whent:
   :lord: Walter Whent
   :ser: Oswell Whent
   :leaders:
-  - Walter Whent
-  - Oswell Whent
+  - Lord Walter Whent
+  - Ser Oswell Whent
   :faction: Tully
 Foin:
   :name: Foin
@@ -533,7 +533,7 @@ Foin:
   :lord: 
   :ser: Leslyn Foin
   :leaders:
-  - Leslyn Foin
+  - Ser Leslyn Foin
   :faction: Tully
 Guède:
   :name: Guède
@@ -546,7 +546,7 @@ Guède:
   :lord: 
   :ser: Willis Gu
   :leaders:
-  - Willis Gu
+  - Ser Willis Gu
   :faction: Tully
 Paege:
   :name: Paege
@@ -559,7 +559,7 @@ Paege:
   :lord: 
   :ser: Halmon Paege
   :leaders:
-  - Halmon Paege
+  - Ser Halmon Paege
   :faction: Tully
 Grell:
   :name: Grell
@@ -572,7 +572,7 @@ Grell:
   :lord: 
   :ser: Desmond Grell
   :leaders:
-  - Desmond Grell
+  - Ser Desmond Grell
   :faction: Tully
 Ryger:
   :name: Ryger
@@ -585,7 +585,7 @@ Ryger:
   :lord: 
   :ser: Robin Ryger
   :leaders:
-  - Robin Ryger
+  - Ser Robin Ryger
   :faction: Tully
 Terrick:
   :name: Terrick
@@ -598,7 +598,7 @@ Terrick:
   :lord: 
   :ser: Alyn Terrick
   :leaders:
-  - Alyn Terrick
+  - Ser Alyn Terrick
   :faction: Tully
 Van:
   :name: Van
@@ -611,7 +611,7 @@ Van:
   :lord: Tristifer Van
   :ser: 
   :leaders:
-  - Tristifer Van
+  - Lord Tristifer Van
   :faction: Tully
 Arryn:
   :name: Arryn
@@ -624,8 +624,8 @@ Arryn:
   :lord: Jon Arryn
   :ser: Rymond Arryn
   :leaders:
-  - Jon Arryn
-  - Rymond Arryn
+  - Lord Jon Arryn
+  - Ser Rymond Arryn
   :faction: Arryn
 Baelish:
   :name: Baelish
@@ -638,7 +638,7 @@ Baelish:
   :lord: Petyr Baelish
   :ser: 
   :leaders:
-  - Petyr Baelish
+  - Lord Petyr Baelish
   :faction: Arryn
 Belmore:
   :name: Belmore
@@ -651,8 +651,8 @@ Belmore:
   :lord: Benedar Belmore
   :ser: Marwyn Belmore
   :leaders:
-  - Benedar Belmore
-  - Marwyn Belmore
+  - Lord Benedar Belmore
+  - Ser Marwyn Belmore
   :faction: Arryn
 Corbray:
   :name: Corbray
@@ -665,8 +665,8 @@ Corbray:
   :lord: Lyonel Corbray
   :ser: Lyn Corbray
   :leaders:
-  - Lyonel Corbray
-  - Lyn Corbray
+  - Lord Lyonel Corbray
+  - Ser Lyn Corbray
   :faction: Arryn
 Grafton:
   :name: Grafton
@@ -679,7 +679,7 @@ Grafton:
   :lord: Gerold Grafton
   :ser: 
   :leaders:
-  - Gerold Grafton
+  - Lord Gerold Grafton
   :faction: Arryn
 Lynderly:
   :name: Lynderly
@@ -692,7 +692,7 @@ Lynderly:
   :lord: Jon Lynderly
   :ser: 
   :leaders:
-  - Jon Lynderly
+  - Lord Jon Lynderly
   :faction: Arryn
 Royce de Roches-aux-runes:
   :name: Royce de Roches-aux-runes
@@ -705,8 +705,8 @@ Royce de Roches-aux-runes:
   :lord: Yohn Royce
   :ser: Andar Royce
   :leaders:
-  - Yohn Royce
-  - Andar Royce
+  - Lord Yohn Royce
+  - Ser Andar Royce
   :faction: Arryn
 Vanbois:
   :name: Vanbois
@@ -719,7 +719,7 @@ Vanbois:
   :lord: 
   :ser: Morton Vanbois
   :leaders:
-  - Morton Vanbois
+  - Ser Morton Vanbois
   :faction: Arryn
 Veneur:
   :name: Veneur
@@ -732,7 +732,7 @@ Veneur:
   :lord: Alec Veneur
   :ser: 
   :leaders:
-  - Alec Veneur
+  - Lord Alec Veneur
   :faction: Arryn
 Borrell:
   :name: Borrell
@@ -745,7 +745,7 @@ Borrell:
   :lord: Godric Borrell
   :ser: 
   :leaders:
-  - Godric Borrell
+  - Lord Godric Borrell
   :faction: Arryn
 Sunderland:
   :name: Sunderland
@@ -758,7 +758,7 @@ Sunderland:
   :lord: Triston Sunderland
   :ser: 
   :leaders:
-  - Triston Sunderland
+  - Lord Triston Sunderland
   :faction: Arryn
 Cirley:
   :name: Cirley
@@ -771,7 +771,7 @@ Cirley:
   :lord: 
   :ser: Edmund Cirley
   :leaders:
-  - Edmund Cirley
+  - Ser Edmund Cirley
   :faction: Arryn
 Hardyng:
   :name: Hardyng
@@ -784,7 +784,7 @@ Hardyng:
   :lord: 
   :ser: Desmond Hardyng
   :leaders:
-  - Desmond Hardyng
+  - Ser Desmond Hardyng
   :faction: Arryn
 Templeton:
   :name: Templeton
@@ -797,7 +797,7 @@ Templeton:
   :lord: 
   :ser: Symond Templeton
   :leaders:
-  - Symond Templeton
+  - Ser Symond Templeton
   :faction: Arryn
 Montmarri:
   :name: Montmarri
@@ -810,7 +810,7 @@ Montmarri:
   :lord: Montmarri qui
   :ser: 
   :leaders:
-  - Montmarri qui
+  - Lord Montmarri qui
   :faction: Arryn
 Moore:
   :name: Moore
@@ -823,7 +823,7 @@ Moore:
   :lord: 
   :ser: Mandon Moore
   :leaders:
-  - Mandon Moore
+  - Ser Mandon Moore
   :faction: Arryn
 Pryor:
   :name: Pryor
@@ -836,7 +836,7 @@ Pryor:
   :lord: Dunstan Pryor
   :ser: 
   :leaders:
-  - Dunstan Pryor
+  - Lord Dunstan Pryor
   :faction: Arryn
 Baratheon:
   :name: Baratheon
@@ -849,8 +849,8 @@ Baratheon:
   :lord: Stannis Baratheon
   :ser: Davos Baratheon
   :leaders:
-  - Stannis Baratheon
-  - Davos Baratheon
+  - Lord Stannis Baratheon
+  - Ser Davos Baratheon
   :faction: Baratheon
 Castelfoyer:
   :name: Castelfoyer
@@ -863,8 +863,8 @@ Castelfoyer:
   :lord: Alyn Castelfoyer
   :ser: Samwell Castelfoyer
   :leaders:
-  - Alyn Castelfoyer
-  - Samwell Castelfoyer
+  - Lord Alyn Castelfoyer
+  - Ser Samwell Castelfoyer
   :faction: Port-Réal
 Chelsted:
   :name: Chelsted
@@ -877,7 +877,7 @@ Chelsted:
   :lord: Qarlton Chelsted
   :ser: 
   :leaders:
-  - Qarlton Chelsted
+  - Lord Qarlton Chelsted
   :faction: Port-Réal
 Harte:
   :name: Harte
@@ -890,7 +890,7 @@ Harte:
   :lord: 
   :ser: Elwood Harte
   :leaders:
-  - Elwood Harte
+  - Ser Elwood Harte
   :faction: Port-Réal
 Mallery:
   :name: Mallery
@@ -903,8 +903,8 @@ Mallery:
   :lord: Lothar Mallery
   :ser: Raymund Mallery
   :leaders:
-  - Lothar Mallery
-  - Raymund Mallery
+  - Lord Lothar Mallery
+  - Ser Raymund Mallery
   :faction: Port-Réal
 Rosby:
   :name: Rosby
@@ -917,8 +917,8 @@ Rosby:
   :lord: Gyles Rosby
   :ser: Rayford Rosby
   :leaders:
-  - Gyles Rosby
-  - Rayford Rosby
+  - Lord Gyles Rosby
+  - Ser Rayford Rosby
   :faction: Port-Réal
 Rykker:
   :name: Rykker
@@ -931,8 +931,8 @@ Rykker:
   :lord: Renfred Rykker
   :ser: Jaremy Rykker
   :leaders:
-  - Renfred Rykker
-  - Jaremy Rykker
+  - Lord Renfred Rykker
+  - Ser Jaremy Rykker
   :faction: Port-Réal
 Blount:
   :name: Blount
@@ -945,7 +945,7 @@ Blount:
   :lord: 
   :ser: Boros Blount
   :leaders:
-  - Boros Blount
+  - Ser Boros Blount
   :faction: Port-Réal
 Boulleau:
   :name: Boulleau
@@ -958,7 +958,7 @@ Boulleau:
   :lord: 
   :ser: Balmain Boulleau
   :leaders:
-  - Balmain Boulleau
+  - Ser Balmain Boulleau
   :faction: Port-Réal
 Farring:
   :name: Farring
@@ -971,7 +971,7 @@ Farring:
   :lord: 
   :ser: Gilbert Farring
   :leaders:
-  - Gilbert Farring
+  - Ser Gilbert Farring
   :faction: Port-Réal
 Gaunt:
   :name: Gaunt
@@ -984,7 +984,7 @@ Gaunt:
   :lord: 
   :ser: Gwayne Gaunt
   :leaders:
-  - Gwayne Gaunt
+  - Ser Gwayne Gaunt
   :faction: Port-Réal
 Langward:
   :name: Langward
@@ -997,7 +997,7 @@ Langward:
   :lord: 
   :ser: Harrold Longegarde
   :leaders:
-  - Harrold Longegarde
+  - Ser Harrold Longegarde
   :faction: Port-Réal
 Massey:
   :name: Massey
@@ -1010,8 +1010,8 @@ Massey:
   :lord: Maldon Massey
   :ser: Justin Massey
   :leaders:
-  - Maldon Massey
-  - Justin Massey
+  - Lord Maldon Massey
+  - Ser Justin Massey
   :faction: Port-Réal
 Pyle:
   :name: Pyle
@@ -1024,7 +1024,7 @@ Pyle:
   :lord: 
   :ser: Howard Pyle
   :leaders:
-  - Howard Pyle
+  - Ser Howard Pyle
   :faction: Port-Réal
 Lannister:
   :name: Lannister
@@ -1037,8 +1037,8 @@ Lannister:
   :lord: Tywin Lannister
   :ser: Jaime Lannister
   :leaders:
-  - Tywin Lannister
-  - Jaime Lannister
+  - Lord Tywin Lannister
+  - Ser Jaime Lannister
   :faction: Lannister
 Brax:
   :name: Brax
@@ -1051,8 +1051,8 @@ Brax:
   :lord: Andros Brax
   :ser: Tytos Brax
   :leaders:
-  - Andros Brax
-  - Tytos Brax
+  - Lord Andros Brax
+  - Ser Tytos Brax
   :faction: Lannister
 Crakehall:
   :name: Crakehall
@@ -1065,8 +1065,8 @@ Crakehall:
   :lord: Roland Crakehall
   :ser: Tybolt Crakehall
   :leaders:
-  - Roland Crakehall
-  - Tybolt Crakehall
+  - Lord Roland Crakehall
+  - Ser Tybolt Crakehall
   :faction: Lannister
 Estren:
   :name: Estren
@@ -1079,7 +1079,7 @@ Estren:
   :lord: Regenard Estren
   :ser: 
   :leaders:
-  - Regenard Estren
+  - Lord Regenard Estren
   :faction: Lannister
 Gerblance:
   :name: Gerblance
@@ -1092,8 +1092,8 @@ Gerblance:
   :lord: Selmond Gerblance
   :ser: Steffon Gerblance
   :leaders:
-  - Selmond Gerblance
-  - Steffon Gerblance
+  - Lord Selmond Gerblance
+  - Ser Steffon Gerblance
   :faction: Lannister
 Farman:
   :name: Farman
@@ -1106,7 +1106,7 @@ Farman:
   :lord: Sebaston Farman
   :ser: 
   :leaders:
-  - Sebaston Farman
+  - Lord Sebaston Farman
   :faction: Lannister
 Fléaufort:
   :name: Fléaufort
@@ -1119,7 +1119,7 @@ Fléaufort:
   :lord: Quenten Fl
   :ser: 
   :leaders:
-  - Quenten Fl
+  - Lord Quenten Fl
   :faction: Lannister
 Jast:
   :name: Jast
@@ -1132,7 +1132,7 @@ Jast:
   :lord: Antario Jast
   :ser: 
   :leaders:
-  - Antario Jast
+  - Lord Antario Jast
   :faction: Lannister
 Kenning:
   :name: Kenning
@@ -1145,8 +1145,8 @@ Kenning:
   :lord: Terrence Kenning
   :ser: Kennos de
   :leaders:
-  - Terrence Kenning
-  - Kennos de
+  - Lord Terrence Kenning
+  - Ser Kennos de
   :faction: Lannister
 Lefford:
   :name: Lefford
@@ -1159,7 +1159,7 @@ Lefford:
   :lord: Leo Lefford
   :ser: 
   :leaders:
-  - Leo Lefford
+  - Lord Leo Lefford
   :faction: Lannister
 Lydden:
   :name: Lydden
@@ -1172,7 +1172,7 @@ Lydden:
   :lord: Lewys Lydden
   :ser: 
   :leaders:
-  - Lewys Lydden
+  - Lord Lewys Lydden
   :faction: Lannister
 Ouestrelin:
   :name: Ouestrelin
@@ -1185,8 +1185,8 @@ Ouestrelin:
   :lord: Roland Ouestrelin
   :ser: Harrold Ouestrelin
   :leaders:
-  - Roland Ouestrelin
-  - Harrold Ouestrelin
+  - Lord Roland Ouestrelin
+  - Ser Harrold Ouestrelin
   :faction: Lannister
 Prestre:
   :name: Prestre
@@ -1199,8 +1199,8 @@ Prestre:
   :lord: Garrison Prestre
   :ser: Forley Prestre
   :leaders:
-  - Garrison Prestre
-  - Forley Prestre
+  - Lord Garrison Prestre
+  - Ser Forley Prestre
   :faction: Lannister
 Prünh:
   :name: Prünh
@@ -1213,8 +1213,8 @@ Prünh:
   :lord: Philipp Pr
   :ser: Dennis Pr
   :leaders:
-  - Philipp Pr
-  - Dennis Pr
+  - Lord Philipp Pr
+  - Ser Dennis Pr
   :faction: Lannister
 Sarwyck:
   :name: Sarwyck
@@ -1227,8 +1227,8 @@ Sarwyck:
   :lord: Raynald Sarwyck
   :ser: Alester Sarwyck
   :leaders:
-  - Raynald Sarwyck
-  - Alester Sarwyck
+  - Lord Raynald Sarwyck
+  - Ser Alester Sarwyck
   :faction: Lannister
 Clegane:
   :name: Clegane
@@ -1241,7 +1241,7 @@ Clegane:
   :lord: 
   :ser: Gregor Clegane
   :leaders:
-  - Gregor Clegane
+  - Ser Gregor Clegane
   :faction: Lannister
 Cuillêtre:
   :name: Cuillêtre
@@ -1254,7 +1254,7 @@ Cuillêtre:
   :lord: 
   :ser: Tybolt Cuill
   :leaders:
-  - Tybolt Cuill
+  - Ser Tybolt Cuill
   :faction: Lannister
 Lépicier:
   :name: Lépicier
@@ -1267,7 +1267,7 @@ Lépicier:
   :lord: 
   :ser: Rolph L
   :leaders:
-  - Rolph L
+  - Ser Rolph L
   :faction: Lannister
 Lorch:
   :name: Lorch
@@ -1280,7 +1280,7 @@ Lorch:
   :lord: 
   :ser: Lorent Lorch
   :leaders:
-  - Lorent Lorch
+  - Ser Lorent Lorch
   :faction: Lannister
 Swyft:
   :name: Swyft
@@ -1293,7 +1293,7 @@ Swyft:
   :lord: 
   :ser: Harys Swyft
   :leaders:
-  - Harys Swyft
+  - Ser Harys Swyft
   :faction: Lannister
 Verchamps:
   :name: Verchamps
@@ -1306,7 +1306,7 @@ Verchamps:
   :lord: 
   :ser: Garth Verchamps
   :leaders:
-  - Garth Verchamps
+  - Ser Garth Verchamps
   :faction: Lannister
 Vikair:
   :name: Vikair
@@ -1319,7 +1319,7 @@ Vikair:
   :lord: 
   :ser: Lymond Vikair
   :leaders:
-  - Lymond Vikair
+  - Ser Lymond Vikair
   :faction: Lannister
 Bettley:
   :name: Bettley
@@ -1332,7 +1332,7 @@ Bettley:
   :lord: 
   :ser: Jon Bettley
   :leaders:
-  - Jon Bettley
+  - Ser Jon Bettley
   :faction: Lannister
 Doguette:
   :name: Doguette
@@ -1345,7 +1345,7 @@ Doguette:
   :lord: 
   :ser: Joffrey Doguette
   :leaders:
-  - Joffrey Doguette
+  - Ser Joffrey Doguette
   :faction: Lannister
 Fallières:
   :name: Fallières
@@ -1358,7 +1358,7 @@ Fallières:
   :lord: Rupert Falli
   :ser: 
   :leaders:
-  - Rupert Falli
+  - Lord Rupert Falli
   :faction: Lannister
 Garner:
   :name: Garner
@@ -1371,7 +1371,7 @@ Garner:
   :lord: 
   :ser: Alyn Garner
   :leaders:
-  - Alyn Garner
+  - Ser Alyn Garner
   :faction: Lannister
 Geneste:
   :name: Geneste
@@ -1384,7 +1384,7 @@ Geneste:
   :lord: 
   :ser: Benedict Geneste
   :leaders:
-  - Benedict Geneste
+  - Ser Benedict Geneste
   :faction: Lannister
 Payne:
   :name: Payne
@@ -1397,7 +1397,7 @@ Payne:
   :lord: 
   :ser: Ilyn Payne
   :leaders:
-  - Ilyn Payne
+  - Ser Ilyn Payne
   :faction: Lannister
 Pièdre:
   :name: Pièdre
@@ -1410,7 +1410,7 @@ Pièdre:
   :lord: 
   :ser: Philip Pi
   :leaders:
-  - Philip Pi
+  - Ser Philip Pi
   :faction: Lannister
 Sarschamp:
   :name: Sarschamp
@@ -1423,7 +1423,7 @@ Sarschamp:
   :lord: 
   :ser: Melwyn Sarschamp
   :leaders:
-  - Melwyn Sarschamp
+  - Ser Melwyn Sarschamp
   :faction: Lannister
 Tournebaie:
   :name: Tournebaie
@@ -1436,7 +1436,7 @@ Tournebaie:
   :lord: 
   :ser: Lambert Tournebaie
   :leaders:
-  - Lambert Tournebaie
+  - Ser Lambert Tournebaie
   :faction: Lannister
 Buckler:
   :name: Buckler
@@ -1449,8 +1449,8 @@ Buckler:
   :lord: Ralph Buckler
   :ser: Brus Buckler
   :leaders:
-  - Ralph Buckler
-  - Brus Buckler
+  - Lord Ralph Buckler
+  - Ser Brus Buckler
   :faction: Baratheon
 Cossepois:
   :name: Cossepois
@@ -1463,7 +1463,7 @@ Cossepois:
   :lord: Robin Cossepois
   :ser: 
   :leaders:
-  - Robin Cossepois
+  - Lord Robin Cossepois
   :faction: Baratheon
 Errol:
   :name: Errol
@@ -1476,7 +1476,7 @@ Errol:
   :lord: Sebastion Errol
   :ser: 
   :leaders:
-  - Sebastion Errol
+  - Lord Sebastion Errol
   :faction: Baratheon
 Estremont:
   :name: Estremont
@@ -1489,8 +1489,8 @@ Estremont:
   :lord: Eldon Estremont
   :ser: Aemon Estremont
   :leaders:
-  - Eldon Estremont
-  - Aemon Estremont
+  - Lord Eldon Estremont
+  - Ser Aemon Estremont
   :faction: Baratheon
 Fell:
   :name: Fell
@@ -1503,8 +1503,8 @@ Fell:
   :lord: Harbois Fell
   :ser: Willis Fell
   :leaders:
-  - Harbois Fell
-  - Willis Fell
+  - Lord Harbois Fell
+  - Ser Willis Fell
   :faction: Baratheon
 Grandison:
   :name: Grandison
@@ -1517,8 +1517,8 @@ Grandison:
   :lord: Hugh Grandison
   :ser: Narbert Grandison
   :leaders:
-  - Hugh Grandison
-  - Narbert Grandison
+  - Lord Hugh Grandison
+  - Ser Narbert Grandison
   :faction: Baratheon
 Morrigen:
   :name: Morrigen
@@ -1531,8 +1531,8 @@ Morrigen:
   :lord: Lester Morrigen
   :ser: Richard Morrigen
   :leaders:
-  - Lester Morrigen
-  - Richard Morrigen
+  - Lord Lester Morrigen
+  - Ser Richard Morrigen
   :faction: Baratheon
 Penrose:
   :name: Penrose
@@ -1545,8 +1545,8 @@ Penrose:
   :lord: Ronnel Penrose
   :ser: Cortnay Penrose
   :leaders:
-  - Ronnel Penrose
-  - Cortnay Penrose
+  - Lord Ronnel Penrose
+  - Ser Cortnay Penrose
   :faction: Baratheon
 Staedmon:
   :name: Staedmon
@@ -1559,7 +1559,7 @@ Staedmon:
   :lord: Alesander Staedmon
   :ser: 
   :leaders:
-  - Alesander Staedmon
+  - Lord Alesander Staedmon
   :faction: Baratheon
 Torth:
   :name: Torth
@@ -1572,8 +1572,8 @@ Torth:
   :lord: Cameron Torth
   :ser: Endrew Torth
   :leaders:
-  - Cameron Torth
-  - Endrew Torth
+  - Lord Cameron Torth
+  - Ser Endrew Torth
   :faction: Baratheon
 Wylde:
   :name: Wylde
@@ -1586,8 +1586,8 @@ Wylde:
   :lord: Casper Wylde
   :ser: Ormund Wylde
   :leaders:
-  - Casper Wylde
-  - Ormund Wylde
+  - Lord Casper Wylde
+  - Ser Ormund Wylde
   :faction: Baratheon
 Caron:
   :name: Caron
@@ -1600,8 +1600,8 @@ Caron:
   :lord: Bryce Caron
   :ser: Rolland Storm
   :leaders:
-  - Bryce Caron
-  - Rolland Storm
+  - Lord Bryce Caron
+  - Ser Rolland Storm
   :faction: Baratheon
 Selmy:
   :name: Selmy
@@ -1614,8 +1614,8 @@ Selmy:
   :lord: Arstan Selmy
   :ser: Barristan Selmy
   :leaders:
-  - Arstan Selmy
-  - Barristan Selmy
+  - Lord Arstan Selmy
+  - Ser Barristan Selmy
   :faction: Baratheon
 Swann:
   :name: Swann
@@ -1628,8 +1628,8 @@ Swann:
   :lord: Gulian Swann
   :ser: Donnel Swann
   :leaders:
-  - Gulian Swann
-  - Donnel Swann
+  - Lord Gulian Swann
+  - Ser Donnel Swann
   :faction: Baratheon
 Connington:
   :name: Connington
@@ -1642,8 +1642,8 @@ Connington:
   :lord: Roy Connington
   :ser: Ronnet Connington
   :leaders:
-  - Roy Connington
-  - Ronnet Connington
+  - Lord Roy Connington
+  - Ser Ronnet Connington
   :faction: Baratheon
 Mervault:
   :name: Mervault
@@ -1656,7 +1656,7 @@ Mervault:
   :lord: 
   :ser: Davos Mervault
   :leaders:
-  - Davos Mervault
+  - Ser Davos Mervault
   :faction: Baratheon
 Lonbec:
   :name: Lonbec
@@ -1669,7 +1669,7 @@ Lonbec:
   :lord: 
   :ser: Richard Lonbec
   :leaders:
-  - Richard Lonbec
+  - Ser Richard Lonbec
   :faction: Baratheon
 Tyrell:
   :name: Tyrell
@@ -1682,8 +1682,8 @@ Tyrell:
   :lord: Mace Tyrell
   :ser: Garlan Tyrell
   :leaders:
-  - Mace Tyrell
-  - Garlan Tyrell
+  - Lord Mace Tyrell
+  - Ser Garlan Tyrell
   :faction: Tyrell
 Ambrose:
   :name: Ambrose
@@ -1696,8 +1696,8 @@ Ambrose:
   :lord: Arthur Ambrose
   :ser: Edmund Ambrose
   :leaders:
-  - Arthur Ambrose
-  - Edmund Ambrose
+  - Lord Arthur Ambrose
+  - Ser Edmund Ambrose
   :faction: Tyrell
 Bulwer:
   :name: Bulwer
@@ -1710,8 +1710,8 @@ Bulwer:
   :lord: Jon Bulwer
   :ser: Buford Bulwer
   :leaders:
-  - Jon Bulwer
-  - Buford Bulwer
+  - Lord Jon Bulwer
+  - Ser Buford Bulwer
   :faction: Tyrell
 Caswell:
   :name: Caswell
@@ -1724,8 +1724,8 @@ Caswell:
   :lord: Lorent Caswell
   :ser: Cleyton Caswell
   :leaders:
-  - Lorent Caswell
-  - Cleyton Caswell
+  - Lord Lorent Caswell
+  - Ser Cleyton Caswell
   :faction: Tyrell
 Cendregué:
   :name: Cendregué
@@ -1738,7 +1738,7 @@ Cendregué:
   :lord: 
   :ser: Alyn Cendregu
   :leaders:
-  - Alyn Cendregu
+  - Ser Alyn Cendregu
   :faction: Tyrell
 Chantecoq:
   :name: Chantecoq
@@ -1751,7 +1751,7 @@ Chantecoq:
   :lord: Alyn Chantecoq
   :ser: 
   :leaders:
-  - Alyn Chantecoq
+  - Lord Alyn Chantecoq
   :faction: Tyrell
 Costayne:
   :name: Costayne
@@ -1764,8 +1764,8 @@ Costayne:
   :lord: Tommen Costayne
   :ser: Leo Costayne
   :leaders:
-  - Tommen Costayne
-  - Leo Costayne
+  - Lord Tommen Costayne
+  - Ser Leo Costayne
   :faction: Tyrell
 Crane:
   :name: Crane
@@ -1778,7 +1778,7 @@ Crane:
   :lord: 
   :ser: Parment Crane
   :leaders:
-  - Parment Crane
+  - Ser Parment Crane
   :faction: Tyrell
 Cuy:
   :name: Cuy
@@ -1791,8 +1791,8 @@ Cuy:
   :lord: Branston Cuy
   :ser: Emmon Cuy
   :leaders:
-  - Branston Cuy
-  - Emmon Cuy
+  - Lord Branston Cuy
+  - Ser Emmon Cuy
   :faction: Tyrell
 des Essaims:
   :name: des Essaims
@@ -1805,8 +1805,8 @@ des Essaims:
   :lord: Warryn des
   :ser: Bertram des
   :leaders:
-  - Warryn des
-  - Bertram des
+  - Lord Warryn des
+  - Ser Bertram des
   :faction: Tyrell
 Florent:
   :name: Florent
@@ -1819,8 +1819,8 @@ Florent:
   :lord: Alester Florent
   :ser: Axell Florent
   :leaders:
-  - Alester Florent
-  - Axell Florent
+  - Lord Alester Florent
+  - Ser Axell Florent
   :faction: Tyrell
 Hightower:
   :name: Hightower
@@ -1833,8 +1833,8 @@ Hightower:
   :lord: Leyton Hightower
   :ser: Baelor Hightower
   :leaders:
-  - Leyton Hightower
-  - Baelor Hightower
+  - Lord Leyton Hightower
+  - Ser Baelor Hightower
   :faction: Tyrell
 Merryweather:
   :name: Merryweather
@@ -1847,7 +1847,7 @@ Merryweather:
   :lord: Orton Merryweather
   :ser: 
   :leaders:
-  - Orton Merryweather
+  - Lord Orton Merryweather
   :faction: Tyrell
 Mullendore:
   :name: Mullendore
@@ -1860,8 +1860,8 @@ Mullendore:
   :lord: Martyn Mullendore
   :ser: Mark Mullendore
   :leaders:
-  - Martyn Mullendore
-  - Mark Mullendore
+  - Lord Martyn Mullendore
+  - Ser Mark Mullendore
   :faction: Tyrell
 de la Nouë:
   :name: de la Nouë
@@ -1874,7 +1874,7 @@ de la Nouë:
   :lord: Elbois de
   :ser: 
   :leaders:
-  - Elbois de
+  - Lord Elbois de
   :faction: Tyrell
 Peake:
   :name: Peake
@@ -1887,8 +1887,8 @@ Peake:
   :lord: Titus Peake
   :ser: Laswell Peake
   :leaders:
-  - Titus Peake
-  - Laswell Peake
+  - Lord Titus Peake
+  - Ser Laswell Peake
   :faction: Tyrell
 Redwyne:
   :name: Redwyne
@@ -1901,8 +1901,8 @@ Redwyne:
   :lord: Paxter Redwyne
   :ser: Horas Redwyne
   :leaders:
-  - Paxter Redwyne
-  - Horas Redwyne
+  - Lord Paxter Redwyne
+  - Ser Horas Redwyne
   :faction: Tyrell
 Risley:
   :name: Risley
@@ -1915,7 +1915,7 @@ Risley:
   :lord: 
   :ser: Eden Risley
   :leaders:
-  - Eden Risley
+  - Ser Eden Risley
   :faction: Tyrell
 du Rouvre:
   :name: du Rouvre
@@ -1928,8 +1928,8 @@ du Rouvre:
   :lord: Edgerran du
   :ser: Arys du
   :leaders:
-  - Edgerran du
-  - Arys du
+  - Lord Edgerran du
+  - Ser Arys du
   :faction: Tyrell
 Rowan:
   :name: Rowan
@@ -1942,8 +1942,8 @@ Rowan:
   :lord: Mathis Rowan
   :ser: Nyles Rowan
   :leaders:
-  - Mathis Rowan
-  - Nyles Rowan
+  - Lord Mathis Rowan
+  - Ser Nyles Rowan
   :faction: Tyrell
 Tarly:
   :name: Tarly
@@ -1956,8 +1956,8 @@ Tarly:
   :lord: Randyll Tarly
   :ser: Samwyle Tarly
   :leaders:
-  - Randyll Tarly
-  - Samwyle Tarly
+  - Lord Randyll Tarly
+  - Ser Samwyle Tarly
   :faction: Tyrell
 Tyssier:
   :name: Tyssier
@@ -1970,7 +1970,7 @@ Tyssier:
   :lord: Wyman Tyssier
   :ser: 
   :leaders:
-  - Wyman Tyssier
+  - Lord Wyman Tyssier
   :faction: Tyrell
 Varnier:
   :name: Varnier
@@ -1983,7 +1983,7 @@ Varnier:
   :lord: Steffon Varnier
   :ser: 
   :leaders:
-  - Steffon Varnier
+  - Lord Steffon Varnier
   :faction: Tyrell
 Vouyvère:
   :name: Vouyvère
@@ -1996,7 +1996,7 @@ Vouyvère:
   :lord: et lady
   :ser: 
   :leaders:
-  - et lady
+  - Lord et lady
   :faction: Tyrell
 Chester:
   :name: Chester
@@ -2009,7 +2009,7 @@ Chester:
   :lord: Moribald Chester
   :ser: 
   :leaders:
-  - Moribald Chester
+  - Lord Moribald Chester
   :faction: Tyrell
 Grimm:
   :name: Grimm
@@ -2022,7 +2022,7 @@ Grimm:
   :lord: Guthor Grimm
   :ser: 
   :leaders:
-  - Guthor Grimm
+  - Lord Guthor Grimm
   :faction: Tyrell
 Houëtt:
   :name: Houëtt
@@ -2035,8 +2035,8 @@ Houëtt:
   :lord: Humfrey Hou
   :ser: Glendon Hou
   :leaders:
-  - Humfrey Hou
-  - Glendon Hou
+  - Lord Humfrey Hou
+  - Ser Glendon Hou
   :faction: Tyrell
 Fossovoie pomme-rouge:
   :name: Fossovoie pomme-rouge
@@ -2049,8 +2049,8 @@ Fossovoie pomme-rouge:
   :lord: Owen Fossovoie
   :ser: Bryan Fossovoie
   :leaders:
-  - Owen Fossovoie
-  - Bryan Fossovoie
+  - Lord Owen Fossovoie
+  - Ser Bryan Fossovoie
   :faction: Tyrell
 Fossovoie pomme-verte:
   :name: Fossovoie pomme-verte
@@ -2063,7 +2063,7 @@ Fossovoie pomme-verte:
   :lord: 
   :ser: Jon Fossovoie
   :leaders:
-  - Jon Fossovoie
+  - Ser Jon Fossovoie
   :faction: Tyrell
 Hunt:
   :name: Hunt
@@ -2076,7 +2076,7 @@ Hunt:
   :lord: 
   :ser: Hyle Hunt
   :leaders:
-  - Hyle Hunt
+  - Ser Hyle Hunt
   :faction: Tyrell
 Norcroix:
   :name: Norcroix
@@ -2089,7 +2089,7 @@ Norcroix:
   :lord: 
   :ser: Hosman Norcroix
   :leaders:
-  - Hosman Norcroix
+  - Ser Hosman Norcroix
   :faction: Tyrell
 Osgris:
   :name: Osgris
@@ -2102,8 +2102,8 @@ Osgris:
   :lord: Perwyn Osgris
   :ser: Wilbert Osgris
   :leaders:
-  - Perwyn Osgris
-  - Wilbert Osgris
+  - Lord Perwyn Osgris
+  - Ser Wilbert Osgris
   :faction: Tyrell
 Bonleu:
   :name: Bonleu
@@ -2116,7 +2116,7 @@ Bonleu:
   :lord: 
   :ser: Simon Bonleu
   :leaders:
-  - Simon Bonleu
+  - Ser Simon Bonleu
   :faction: Tyrell
 Boule:
   :name: Boule
@@ -2129,7 +2129,7 @@ Boule:
   :lord: 
   :ser: Quentyn Boule
   :leaders:
-  - Quentyn Boule
+  - Ser Quentyn Boule
   :faction: Tyrell
 Brousse:
   :name: Brousse
@@ -2142,7 +2142,7 @@ Brousse:
   :lord: 
   :ser: Ben Brousse
   :leaders:
-  - Ben Brousse
+  - Ser Ben Brousse
   :faction: Tyrell
 Le Charpentier:
   :name: Le Charpentier
@@ -2155,7 +2155,7 @@ Le Charpentier:
   :lord: 
   :ser: Portifer Le
   :leaders:
-  - Portifer Le
+  - Ser Portifer Le
   :faction: Tyrell
 Graceford:
   :name: Graceford
@@ -2168,7 +2168,7 @@ Graceford:
   :lord: 
   :ser: Harys Graceford
   :leaders:
-  - Harys Graceford
+  - Ser Harys Graceford
   :faction: Tyrell
 Milopin:
   :name: Milopin
@@ -2181,7 +2181,7 @@ Milopin:
   :lord: 
   :ser: Owen Milopin
   :leaders:
-  - Owen Milopin
+  - Ser Owen Milopin
   :faction: Tyrell
 Nègrebar:
   :name: Nègrebar
@@ -2194,7 +2194,7 @@ Nègrebar:
   :lord: 
   :ser: Leo N
   :leaders:
-  - Leo N
+  - Ser Leo N
   :faction: Tyrell
 Norridge:
   :name: Norridge
@@ -2207,7 +2207,7 @@ Norridge:
   :lord: 
   :ser: Theodore Tyrell
   :leaders:
-  - Theodore Tyrell
+  - Ser Theodore Tyrell
   :faction: Tyrell
 Oldflowers:
   :name: Oldflowers
@@ -2220,7 +2220,7 @@ Oldflowers:
   :lord: 
   :ser: Garth Oldflowers
   :leaders:
-  - Garth Oldflowers
+  - Ser Garth Oldflowers
   :faction: Tyrell
 Roxton:
   :name: Roxton
@@ -2233,8 +2233,8 @@ Roxton:
   :lord: Jon Roxton
   :ser: Lorence Roxton
   :leaders:
-  - Jon Roxton
-  - Lorence Roxton
+  - Lord Jon Roxton
+  - Ser Lorence Roxton
   :faction: Tyrell
 Uffering:
   :name: Uffering
@@ -2247,7 +2247,7 @@ Uffering:
   :lord: 
   :ser: Rolland Uffering
   :leaders:
-  - Rolland Uffering
+  - Ser Rolland Uffering
   :faction: Tyrell
 Martell:
   :name: Martell
@@ -2273,7 +2273,7 @@ Allyrion:
   :lord: 
   :ser: Ryon Allyrion
   :leaders:
-  - Ryon Allyrion
+  - Ser Ryon Allyrion
   :faction: Martell
 Dayne:
   :name: Dayne
@@ -2286,8 +2286,8 @@ Dayne:
   :lord: Edric Dayne
   :ser: Davos Dayne
   :leaders:
-  - Edric Dayne
-  - Davos Dayne
+  - Lord Edric Dayne
+  - Ser Davos Dayne
   :faction: Martell
 Ferboys:
   :name: Ferboys
@@ -2300,8 +2300,8 @@ Ferboys:
   :lord: Anders Ferboys
   :ser: Cletus Ferboys
   :leaders:
-  - Anders Ferboys
-  - Cletus Ferboys
+  - Lord Anders Ferboys
+  - Ser Cletus Ferboys
   :faction: Martell
 Forrest:
   :name: Forrest
@@ -2314,8 +2314,8 @@ Forrest:
   :lord: Dagos Forrest
   :ser: Myles Forrest
   :leaders:
-  - Dagos Forrest
-  - Myles Forrest
+  - Lord Dagos Forrest
+  - Ser Myles Forrest
   :faction: Martell
 Gargalen:
   :name: Gargalen
@@ -2328,7 +2328,7 @@ Gargalen:
   :lord: Tremond Gargalen
   :ser: 
   :leaders:
-  - Tremond Gargalen
+  - Lord Tremond Gargalen
   :faction: Martell
 Jordayne:
   :name: Jordayne
@@ -2341,7 +2341,7 @@ Jordayne:
   :lord: Trebor Jordayne
   :ser: 
   :leaders:
-  - Trebor Jordayne
+  - Lord Trebor Jordayne
   :faction: Martell
 Poulet:
   :name: Poulet
@@ -2354,7 +2354,7 @@ Poulet:
   :lord: Franklyn Poulet
   :ser: 
   :leaders:
-  - Franklyn Poulet
+  - Lord Franklyn Poulet
   :faction: Martell
 Qorgyle:
   :name: Qorgyle
@@ -2367,8 +2367,8 @@ Qorgyle:
   :lord: Quentyn Qorgyle
   :ser: Gulian Qorgyle
   :leaders:
-  - Quentyn Qorgyle
-  - Gulian Qorgyle
+  - Lord Quentyn Qorgyle
+  - Ser Gulian Qorgyle
   :faction: Martell
 Uller:
   :name: Uller
@@ -2381,8 +2381,8 @@ Uller:
   :lord: Harmen Uller
   :ser: Ulwyck Uller
   :leaders:
-  - Harmen Uller
-  - Ulwyck Uller
+  - Lord Harmen Uller
+  - Ser Ulwyck Uller
   :faction: Martell
 le Voi:
   :name: le Voi
@@ -2395,7 +2395,7 @@ le Voi:
   :lord: Daeron le
   :ser: 
   :leaders:
-  - Daeron le
+  - Lord Daeron le
   :faction: Martell
 Wyl:
   :name: Wyl
@@ -2408,5 +2408,5 @@ Wyl:
   :lord: Walter Wyl
   :ser: 
   :leaders:
-  - Walter Wyl
+  - Lord Walter Wyl
   :faction: Martell

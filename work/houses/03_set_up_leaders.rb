@@ -11,7 +11,9 @@ h_db.each do |k, h|
   if KNOWN_HOUSES[k]
     h_db[k][:leaders] = KNOWN_HOUSES[k]
   else
-    h_db[k][:leaders] = [ h[:lord], h[:ser] ].compact
+    h_db[k][:leaders] = []
+    h_db[k][:leaders] << "Lord #{h[:lord]}" if h[:lord]
+    h_db[k][:leaders] << "Ser #{h[:ser]}" if h[:ser]
   end
 end
 
