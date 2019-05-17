@@ -1,0 +1,405 @@
+---
+Stark:
+- :leader: King Robb Stark
+  :blason: Blason-stark-2014-v01-256px.png
+  :name: Stark
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Roose Bolton
+  :blason: Blason-bolton-2014-v01-256px.png
+  :name: Bolton
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Ludd Whitehill
+  :blason: Blason-whitehill-2014-v01-256px.png
+  :name: Whitehill
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Medger Cerwyn
+  :blason: Blason-cerwyn-2014-v01-256px.png
+  :name: Cerwyn
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Halys Corbois
+  :blason: Blason-corbois-2014-v01-256px.png
+  :name: Corbois
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Roderick Dustin
+  :blason: Blason-dustin-2014-v01-256px.png
+  :name: Dustin
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Harbois Stout
+  :blason: Blason-stout-2014-v01-256px.png
+  :name: Stout
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Rickard Karstark
+  :blason: Blason-karstark-2014-V01-256px.png
+  :name: Karstark
+  :allegence: Stark
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Wyman Manderly
+  :blason: Blason-manderly-2014-v01-256px.png
+  :name: Manderly
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Ondrew Locke
+  :blason: Blason-locke-2014-v01-256px.png
+  :name: Locke
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Jeor Mormont
+  :blason: Blason-mormont-2014-v01-256px.png
+  :name: Mormont
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Jon Omble
+  :blason: Blason-omble-2014-v01-256px.png
+  :name: Omble
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+Lannister:
+- :leader: Lord Tywin Lannister
+  :blason: Blason-lannister-2014-v01-256px.png
+  :name: Lannister
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Andros Brax
+  :blason: Blason-brax-2014-v01-256px.png
+  :name: Brax
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Roland Crakehall
+  :blason: Blason-crakehall-2014-v01-256px.png
+  :name: Crakehall
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Regenard Estren
+  :blason: Blason-estren-2014-v01-256px.png
+  :name: Estren
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Selmond Gerblance
+  :blason: Blason-gerblance-2014-v01-256px.png
+  :name: Gerblance
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Sebaston Farman
+  :blason: Blason-farman-2014-v01-256px.png
+  :name: Farman
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Quenten Fl
+  :blason: Blason-fleaufort-2014-v01-256px.png
+  :name: Fléaufort
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Antario Jast
+  :blason: Blason-jast-2014-v01-256px.png
+  :name: Jast
+  :allegence: Lannister
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Terrence Kenning
+  :blason: Blason-kenning2-2014-v01-256px.png
+  :name: Kenning
+  :allegence: Lannister
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Leo Lefford
+  :blason: Blason-lefford-2014-v01-256px.png
+  :name: Lefford
+  :allegence: Lannister
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Lewys Lydden
+  :blason: Blason-lydden-2014-v01-256px.png
+  :name: Lydden
+  :allegence: Lannister
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Roland Ouestrelin
+  :blason: Blason-ouestrelin-2014-v01-256px.png
+  :name: Ouestrelin
+  :allegence: Lannister
+  :kind: :knights
+  :men: 1000
+Tyrell:
+- :leader: Lord Mace Tyrell
+  :blason: Blason-tyrell-2014-v01-256px.png
+  :name: Tyrell
+  :allegence: Tyrell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Arthur Ambrose
+  :blason: Blason-ambrose-2014-v01-256px.png
+  :name: Ambrose
+  :allegence: Tyrell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Lorent Caswell
+  :blason: Blason-caswell-2014-v01-256px.png
+  :name: Caswell
+  :allegence: Tyrell
+  :kind: :footmen
+  :men: 2000
+- :leader: Ser Alyn Cendregu
+  :blason: Blason-cendregue-2014-v01-256px.png
+  :name: Cendregué
+  :allegence: Tyrell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Alyn Chantecoq
+  :blason: Blason-chantecoq-2014-v01-256px.png
+  :name: Chantecoq
+  :allegence: Tyrell
+  :kind: :knights
+  :men: 1000
+- :leader: Ser Parment Crane
+  :blason: Blason-crane-2014-v01-256px.png
+  :name: Crane
+  :allegence: Tyrell
+  :kind: :knights
+  :men: 1000
+Martell:
+- :leader: Prince Oberyn Martell
+  :blason: Blason-martell-2014-v01-256px.png
+  :name: Martell
+  :allegence: Martell
+  :kind: :footmen
+  :men: 2000
+- :leader: Ser Ryon Allyrion
+  :blason: Blason-allyrion-2014-v01-256px.png
+  :name: Allyrion
+  :allegence: Martell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Edric Dayne
+  :blason: Blason-dayne-2014-v01-256px.png
+  :name: Dayne
+  :allegence: Martell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Anders Ferboys
+  :blason: Blason-ferboys-2014-v01-256px.png
+  :name: Ferboys
+  :allegence: Martell
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Dagos Forrest
+  :blason: Blason-forrest-2014-v01-256px.png
+  :name: Forrest
+  :allegence: Martell
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Tremond Gargalen
+  :blason: Blason-gargalen-2014-v01-256px.png
+  :name: Gargalen
+  :allegence: Martell
+  :kind: :knights
+  :men: 1000
+Baratheon:
+- :leader: Lord Stannis Baratheon
+  :blason: Blason-baratheon-2014-v01-256px.png
+  :name: Baratheon
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Ralph Buckler
+  :blason: Blason-buckler-2014-v01-256px.png
+  :name: Buckler
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Robin Cossepois
+  :blason: Blason-cossepois-2014-v01-256px.png
+  :name: Cossepois
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Sebastion Errol
+  :blason: Blason-errol-2014-v01-256px.png
+  :name: Errol
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Eldon Estremont
+  :blason: Blason-estremont-2014-v01-256px.png
+  :name: Estremont
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Harbois Fell
+  :blason: Blason-fell-2014-v01-256px.png
+  :name: Fell
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Hugh Grandison
+  :blason: Blason-grandison-2014-v01-256px.png
+  :name: Grandison
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Lester Morrigen
+  :blason: Blason-morrigen-2014-v01-256px.png
+  :name: Morrigen
+  :allegence: Baratheon
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Ronnel Penrose
+  :blason: Blason-penrose-2014-v01-256px.png
+  :name: Penrose
+  :allegence: Baratheon
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Alesander Staedmon
+  :blason: Blason-staedmon-2014-v01-256px.png
+  :name: Staedmon
+  :allegence: Baratheon
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Cameron Torth
+  :blason: Blason-torth-2014-v01-256px.png
+  :name: Torth
+  :allegence: Baratheon
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Casper Wylde
+  :blason: Blason-wylde-2014-v01-256px.png
+  :name: Wylde
+  :allegence: Baratheon
+  :kind: :knights
+  :men: 1000
+Tully:
+- :leader: Lord Hoster Tully
+  :blason: Blason-tully-2014-v01-256px.png
+  :name: Tully
+  :allegence: Tully
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Alton Beurpuits
+  :blason: Blason-beurpuits-2014-v01-256px.png
+  :name: Beurpuits
+  :allegence: Tully
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Lymond Bonru
+  :blason: Blason-bonru-2014-v01-256px.png
+  :name: Bonru
+  :allegence: Tully
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Jonos Bracken
+  :blason: Blason-bracken-2014-v01-256px.png
+  :name: Bracken
+  :allegence: Tully
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Darnold Darry
+  :blason: Blason-darry-2014-v01-256px.png
+  :name: Darry
+  :allegence: Tully
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Walder Frey
+  :blason: Blason-frey-2014-v01-256px.png
+  :name: Frey
+  :allegence: Tully
+  :kind: :knights
+  :men: 1000
+Arryn:
+- :leader: Lord Jon Arryn
+  :blason: Blason-arryn-2014-v01-256px.png
+  :name: Arryn
+  :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Petyr Baelish
+  :blason: Blason-baelish-alt-2014-v01-256px.png
+  :name: Baelish
+  :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Benedar Belmore
+  :blason: Blason-belmore-2014-v01-256px.png
+  :name: Belmore
+  :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Lyonel Corbray
+  :blason: Blason-corbray-2014-v01-256px.png
+  :name: Corbray
+  :allegence: Arryn
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Gerold Grafton
+  :blason: Blason-grafton-2014-v01-256px.png
+  :name: Grafton
+  :allegence: Arryn
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Jon Lynderly
+  :blason: Blason-lynderly-2014-v01-256px.png
+  :name: Lynderly
+  :allegence: Arryn
+  :kind: :knights
+  :men: 1000
+Port-Réal:
+- :leader: Lord Alyn Castelfoyer
+  :blason: Blason-castelfoyer-2014-v01-256px.png
+  :name: Castelfoyer
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Qarlton Chelsted
+  :blason: Blason-chelsted-2014-v01-256px.png
+  :name: Chelsted
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+- :leader: Ser Elwood Harte
+  :blason: Blason-harte-2014-v01-256px.png
+  :name: Harte
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Lothar Mallery
+  :blason: Blason-mallery-2014-v01-256px.png
+  :name: Mallery
+  :allegence: Port-Réal
+  :kind: :footmen
+  :men: 2000
+- :leader: Lord Gyles Rosby
+  :blason: Blason-rosby-2014-v01-256px.png
+  :name: Rosby
+  :allegence: Port-Réal
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Renfred Rykker
+  :blason: Blason-rykker-2014-v01-256px.png
+  :name: Rykker
+  :allegence: Port-Réal
+  :kind: :knights
+  :men: 1000

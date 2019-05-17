@@ -55,7 +55,7 @@ class HouseTreeBuilder
 
     return if family == 'Port-Réal'
 
-    p family
+    # p family
 
     @h_db[family][:faction] = faction
     @factions[faction] ||= []
