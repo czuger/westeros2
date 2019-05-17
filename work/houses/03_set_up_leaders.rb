@@ -2,7 +2,6 @@ require 'yaml'
 require 'pp'
 
 KNOWN_HOUSES = { 'Stark' => ['King Robb Stark'], 'Martell' => ['Prince Oberyn Martell'] }
-# HOUSES_PRIORITIES = { 'Stark': 100, 'Martell': 100 }
 
 h_db = YAML.load_file('db.yaml')
 

@@ -1,6 +1,8 @@
 require 'yaml'
 require 'pp'
 
+UNWANTED_HOUSES = %w( Baelish Mormont )
+
 h_db = YAML.load_file('db.yaml')
 
 h_db.each do |k, h|
@@ -16,7 +18,7 @@ h_db.each do |k, h|
     h_db.delete(k)
   end
 
-  if h[:name] == 'Mormont'
+  if UNWANTED_HOUSES.include?( h[:name] )
     h_db.delete(k)
   end
 
