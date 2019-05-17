@@ -105,19 +105,6 @@ Manderly:
   - Lord Wyman Manderly
   - Ser Marlon Manderly
   :faction: Stark
-Mormont:
-  :name: Mormont
-  :vo: Mormont
-  :location: Île-aux-Ours
-  :rang: Maison noble
-  :vassal_of: Stark
-  :blason: Blason-mormont-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Mormont
-  :lord: Jeor Mormont
-  :ser: 
-  :leaders:
-  - Lord Jeor Mormont
-  :faction: Stark
 Omble:
   :name: Omble
   :vo: Umber

@@ -16,6 +16,11 @@ h_db.each do |k, h|
     h_db.delete(k)
   end
 
+  if h[:name] == 'Mormont'
+    h_db.delete(k)
+  end
+
+
 end
 
 File.open('db2.yaml', 'w') do |f|

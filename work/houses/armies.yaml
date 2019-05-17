@@ -60,15 +60,15 @@ Stark:
   :allegence: Stark
   :kind: :knights
   :men: 1000
-- :leader: Lord Jeor Mormont
-  :blason: Blason-mormont-2014-v01-256px.png
-  :name: Mormont
-  :allegence: Stark
-  :kind: :knights
-  :men: 1000
 - :leader: Lord Jon Omble
   :blason: Blason-omble-2014-v01-256px.png
   :name: Omble
+  :allegence: Stark
+  :kind: :knights
+  :men: 1000
+- :leader: Lord Rodrik Ryswell
+  :blason: Blason-ryswell-2014-v01-256px.png
+  :name: Ryswell
   :allegence: Stark
   :kind: :knights
   :men: 1000
