@@ -6,9 +6,9 @@ module Alliances
     setup do
       @g_game_board = create( :g_game_board )
 
-      @stark = FactoryGirl.create( :stark )
-      @lannister = FactoryGirl.create( :lannister )
-      @greyjoy = FactoryGirl.create( :greyjoy )
+      @stark = FactoryBot.create( :stark )
+      @lannister = FactoryBot.create( :lannister )
+      @greyjoy = FactoryBot.create( :greyjoy )
 
       @g_game_board.declare_major_houses( @stark )
       @g_game_board.create_alliance( @stark, @greyjoy, 10 )

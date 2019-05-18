@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby '2.4.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
@@ -36,12 +37,12 @@ gem 'haml-rails'
 gem 'rhex'
 
 # To be removed when the deprecation warning issue will be solved (https://github.com/rails/sass-rails/issues/381)
-gem 'sprockets', '3.6.3'
+# gem 'sprockets', '3.6.3'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
-  gem 'factory_girl_rails', '~> 4.0'
+  gem 'factory_bot_rails', '~> 4.0'
 end
 
 gem 'simplecov', :require => false, :group => :test

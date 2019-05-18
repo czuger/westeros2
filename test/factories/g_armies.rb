@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :g_army do
     g_game_board nil
     h_house nil

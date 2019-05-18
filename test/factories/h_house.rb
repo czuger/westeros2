@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :h_house do
     factory :stark do
       code_name :stark

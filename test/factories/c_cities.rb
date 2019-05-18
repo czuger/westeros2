@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :c_city do
     code_name "winterfell"
     q 1

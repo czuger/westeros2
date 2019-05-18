@@ -4,9 +4,9 @@ module Alliances
   class BetsControllerTest < ActionController::TestCase
 
     setup do
-      @gb = FactoryGirl.create( :g_game_board )
-      @stark = FactoryGirl.create( :stark )
-      @lannister = FactoryGirl.create( :lannister )
+      @gb = FactoryBot.create( :g_game_board )
+      @stark = FactoryBot.create( :stark )
+      @lannister = FactoryBot.create( :lannister )
       @gb.declare_major_houses( @stark )
       @gb.declare_minor_houses( @lannister )
     end
