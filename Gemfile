@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'haml-rails'
+gem 'haml-rails', '~> 1.0'
 # gem 'quiet_assets'
 # gem 'rhex'
 gem 'rhex'

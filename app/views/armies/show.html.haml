@@ -1,0 +1,15 @@
+%table
+  - @army.each do |banner|
+    %tr
+      %td
+        = banner.leader
+      %td
+        = banner.name
+      %td
+        = image_tag( 'blasons/' + banner.blason )
+      %td
+        = banner.kind
+      %td
+        = banner.men
+      %td
+        = link_to banner.link, banner.link, target: '_blank'

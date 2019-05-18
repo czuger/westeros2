@@ -1,0 +1,7 @@
+%table
+  - @armies.keys.each do |key|
+    %tr
+      %td
+        = key
+      %td
+        = link_to key, army_path( key )
