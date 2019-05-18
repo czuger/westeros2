@@ -274,8 +274,7 @@ Tully:
   :lord: Hoster Tully
   :ser: Brynden Tully
   :leaders:
-  - Lord Hoster Tully
-  - Ser Brynden Tully
+  - Lord Edmure Tully
   :faction: Tully
 Beurpuits:
   :name: Beurpuits
@@ -522,19 +521,6 @@ Foin:
   :leaders:
   - Ser Leslyn Foin
   :faction: Tully
-Guède:
-  :name: Guède
-  :vo: Wode
-  :location: 
-  :rang: Chevalier fieffé
-  :vassal_of: Whent
-  :blason: Blason-guede-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Gu%C3%A8de
-  :lord: 
-  :ser: Willis Gu
-  :leaders:
-  - Ser Willis Gu
-  :faction: Tully
 Paege:
   :name: Paege
   :vo: Paege
@@ -611,8 +597,7 @@ Arryn:
   :lord: Jon Arryn
   :ser: Rymond Arryn
   :leaders:
-  - Lord Jon Arryn
-  - Ser Rymond Arryn
+  - Lord Harrold Hardyng
   :faction: Arryn
 Belmore:
   :name: Belmore
@@ -667,20 +652,6 @@ Lynderly:
   :ser: 
   :leaders:
   - Lord Jon Lynderly
-  :faction: Arryn
-Royce de Roches-aux-runes:
-  :name: Royce de Roches-aux-runes
-  :vo: Royce
-  :location: Roches-aux-runes
-  :rang: maison noble
-  :vassal_of: Arryn
-  :blason: Blason-royce-roches-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Royce
-  :lord: Yohn Royce
-  :ser: Andar Royce
-  :leaders:
-  - Lord Yohn Royce
-  - Ser Andar Royce
   :faction: Arryn
 Vanbois:
   :name: Vanbois
@@ -773,19 +744,6 @@ Templeton:
   :leaders:
   - Ser Symond Templeton
   :faction: Arryn
-Montmarri:
-  :name: Montmarri
-  :vo: Ruthermont
-  :location: 
-  :rang: 
-  :vassal_of: Arryn
-  :blason: Blason-ruthermont-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Montmarri
-  :lord: Montmarri qui
-  :ser: 
-  :leaders:
-  - Lord Montmarri qui
-  :faction: Arryn
 Moore:
   :name: Moore
   :vo: Moore
@@ -823,8 +781,7 @@ Baratheon:
   :lord: Stannis Baratheon
   :ser: Davos Baratheon
   :leaders:
-  - Lord Stannis Baratheon
-  - Ser Davos Baratheon
+  - Lord Renly Baratheon
   :faction: Baratheon
 Castelfoyer:
   :name: Castelfoyer
@@ -960,19 +917,6 @@ Gaunt:
   :leaders:
   - Ser Gwayne Gaunt
   :faction: Port-Réal
-Langward:
-  :name: Langward
-  :vo: Langward
-  :location: 
-  :rang: 
-  :vassal_of: Port-Réal
-  :blason: Blason-langward-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Longegarde
-  :lord: 
-  :ser: Harrold Longegarde
-  :leaders:
-  - Ser Harrold Longegarde
-  :faction: Port-Réal
 Massey:
   :name: Massey
   :vo: Massey
@@ -1082,19 +1026,6 @@ Farman:
   :leaders:
   - Lord Sebaston Farman
   :faction: Lannister
-Fléaufort:
-  :name: Fléaufort
-  :vo: Banefort
-  :location: Fléaufort
-  :rang: Maison noble
-  :vassal_of: Lannister
-  :blason: Blason-fleaufort-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fl%C3%A9aufort
-  :lord: Quenten Fl
-  :ser: 
-  :leaders:
-  - Lord Quenten Fl
-  :faction: Lannister
 Jast:
   :name: Jast
   :vo: Jast
@@ -1190,45 +1121,6 @@ Sarwyck:
   - Lord Raynald Sarwyck
   - Ser Alester Sarwyck
   :faction: Lannister
-Clegane:
-  :name: Clegane
-  :vo: Clegane
-  :location: 
-  :rang: chevalier fieffé
-  :vassal_of: Lannister
-  :blason: Blason-clegane-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Clegane
-  :lord: 
-  :ser: Gregor Clegane
-  :leaders:
-  - Ser Gregor Clegane
-  :faction: Lannister
-Cuillêtre:
-  :name: Cuillêtre
-  :vo: Hetherspoon
-  :location: 
-  :rang: chevalier fieffé
-  :vassal_of: Lannister
-  :blason: Blason-cuilletre-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cuill%C3%AAtre
-  :lord: 
-  :ser: Tybolt Cuill
-  :leaders:
-  - Ser Tybolt Cuill
-  :faction: Lannister
-Lépicier:
-  :name: Lépicier
-  :vo: Spicer
-  :location: Castamere (AFFC)
-  :rang: Chevalier fieffé
-  :vassal_of: Lannister
-  :blason: Blason-lepicier-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_L%C3%A9picier
-  :lord: 
-  :ser: Rolph L
-  :leaders:
-  - Ser Rolph L
-  :faction: Lannister
 Lorch:
   :name: Lorch
   :vo: Lorch
@@ -1307,19 +1199,6 @@ Doguette:
   :leaders:
   - Ser Joffrey Doguette
   :faction: Lannister
-Fallières:
-  :name: Fallières
-  :vo: Falwell
-  :location: 
-  :rang: 
-  :vassal_of: Lannister
-  :blason: Blason-falwell-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Falli%C3%A8res
-  :lord: Rupert Falli
-  :ser: 
-  :leaders:
-  - Lord Rupert Falli
-  :faction: Lannister
 Garner:
   :name: Garner
   :vo: Garner
@@ -1345,32 +1224,6 @@ Geneste:
   :ser: Benedict Geneste
   :leaders:
   - Ser Benedict Geneste
-  :faction: Lannister
-Payne:
-  :name: Payne
-  :vo: Payne
-  :location: 
-  :rang: 
-  :vassal_of: Lannister
-  :blason: Blason-payne-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Payne
-  :lord: 
-  :ser: Ilyn Payne
-  :leaders:
-  - Ser Ilyn Payne
-  :faction: Lannister
-Pièdre:
-  :name: Pièdre
-  :vo: Foote
-  :location: Séréna (ACOK)
-  :rang: 
-  :vassal_of: Lannister
-  :blason: Blason-piedre-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Pi%C3%A8dre
-  :lord: 
-  :ser: Philip Pi
-  :leaders:
-  - Ser Philip Pi
   :faction: Lannister
 Sarschamp:
   :name: Sarschamp
@@ -1687,19 +1540,6 @@ Caswell:
   - Lord Lorent Caswell
   - Ser Cleyton Caswell
   :faction: Tyrell
-Cendregué:
-  :name: Cendregué
-  :vo: 'AshfordAutre traduction : Sorbier'
-  :location: Cendregué
-  :rang: maison noble
-  :vassal_of: Tyrell
-  :blason: Blason-cendregue-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Cendregu%C3%A9
-  :lord: 
-  :ser: Alyn Cendregu
-  :leaders:
-  - Ser Alyn Cendregu
-  :faction: Tyrell
 Chantecoq:
   :name: Chantecoq
   :vo: Cockshaw
@@ -1753,20 +1593,6 @@ Cuy:
   :leaders:
   - Lord Branston Cuy
   - Ser Emmon Cuy
-  :faction: Tyrell
-des Essaims:
-  :name: des Essaims
-  :vo: Beesbury
-  :location: Mielbois
-  :rang: maison noble
-  :vassal_of: Hightower
-  :blason: Blason-desessaims-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_des_Essaims
-  :lord: Warryn des
-  :ser: Bertram des
-  :leaders:
-  - Lord Warryn des
-  - Ser Bertram des
   :faction: Tyrell
 Florent:
   :name: Florent
@@ -1823,19 +1649,6 @@ Mullendore:
   - Lord Martyn Mullendore
   - Ser Mark Mullendore
   :faction: Tyrell
-de la Nouë:
-  :name: de la Nouë
-  :vo: Meadows
-  :location: Herbeval
-  :rang: Maison noble
-  :vassal_of: Tyrell
-  :blason: Blason-delanoue-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_de_la_Nou%C3%AB
-  :lord: Elbois de
-  :ser: 
-  :leaders:
-  - Lord Elbois de
-  :faction: Tyrell
 Peake:
   :name: Peake
   :vo: Peake
@@ -1876,20 +1689,6 @@ Risley:
   :ser: Eden Risley
   :leaders:
   - Ser Eden Risley
-  :faction: Tyrell
-du Rouvre:
-  :name: du Rouvre
-  :vo: Oakheart
-  :location: Vieux Rouvre
-  :rang: Maison noble
-  :vassal_of: Tyrell
-  :blason: Blason-durouvre-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_du_Rouvre
-  :lord: Edgerran du
-  :ser: Arys du
-  :leaders:
-  - Lord Edgerran du
-  - Ser Arys du
   :faction: Tyrell
 Rowan:
   :name: Rowan
@@ -1945,19 +1744,6 @@ Varnier:
   :leaders:
   - Lord Steffon Varnier
   :faction: Tyrell
-Vouyvère:
-  :name: Vouyvère
-  :vo: Vyrwel
-  :location: Darkdell
-  :rang: maison noble
-  :vassal_of: Tyrell
-  :blason: Blason-vouyvere-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Vouyv%C3%A8re
-  :lord: et lady
-  :ser: 
-  :leaders:
-  - Lord et lady
-  :faction: Tyrell
 Chester:
   :name: Chester
   :vo: Chester
@@ -1983,47 +1769,6 @@ Grimm:
   :ser: 
   :leaders:
   - Lord Guthor Grimm
-  :faction: Tyrell
-Houëtt:
-  :name: Houëtt
-  :vo: Hewett
-  :location: Houëttlord, sur l'île de Bouclier de Chêne
-  :rang: Maison Noble
-  :vassal_of: Tyrell
-  :blason: Blason-houett-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Hou%C3%ABtt
-  :lord: Humfrey Hou
-  :ser: Glendon Hou
-  :leaders:
-  - Lord Humfrey Hou
-  - Ser Glendon Hou
-  :faction: Tyrell
-Fossovoie pomme-rouge:
-  :name: Fossovoie pomme-rouge
-  :vo: Fossoway
-  :location: Cidre
-  :rang: chevalier fieffé
-  :vassal_of: Tyrell
-  :blason: Blason-fossovoie-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-rouge
-  :lord: Owen Fossovoie
-  :ser: Bryan Fossovoie
-  :leaders:
-  - Lord Owen Fossovoie
-  - Ser Bryan Fossovoie
-  :faction: Tyrell
-Fossovoie pomme-verte:
-  :name: Fossovoie pomme-verte
-  :vo: Fossoway
-  :location: La Tonnelle
-  :rang: Chevalier fieffé
-  :vassal_of: Tyrell
-  :blason: Blason-fossovoie-alt-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Fossovoie_pomme-verte
-  :lord: 
-  :ser: Jon Fossovoie
-  :leaders:
-  - Ser Jon Fossovoie
   :faction: Tyrell
 Hunt:
   :name: Hunt
@@ -2104,19 +1849,6 @@ Brousse:
   :leaders:
   - Ser Ben Brousse
   :faction: Tyrell
-Le Charpentier:
-  :name: Le Charpentier
-  :vo: Woodwright
-  :location: 
-  :rang: 
-  :vassal_of: Tyrell
-  :blason: Blason-lecharpentier-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Le_Charpentier
-  :lord: 
-  :ser: Portifer Le
-  :leaders:
-  - Ser Portifer Le
-  :faction: Tyrell
 Graceford:
   :name: Graceford
   :vo: Graceford
@@ -2142,32 +1874,6 @@ Milopin:
   :ser: Owen Milopin
   :leaders:
   - Ser Owen Milopin
-  :faction: Tyrell
-Nègrebar:
-  :name: Nègrebar
-  :vo: Blackbar
-  :location: Bandallon
-  :rang: 
-  :vassal_of: Tyrell
-  :blason: Blason-negrebar-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_N%C3%A8grebar
-  :lord: 
-  :ser: Leo N
-  :leaders:
-  - Ser Leo N
-  :faction: Tyrell
-Norridge:
-  :name: Norridge
-  :vo: Norridge
-  :location: 
-  :rang: 
-  :vassal_of: Tyrell
-  :blason: Blason-norridge-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_Norridge
-  :lord: 
-  :ser: Theodore Tyrell
-  :leaders:
-  - Ser Theodore Tyrell
   :faction: Tyrell
 Oldflowers:
   :name: Oldflowers
@@ -2343,19 +2049,6 @@ Uller:
   :leaders:
   - Lord Harmen Uller
   - Ser Ulwyck Uller
-  :faction: Martell
-le Voi:
-  :name: le Voi
-  :vo: Vaith
-  :location: le Voi
-  :rang: maison noble
-  :vassal_of: Martell
-  :blason: Blason-levoi-2014-v01-256px.png
-  :url: https://www.lagardedenuit.com/wiki/index.php?title=Maison_le_Voi
-  :lord: Daeron le
-  :ser: 
-  :leaders:
-  - Lord Daeron le
   :faction: Martell
 Wyl:
   :name: Wyl

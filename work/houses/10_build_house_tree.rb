@@ -4,6 +4,7 @@ require 'pp'
 class HouseTreeBuilder
 
   FAMILIES = %w( Stark Lannister Tyrell Martell Baratheon Tully Arryn Port-Réal )
+  HOUSES_PRIORITY = { 'Karstark' => 90, 'Bolton' => 80, 'Omble' => 70, 'Tarly' => 90, 'Frey' => 90, 'Torth' => 90 }
 
   def initialize
     @h_db = YAML.load_file('db2.yaml')
@@ -15,6 +16,7 @@ class HouseTreeBuilder
       set_factions f, f
     end
     delete_houses_without_faction
+    sort_houses
 
     File.open('factions.yaml', 'w') do |f|
       f.write(@factions.to_yaml)
@@ -27,6 +29,21 @@ class HouseTreeBuilder
   end
 
   private
+
+  def sort_houses
+    @factions.each do |k, v|
+      @factions[k] = v.sort_by { |e| house_priority(e, k) }.reverse
+    end
+  end
+
+  def house_priority( house, faction )
+    result = 0
+    return 100 if FAMILIES.include?(house)
+    return HOUSES_PRIORITY[house] if HOUSES_PRIORITY[house]
+    result += 30 if @h_db[house][:vassal_of] == faction
+    result += 10 if @h_db[house][:lord]
+    result
+  end
 
   def compute_reverse_vassals
     @h_db.each do |k, h|
@@ -55,7 +72,7 @@ class HouseTreeBuilder
 
     return if family == 'Port-Réal'
 
-    # p family
+    p family
 
     @h_db[family][:faction] = faction
     @factions[faction] ||= []

@@ -5,8 +5,6 @@ require 'ostruct'
 class ArmyBuilder
 
   BIG_ARMIES = %w( Stark Lannister Baratheon )
-  HOUSES_PRIORITY = { 'Karstark' => 90, 'Bolton' => 80, 'Omble' => 70, 'Tarly' => 90, 'Frey' => 90, 'Torth' => 90 }
-  FAMILIES = %w( Stark Lannister Tyrell Martell Baratheon Tully Arryn Port-Réal )
 
   def initialize
     @houses = YAML.load_file('houses.yaml')
@@ -37,7 +35,6 @@ class ArmyBuilder
       end
 
       @armies[k] = []
-      v = v.sort_by { |e| house_priority(e, k) }.reverse
 
       while footmen > 0 || knights > 0
         if footmen > 0
@@ -50,15 +47,6 @@ class ArmyBuilder
       end
     end
   end
-
-  def house_priority( house, faction )
-    return 100 if FAMILIES.include?(house)
-    return HOUSES_PRIORITY[house] if HOUSES_PRIORITY[house]
-    return 30 if @houses[house][:vassal_of] == faction
-    return 10 if @houses[house][:lord]
-    0
-  end
-
 end
 
 ArmyBuilder.new
