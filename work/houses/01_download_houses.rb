@@ -14,7 +14,7 @@ doc.xpath('//a[starts-with(@title, "Maison")]').each do |house|
 
   p File.basename(page)
   unless File.exist?( 'data/' + File.basename(page) )
-    `wget #{page}`
+    `wget "#{page}"`
     `mv index.php* data/`
   end
 
